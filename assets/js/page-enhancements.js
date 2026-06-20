@@ -45,6 +45,53 @@
     }
   }
 
+  function stripGeneratedTitleSuffix(value) {
+    var text = String(value || "").replace(/\s+/g, " ").trim();
+    if (!text) {
+      return "";
+    }
+    var parts = text.split(" ");
+    var trimCount = 0;
+    var sawDigit = false;
+    var sawLongToken = false;
+    for (var i = parts.length - 1; i >= 0; i -= 1) {
+      var token = String(parts[i] || "").replace(/[^A-Za-z0-9]/g, "");
+      if (!token || !/^[0-9A-Fa-f]{1,6}$/.test(token)) {
+        break;
+      }
+      trimCount += 1;
+      sawDigit = sawDigit || /\d/.test(token);
+      sawLongToken = sawLongToken || token.length >= 4;
+    }
+    if (trimCount >= 2 && (sawDigit || sawLongToken) && trimCount < parts.length) {
+      return parts.slice(0, parts.length - trimCount).join(" ").trim();
+    }
+    return text;
+  }
+
+  function cleanGeneratedTopicLabels() {
+    var nodes = document.querySelectorAll(
+      ".article-branch-section a, .article-branch-link-short, .sidebar-link, .sidebar-toggle"
+    );
+    Array.prototype.forEach.call(nodes, function (node) {
+      var original = String(node.textContent || "").replace(/\s+/g, " ").trim();
+      var cleaned = stripGeneratedTitleSuffix(original);
+      if (cleaned && cleaned !== original && node.childElementCount === 0) {
+        node.textContent = cleaned;
+      }
+      ["title", "aria-label", "data-sidebar-search"].forEach(function (attr) {
+        if (!node.hasAttribute || !node.hasAttribute(attr)) {
+          return;
+        }
+        var attrValue = node.getAttribute(attr);
+        var cleanedAttr = stripGeneratedTitleSuffix(attrValue);
+        if (cleanedAttr && cleanedAttr !== attrValue) {
+          node.setAttribute(attr, cleanedAttr);
+        }
+      });
+    });
+  }
+
   function isContentPageScrollResetEligible() {
     var body = document.body;
     if (!body || body.classList.contains("page-home")) {
@@ -3392,8 +3439,12 @@
       }
 
       function getSecondaryCardTitle(node) {
+        var catchyTitle = String((node && node.catchy_title) || "").replace(/\s+/g, " ").trim();
         var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
         var displayLabel = getDisplayLabel(node).replace(/\s+/g, " ").trim();
+        if (catchyTitle && normalizeCardTitleForCompare(catchyTitle) !== normalizeCardTitleForCompare(displayLabel)) {
+          return catchyTitle;
+        }
         if (!fullLabel || normalizeCardTitleForCompare(fullLabel) === normalizeCardTitleForCompare(displayLabel)) {
           return "";
         }
@@ -5359,8 +5410,13 @@
 
       function getSecondaryCardTitle(node, displayLabel) {
 
+        var catchyTitle = String((node && node.catchy_title) || "").replace(/\s+/g, " ").trim();
         var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
         var compactLabel = String(displayLabel || getDisplayLabel(node)).replace(/\s+/g, " ").trim();
+
+        if (catchyTitle && normalizeCardTitleForCompare(catchyTitle) !== normalizeCardTitleForCompare(compactLabel)) {
+          return catchyTitle;
+        }
 
         if (!fullLabel || normalizeCardTitleForCompare(fullLabel) === normalizeCardTitleForCompare(compactLabel)) {
           return "";
@@ -10021,6 +10077,7 @@
 
   function init() {
     initContentPageScrollReset();
+    cleanGeneratedTopicLabels();
     initAffiliateClickTracking();
     initScrollAnimations();
     initAnchorOffsetSync();
