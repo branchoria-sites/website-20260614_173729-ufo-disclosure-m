@@ -264,11 +264,11 @@ image: /assets/images/ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1_ra
 
 ## What the public reports showed
 
-RAND researchers analysed 101,151 public UAP reports submitted between 1998 and 2022, primarily from the National UFO Reporting Center (NUFORC), and compared them with geographic factors such as population density, airports, weather stations, military installations and military operations areas (MOAs). The study was designed to identify where reports were statistically more likely to occur rather than to determine what witnesses actually saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
+RAND researchers analysed 101,151 public UAP reports submitted between 1998 and 2022, primarily from the National UFO Reporting Center (NUFORC), and compared them with geographic factors such as population density, airports, weather stations, military installations and military operations areas (MOAs). The study was designed to identify where reports were statistically more likely to occur rather than to determine what witnesses actually saw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1_rand_military_airspa_1d00ff-Illustration-1-dark.svg" | relative_url }}" alt="Rand Military Airspa 1 D00 Ff illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1_rand_military_airspa_1d00ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1_rand_military_airspa_1d00ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The most discussed finding was that reports were more common near military operations areas. RAND found that being within roughly 30 kilometres (about 18–20 miles) of an MOA was consistently associated with higher rates of public UAP reports. Several summaries of the study described sighting rates as approximately 1.2 times higher within that distance than farther away. RAND Corporation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.c4isrnet.com/news/your-military/2023/10/19/pentagon-ups-number-of-analyzed-ufo-reports-none-a-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">pentagon ups number of analyzed ufo reports none a threat</span><span class="citation-popover-snippet">Pentagon ups number of analyzed UFO reports, none a...19 Oct 2023 — Using a publicly available database, RAND Corporation researchers fo...</span></span></span>
+The most discussed finding was that reports were more common near military operations areas. RAND found that being within roughly 30 kilometres (about 18–20 miles) of an MOA was consistently associated with higher rates of public UAP reports. Several summaries of the study described sighting rates as approximately 1.2 times higher within that distance than farther away. RAND Corporation<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.c4isrnet.com/news/your-military/2023/10/19/pentagon-ups-number-of-analyzed-ufo-reports-none-a-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">pentagon ups number of analyzed ufo reports none a threat</span><span class="citation-popover-snippet">Pentagon ups number of analyzed UFO reports, none a...19 Oct 2023 — Using a publicly available database, RAND Corporation researchers fo...</span></span></span>
 
 Just as important were the findings that did not fit a simple “military equals UFOs” narrative:
 
@@ -278,22 +278,22 @@ Just as important were the findings that did not fit a simple “military equals
 * The relationship between reports and nearby military installations was inconsistent.
 * Reports were less likely near civilian airports.
 * Reports were less likely near weather stations.
-* Densely populated areas generally produced lower reporting rates than many rural areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
+* Densely populated areas generally produced lower reporting rates than many rural areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
 
 </div>
 
-These results matter because they show that the military-airspace correlation was specific rather than universal. If military facilities alone generated sightings, one would expect strong correlations with bases and installations generally. Instead, the strongest relationship appeared around airspace used for military flying activities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
+These results matter because they show that the military-airspace correlation was specific rather than universal. If military facilities alone generated sightings, one would expect strong correlations with bases and installations generally. Instead, the strongest relationship appeared around airspace used for military flying activities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lYVxRHk258g" title="More Evidence for UAPs! Scientists Afraid to Speak Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lYVxRHk258g" target="_blank" rel="noopener noreferrer">More Evidence for UAPs! Scientists Afraid to Speak Out</a></p><p class="youtube-embed-meta">Channel: Sabine Hossenfelder &middot; Views: 376.8K &middot; Uploaded: March 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lYVxRHk258g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lYVxRHk258g">Open on YouTube</a></p></div></div></div>
 
 ## Why military operations areas matter
 
-Military operations areas are designated sections of airspace where military aircraft conduct training activities such as air combat manoeuvres, intercept practice and low-altitude tactical flying. Many are located away from major population centres and are not always visibly connected to a nearby military base. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
+Military operations areas are designated sections of airspace where military aircraft conduct training activities such as air combat manoeuvres, intercept practice and low-altitude tactical flying. Many are located away from major population centres and are not always visibly connected to a nearby military base.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
 
-That distinction helps explain RAND’s findings. A civilian living near an airport sees aircraft every day and may become accustomed to recognising ordinary aviation activity. By contrast, a civilian near an MOA may occasionally witness unusual flight profiles, high-speed manoeuvres, military formations, flares, [drones]({{ 'drones/' | relative_url }}) or aircraft operating under conditions rarely seen in commercial aviation. These activities can appear unexpected even when entirely routine from a military perspective. RAND Corporation AeroTime RAND researchers explicitly suggested that lack of public awareness about nearby military aviation activity could contribute to elevated repo <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aerotime.aero/articles/public-reporting-system-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerotime.aero">[aerotime.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerotime.aero</span><span class="citation-popover-title">public reporting system for uap sightings</span><span class="citation-popover-snippet">RAND urges US to develop public reporting system for UAP4 Aug 2023 — During the research, they found that UAP sightings were more...</span></span></span> rting rates. In other words, some hotspots may emerge not because something extraordinary is occurring, but because observers are encountering aircraft and operations that fall outside their everyday expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aerotime.aero/articles/public-reporting-system-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerotime.aero">[AeroTime]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerotime.aero</span><span class="citation-popover-title">public reporting system for uap sightings</span><span class="citation-popover-snippet">RAND urges US to develop public reporting system for UAP4 Aug 2023 — During the research, they found that UAP sightings were more...</span></span></span>
+That distinction helps explain RAND’s findings. A civilian living near an airport sees aircraft every day and may become accustomed to recognising ordinary aviation activity. By contrast, a civilian near an MOA may occasionally witness unusual flight profiles, high-speed manoeuvres, military formations, flares, [drones]({{ 'drones/' | relative_url }}) or aircraft operating under conditions rarely seen in commercial aviation. These activities can appear unexpected even when entirely routine from a military perspective. RAND Corporation AeroTime RAND researchers explicitly suggested that lack of public awareness about nearby military aviation activity could contribute to elevated repo<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aerotime.aero/articles/public-reporting-system-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerotime.aero">[aerotime.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerotime.aero</span><span class="citation-popover-title">public reporting system for uap sightings</span><span class="citation-popover-snippet">RAND urges US to develop public reporting system for UAP4 Aug 2023 — During the research, they found that UAP sightings were more...</span></span></span> rting rates. In other words, some hotspots may emerge not because something extraordinary is occurring, but because observers are encountering aircraft and operations that fall outside their everyday expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aerotime.aero/articles/public-reporting-system-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerotime.aero">[AeroTime]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerotime.aero</span><span class="citation-popover-title">public reporting system for uap sightings</span><span class="citation-popover-snippet">RAND urges US to develop public reporting system for UAP4 Aug 2023 — During the research, they found that UAP sightings were more...</span></span></span>
 
-This interpretation fits a broader pattern seen in later Pentagon and All-domain Anomaly Resolution Office (AARO) reporting. Officials have repeatedly noted concentrations of reports near military assets and sensors while also emphasising reporting practices, observer exposure and collection biases when interpreting those patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — This report covers UAP from May 1, 2023, to June... AARO co...</span><span class="citation-popover-meta">Published: May 1, 2023</span></span></span>
+This interpretation fits a broader pattern seen in later Pentagon and All-domain Anomaly Resolution Office (AARO) reporting. Officials have repeatedly noted concentrations of reports near military assets and sensors while also emphasising reporting practices, observer exposure and collection biases when interpreting those patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — This report covers UAP from May 1, 2023, to June... AARO co...</span><span class="citation-popover-meta">Published: May 1, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1_rand_military_airspa_1d00ff-Illustration-2-dark.svg" | relative_url }}" alt="Rand Military Airspa 1 D00 Ff illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1_rand_military_airspa_1d00ff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1_rand_military_airspa_1d00ff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,9 +309,9 @@ A hotspot map shows where reports occur, not necessarily where unusual objects o
 
 **Reporting bias.** Some communities may be more likely to submit reports to organisations such as NUFORC.
 
-**Observation bias.** Rural skies often offer darker conditions and fewer visual obstructions, increasing opportunities to notice unusual lights or aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
+**Observation bias.** Rural skies often offer darker conditions and fewer visual obstructions, increasing opportunities to notice unusual lights or aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
 
-The RAND findings therefore highlight a common challenge in UFO research: a correlation between sightings and a location does not automatically reveal the cause of the sightings. A military-airspace cluster can be consistent with secret aircraft, conventional military activity, foreign surveillance systems, misidentifications, or a mixture of several factors. The map alone cannot distinguish among them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
+The RAND findings therefore highlight a common challenge in UFO research: a correlation between sightings and a location does not automatically reveal the cause of the sightings. A military-airspace cluster can be consistent with secret aircraft, conventional military activity, foreign surveillance systems, misidentifications, or a mixture of several factors. The map alone cannot distinguish among them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7Grseeycor4" title="Tyler Cowen: Economic Growth &amp; the Fight Against Conformity &amp; Mediocrity | Lex Fridman Podcast #174" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7Grseeycor4" target="_blank" rel="noopener noreferrer">Tyler Cowen: Economic Growth &amp; the Fight Against Conformity &amp; Mediocrity | Lex Fridman Podcast #174</a></p><p class="youtube-embed-meta">Channel: Lex Fridman &middot; Views: 315.6K &middot; Uploaded: April 2021</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7Grseeycor4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7Grseeycor4">Open on YouTube</a></p></div></div></div>
@@ -332,11 +332,11 @@ When examining a sighting hotspot, several questions become important:
 2. Does the area have unusual visibility conditions, such as dark rural skies?
 3. Are there local reporting cultures or organisations that increase report volume?
 4. Is the pattern stable over time or driven by a small number of reporting bursts?
-5. Does the hotspot remain significant after accounting for population and observation opportunities? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
+5. Does the hotspot remain significant after accounting for population and observation opportunities?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
 
 </div>
 
-RAND's analysis demonstrates that geography alone can create misleading impressions. A map with dense clusters near military airspace may look dramatic, yet the underlying explanation could be entirely mundane. Conversely, dismissing all such clusters would also be a mistake, because military airspace is precisely where unusual aircraft, surveillance platforms and genuine security concerns are most likely to appear. The map identifies locations worthy of scrutiny; it does not by itself determine what was seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
+RAND's analysis demonstrates that geography alone can create misleading impressions. A map with dense clusters near military airspace may look dramatic, yet the underlying explanation could be entirely mundane. Conversely, dismissing all such clusters would also be a mistake, because military airspace is precisely where unusual aircraft, surveillance platforms and genuine security concerns are most likely to appear. The map identifies locations worthy of scrutiny; it does not by itself determine what was seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1_rand_military_airspa_1d00ff-Illustration-3-dark.svg" | relative_url }}" alt="Rand Military Airspa 1 D00 Ff illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1_rand_military_airspa_1d00ff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1_rand_military_airspa_1d00ff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,197 +344,197 @@ RAND's analysis demonstrates that geography alone can create misleading impressi
 
 For discussions about UFO disclosure, RAND’s findings occupy an important middle ground. They neither validate extraordinary claims nor eliminate the possibility that some reports involve genuinely unidentified objects. Instead, they show how public sighting databases can be shaped by the geography of military aviation and by the behaviour of observers.
 
-The key lesson is that a military-airspace pattern is not meaningless, but neither is it decisive. Maps can reveal where reports cluster, yet understanding why they cluster requires additional evidence beyond location alone. RAND’s work therefore serves as a caution against treating hotspot maps as direct evidence of non-human technology while also reminding investigators that concentrations around military operating areas deserve careful examination rather than automatic dismissal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
+The key lesson is that a military-airspace pattern is not meaningless, but neither is it decisive. Maps can reveal where reports cluster, yet understanding why they cluster requires additional evidence beyond location alone. RAND’s work therefore serves as a caution against treating hotspot maps as direct evidence of non-human technology while also reminding investigators that concentrations around military operating areas deserve careful examination rather than automatic dismissal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Rand Military Airspa 1 D00 Ff. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Rand Military Airspa 1 D00 Ff. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="rand-military-airspa-1-d00-ff-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rand-public-reports-and-military-airspace-bias-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="rand-public-reports-and-military-airspace-bias-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ The key lesson is that a military-airspace pattern is not meaningless, but neith
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ The key lesson is that a military-airspace pattern is not meaningless, but neith
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ The key lesson is that a military-airspace pattern is not meaningless, but neith
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ The key lesson is that a military-airspace pattern is not meaningless, but neith
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ The key lesson is that a military-airspace pattern is not meaningless, but neith
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,125 +740,125 @@ The key lesson is that a military-airspace pattern is not meaningless, but neith
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</p></details>
+   Link:<a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified...25 Jul 2023 — In this report, RAND researchers present a geogr...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rand.org  
    Title: RAND RRA2475 1  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center (NUFORC), one of the nongovernmental entities that the Federal. Aviation...Read more...</p></details>
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center (NUFORC), one of the nongovernmental entities that the Federal. Aviation...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationUFOs Are Not the Only Potential Threat in American SkiesJuly 25, 2023 — 25 Jul 2023 — Being within about 20 miles of a mi...</p></details>
+   Link:<a href="https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationUFOs Are Not the Only Potential Threat in American SkiesJuly 25, 2023 — 25 Jul 2023 — Being within about 20 miles of a mi...</p></details>
    Published: July 25, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: c4isrnet.com  
    Title: pentagon ups number of analyzed ufo reports none a threat  
-   Link: <a href="https://www.c4isrnet.com/news/your-military/2023/10/19/pentagon-ups-number-of-analyzed-ufo-reports-none-a-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/news/your-military/2023/10/19/pentagon-ups-number-of-analyzed-ufo-reports-none-a-threat/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon ups number of analyzed UFO reports, none a...19 Oct 2023 — Using a publicly available database, RAND Corporation researchers fo...</p></details>
+   Link:<a href="https://www.c4isrnet.com/news/your-military/2023/10/19/pentagon-ups-number-of-analyzed-ufo-reports-none-a-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/news/your-military/2023/10/19/pentagon-ups-number-of-analyzed-ufo-reports-none-a-threat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon ups number of analyzed UFO reports, none a...19 Oct 2023 — Using a publicly available database, RAND Corporation researchers fo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rand.org  
    Title: not the x files  
-   Link: <a href="https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationNSRD Up Front21 Dec 2023 — What factors predicted the likelihood of UAP sightings? Most UAP sightings were reported withi...</p></details>
+   Link:<a href="https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationNSRD Up Front21 Dec 2023 — What factors predicted the likelihood of UAP sightings? Most UAP sightings were reported withi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aerotime.aero  
    Title: public reporting system for uap sightings  
-   Link: <a href="https://www.aerotime.aero/articles/public-reporting-system-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotime.aero/articles/public-reporting-system-for-uap-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND urges US to develop public reporting system for UAP4 Aug 2023 — During the research, they found that UAP sightings were more...</p></details>
+   Link:<a href="https://www.aerotime.aero/articles/public-reporting-system-for-uap-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotime.aero/articles/public-reporting-system-for-uap-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND urges US to develop public reporting system for UAP4 Aug 2023 — During the research, they found that UAP sightings were more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — This report covers UAP from May 1, 2023, to June... AARO co...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — This report covers UAP from May 1, 2023, to June... AARO co...</p></details>
    Published: May 1, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military tests? Experimental Boeing/...Read more...</p></details>
+   Link:<a href="https://nuforc.org/spatial/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/spatial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military tests? Experimental Boeing/...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2023, to June 1, 2024, as well as any UAP report from previous time periods that were not...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2023, to June 1, 2024, as well as any UAP report from previous time periods that were not...</p></details>
    Published: May 1, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=KWyq59l0Sk0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KWyq59l0Sk0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND corporation unidentified aerial phenomena Pentagon set to release government UFO reports Fox News...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=KWyq59l0Sk0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KWyq59l0Sk0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND corporation unidentified aerial phenomena Pentagon set to release government UFO reports Fox News...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385961112_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Form_and_Location_Centric_Abundance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385961112_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Form_and_Location_Centric_Abundance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Unidentified Anomalous Phenomena (UAP): Orb...20 Nov 2024 — Many reports have been discounted as misidentification of known craft...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385961112_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Form_and_Location_Centric_Abundance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385961112_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Form_and_Location_Centric_Abundance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Unidentified Anomalous Phenomena (UAP): Orb...20 Nov 2024 — Many reports have been discounted as misidentification of known craft...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dodig.mil  
    Title: evaluation of the dods actions regarding unidentified anomalous phenomena dodig  
-   Link: <a href="https://www.dodig.mil/reports.html/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/" target="_blank" rel="noopener noreferrer nofollow">https://www.dodig.mil/reports.html/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of the DoD&#x27;s Actions Regarding Unidentified...15 Aug 2023 — The Department of Defense Office of Inspector General (DoD OIG) r...</p></details>
+   Link:<a href="https://www.dodig.mil/reports.html/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/" target="_blank" rel="noopener noreferrer nofollow">https://www.dodig.mil/reports.html/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of the DoD&#x27;s Actions Regarding Unidentified...15 Aug 2023 — The Department of Defense Office of Inspector General (DoD OIG) r...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: armytimes.com  
    Title: ufo sightings linked to military training locations report finds  
-   Link: <a href="https://www.armytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/?contentFeatureId=f0fmoahPVC2AbfL-2-1-8&amp;contentQuery=%7B%22includeSections%22%3A%22%2Fhome%22%2C%22excludeSections%22%3A%22%22%2C%22feedSize%22%3A10%2C%22feedOffset%22%3A1465%7D" target="_blank" rel="noopener noreferrer nofollow">https://www.armytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/?contentFeatureId=f0fmoahPVC2AbfL-2-1-8&amp;contentQuery=%7B%22includeSections%22%3A%22%2Fhome%22%2C%22excludeSections%22%3A%22%22%2C%22feedSize%22%3A10%2C%22feedOffset%22%3A1465%7D</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings linked to military training locations, report finds25 Jul 2023 — In their report, RAND researchers found the rate of UAP si...</p></details>
+   Link:<a href="https://www.armytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/?contentFeatureId=f0fmoahPVC2AbfL-2-1-8&amp;contentQuery=%7B%22includeSections%22%3A%22%2Fhome%22%2C%22excludeSections%22%3A%22%22%2C%22feedSize%22%3A10%2C%22feedOffset%22%3A1465%7D" target="_blank" rel="noopener noreferrer nofollow">https://www.armytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/?contentFeatureId=f0fmoahPVC2AbfL-2-1-8&amp;contentQuery=%7B%22includeSections%22%3A%22%2Fhome%22%2C%22excludeSections%22%3A%22%22%2C%22feedSize%22%3A10%2C%22feedOffset%22%3A1465%7D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings linked to military training locations, report finds25 Jul 2023 — In their report, RAND researchers found the rate of UAP si...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: militarytimes.com  
-   Link: <a href="https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings linked to military training locations, report finds25 Jul 2023 — UFO sightings linked to military training locations, repor...</p></details>
+   Link:<a href="https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/news/your-military/2023/07/25/ufo-sightings-linked-to-military-training-locations-report-finds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings linked to military training locations, report finds25 Jul 2023 — UFO sightings linked to military training locations, repor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: governing.com  
    Title: how local governments can help us better understand ufos  
-   Link: <a href="https://www.governing.com/policy/how-local-governments-can-help-us-better-understand-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.governing.com/policy/how-local-governments-can-help-us-better-understand-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Local Governments Can Help Us Better Understand...28 Jul 2023 — They can help clear the air over UFO sightings by letting residents...</p></details>
+   Link:<a href="https://www.governing.com/policy/how-local-governments-can-help-us-better-understand-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.governing.com/policy/how-local-governments-can-help-us-better-understand-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Local Governments Can Help Us Better Understand...28 Jul 2023 — They can help clear the air over UFO sightings by letting residents...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.com  
    Title: unidentified anomalous phenomena hot spots quest data  
-   Link: <a href="https://www.space.com/unidentified-anomalous-phenomena-hot-spots-quest-data" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/unidentified-anomalous-phenomena-hot-spots-quest-data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified anomalous phenomena — Hot spots and the...11 Oct 2023 — Public reporting. RELATED STORIES: — Alien mummies in Mexico? NASA&#x27;...</p></details>
+   Link:<a href="https://www.space.com/unidentified-anomalous-phenomena-hot-spots-quest-data" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/unidentified-anomalous-phenomena-hot-spots-quest-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified anomalous phenomena — Hot spots and the...11 Oct 2023 — Public reporting. RELATED STORIES: — Alien mummies in Mexico? NASA&#x27;...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: yahoo.com  
    Title: ufo sightings linked military training 141015513  
-   Link: <a href="https://www.yahoo.com/news/ufo-sightings-linked-military-training-141015513.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/ufo-sightings-linked-military-training-141015513.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings linked to military training locations, report finds25 Jul 2023 — In their report, RAND researchers found the rate of UAP si...</p></details>
+   Link:<a href="https://www.yahoo.com/news/ufo-sightings-linked-military-training-141015513.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/ufo-sightings-linked-military-training-141015513.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings linked to military training locations, report finds25 Jul 2023 — In their report, RAND researchers found the rate of UAP si...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: newyorker.com  
    Title: how the pentagon started taking ufos seriously  
-   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings had been reported, according to one independent U.F.O.... Condon, who announced long before the study was complete that U.F.O...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings had been reported, according to one independent U.F.O.... Condon, who announced long before the study was complete that U.F.O...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: yahoo.com  
    Title: pentagon ups number analyzed ufo 180248429  
-   Link: <a href="https://www.yahoo.com/news/pentagon-ups-number-analyzed-ufo-180248429.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/pentagon-ups-number-analyzed-ufo-180248429.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon ups number of analyzed UFO reports, none a...19 Oct 2023 — The number of UFO sightings analyzed by the Defense Department numbe...</p></details>
+   Link:<a href="https://www.yahoo.com/news/pentagon-ups-number-analyzed-ufo-180248429.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/pentagon-ups-number-analyzed-ufo-180248429.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon ups number of analyzed UFO reports, none a...19 Oct 2023 — The number of UFO sightings analyzed by the Defense Department numbe...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: popsci.com  
    Title: rand report uap military operations areas  
-   Link: <a href="https://www.popsci.com/technology/rand-report-uap-military-operations-areas/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/technology/rand-report-uap-military-operations-areas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceUFO-type sightings happen more often near military airspace8 Aug 2023 — The RAND study&#x27;s most concrete finding is that unk...</p></details>
+   Link:<a href="https://www.popsci.com/technology/rand-report-uap-military-operations-areas/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/technology/rand-report-uap-military-operations-areas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceUFO-type sightings happen more often near military airspace8 Aug 2023 — The RAND study&#x27;s most concrete finding is that unk...</p></details>

@@ -264,18 +264,18 @@ image: /assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe_co
 
 ## Why aviation safety systems value uncertainty
 
-Aviation safety reporting was built around a simple principle: people should report hazards even when they do not fully understand what happened. Systems such as NASA's Aviation Safety Reporting System (ASRS) are voluntary, confidential, and non-punitive. Their purpose is to capture observations before memory fades and before witnesses feel pressure to construct a definitive explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">aviation voluntary reporting programs 1</span><span class="citation-popover-snippet">Federal Aviation AdministrationAviation Voluntary Reporting Programs10 Mar 2021 — ASRS is confidential, non-punitive and is available to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asias.faa.gov/apex/f?p=100%3A43%3A%3A%3ANO%3A%3AP43_REGION_VAR%3A1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asias.faa.gov">[FAA Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asias.faa.gov</span><span class="citation-popover-title">Asia ASRS System Info Page</span><span class="citation-popover-snippet">FAA AsiaASRS System Info Page - asias.faa.govThe Aviation Safety Reporting System (ASRS) is a voluntary, confidential and non-punitive in...</span></span></span>
+Aviation safety reporting was built around a simple principle: people should report hazards even when they do not fully understand what happened. Systems such as NASA's Aviation Safety Reporting System (ASRS) are voluntary, confidential, and non-punitive. Their purpose is to capture observations before memory fades and before witnesses feel pressure to construct a definitive explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">aviation voluntary reporting programs 1</span><span class="citation-popover-snippet">Federal Aviation AdministrationAviation Voluntary Reporting Programs10 Mar 2021 — ASRS is confidential, non-punitive and is available to...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asias.faa.gov/apex/f?p=100%3A43%3A%3A%3ANO%3A%3AP43_REGION_VAR%3A1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asias.faa.gov">[FAA Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asias.faa.gov</span><span class="citation-popover-title">Asia ASRS System Info Page</span><span class="citation-popover-snippet">FAA AsiaASRS System Info Page - asias.faa.govThe Aviation Safety Reporting System (ASRS) is a voluntary, confidential and non-punitive in...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe_confidential_reporti_f574b5-Illustration-1-dark.svg" | relative_url }}" alt="Confidential Reporti F574 B5 illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe_confidential_reporti_f574b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe_confidential_reporti_f574b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That philosophy is especially relevant to UAP reports. A pilot who sees an unusual light, radar return, or airborne object may be unable to determine whether it was a drone, balloon, atmospheric effect, sensor anomaly, military activity, or something else. If reporting requires certainty, many events will never be documented. If reporting accepts uncertainty, investigators gain access to the raw observation itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+That philosophy is especially relevant to UAP reports. A pilot who sees an unusual light, radar return, or airborne object may be unable to determine whether it was a drone, balloon, atmospheric effect, sensor anomaly, military activity, or something else. If reporting requires certainty, many events will never be documented. If reporting accepts uncertainty, investigators gain access to the raw observation itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 Confidentiality changes behaviour in several ways:
 
 * It reduces fear that a report will trigger professional embarrassment.
 * It encourages reporting of borderline or ambiguous events that might otherwise be discarded.
 * It increases the likelihood of prompt reporting, preserving details while memories remain fresh.
-* It allows investigators to identify patterns across many reports rather than relying on a few dramatic cases. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerossurance.com/safety-management/nasa-asrs-40-timeliness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerossurance.com">[aerossurance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerossurance.com</span><span class="citation-popover-snippet">NASA ASRS at 40 and the Continued Challenge of...20 Apr 2016 — Thus was born the idea of a national aviation incident report...</span></span></span> The result is not necessarily more unexplained incidents. Often the opposite occurs. Better reporting can reveal ordinary [explanations]({{ 'explanations/' | relative_url }}) that would remain hidden if only the most sensational accounts were submitted. A stronger database improves both identification and elimination.
+* It allows investigators to identify patterns across many reports rather than relying on a few dramatic cases. Federal Aviation Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerossurance.com/safety-management/nasa-asrs-40-timeliness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerossurance.com">[aerossurance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerossurance.com</span><span class="citation-popover-snippet">NASA ASRS at 40 and the Continued Challenge of...20 Apr 2016 — Thus was born the idea of a national aviation incident report...</span></span></span> The result is not necessarily more unexplained incidents. Often the opposite occurs. Better reporting can reveal ordinary [explanations]({{ 'explanations/' | relative_url }}) that would remain hidden if only the most sensational accounts were submitted. A stronger database improves both identification and elimination.
 
 ## What a useful post-flight report should capture
 
@@ -294,13 +294,13 @@ For aviation-related UAP observations, the most valuable report elements include
 * Whether the object was visible to multiple crew members.
 * Whether air traffic control or other aircraft observed the same event.
 * Associated sensor information such as radar, infrared, or onboard systems.
-* Any photographs, recordings, or supporting documentation. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaauap.org/reporting/guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaauap.org">[AIAA UAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaauap.org</span><span class="citation-popover-snippet">UAP Reporting GuidanceWe are partnering with aviation leaders who support our mission to reduce UAP stigma and improve aviation safety. M...</span></span></span>
+* Any photographs, recordings, or supporting documentation. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaauap.org/reporting/guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaauap.org">[AIAA UAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaauap.org</span><span class="citation-popover-snippet">UAP Reporting GuidanceWe are partnering with aviation leaders who support our mission to reduce UAP stigma and improve aviation safety. M...</span></span></span>
 
 </div>
 
 Confidential systems help preserve these details because they encourage immediate filing. A pilot who expects scepticism may wait, minimise the event, or never report it. A pilot who trusts the reporting process is more likely to submit a detailed account while the information remains accurate.
 
-This distinction is important because many UAP investigations fail not due to a lack of witnesses but because essential contextual information was never recorded. NASA's study team noted that current UAP analysis is frequently limited by poor sensor calibration, missing metadata, absent baseline information, and incomplete observations. More systematic reporting directly addresses those weaknesses. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
+This distinction is important because many UAP investigations fail not due to a lack of witnesses but because essential contextual information was never recorded. NASA's study team noted that current UAP analysis is frequently limited by poor sensor calibration, missing metadata, absent baseline information, and incomplete observations. More systematic reporting directly addresses those weaknesses. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nM0Q-hR6vGY" title="Hair-Raising UAP Encounter Shared by Pilot - Episode 252" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nM0Q-hR6vGY" target="_blank" rel="noopener noreferrer">Hair-Raising UAP Encounter Shared by Pilot - Episode 252</a></p><p class="youtube-embed-meta">Channel: Flight Safety Detectives &middot; Views: 113.2K &middot; Uploaded: January 2025 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nM0Q-hR6vGY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nM0Q-hR6vGY">Open on YouTube</a></p></div></div></div>
@@ -313,23 +313,23 @@ Without confidentiality, the surviving reports tend to be unusual in two ways. T
 
 That creates a distorted dataset. Analysts see only the reports that overcame social and professional barriers. They do not see the larger population of mundane, uncertain, or ultimately explainable events.
 
-Confidential reporting broadens the sample. Instead of collecting only extraordinary stories, investigators receive reports spanning a wider range of observations. This allows statistical analysis, trend detection, and cross-comparison. Aviation safety systems have long relied on this principle to identify hazards that were invisible when viewed as isolated incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerossurance.com/safety-management/nasa-asrs-40-timeliness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerossurance.com">[Aerossurance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerossurance.com</span><span class="citation-popover-snippet">NASA ASRS at 40 and the Continued Challenge of...20 Apr 2016 — Thus was born the idea of a national aviation incident report...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Aviation Safety Reporting SystemASRS captures confidential reports, analyzes the resulting aviation safety data, and disseminates vital i...</span></span></span>
+Confidential reporting broadens the sample. Instead of collecting only extraordinary stories, investigators receive reports spanning a wider range of observations. This allows statistical analysis, trend detection, and cross-comparison. Aviation safety systems have long relied on this principle to identify hazards that were invisible when viewed as isolated incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerossurance.com/safety-management/nasa-asrs-40-timeliness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerossurance.com">[Aerossurance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerossurance.com</span><span class="citation-popover-snippet">NASA ASRS at 40 and the Continued Challenge of...20 Apr 2016 — Thus was born the idea of a national aviation incident report...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Aviation Safety Reporting SystemASRS captures confidential reports, analyzes the resulting aviation safety data, and disseminates vital i...</span></span></span>
 
 In practical terms, a database containing thousands of ordinary observations may be more scientifically valuable than one containing a handful of sensational cases. [Researchers]({{ 'researchers/' | relative_url }}) can compare characteristics, identify recurring explanations, and isolate the smaller subset that remains unresolved after standard analysis.
 
 ## NASA's ASRS proposal and the appeal of an existing safety network
 
-One reason NASA's 2023 UAP study attracted attention was its recommendation to consider leveraging the Aviation Safety Reporting System. ASRS already receives large volumes of aviation safety reports and operates under established confidentiality protections. The study team argued that commercial pilot UAP reporting could benefit from this existing infrastructure and create a valuable database for analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+One reason NASA's 2023 UAP study attracted attention was its recommendation to consider leveraging the Aviation Safety Reporting System. ASRS already receives large volumes of aviation safety reports and operates under established confidentiality protections. The study team argued that commercial pilot UAP reporting could benefit from this existing infrastructure and create a valuable database for analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ASRS offers several features attractive to UAP data collection:
 
-* Confidential handling of reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[asrs.arc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Aviation Safety Reporting SystemASRS captures confidential reports, analyzes the resulting aviation safety data, and disseminates vital i...</span></span></span>
+* Confidential handling of reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[asrs.arc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Aviation Safety Reporting SystemASRS captures confidential reports, analyzes the resulting aviation safety data, and disseminates vital i...</span></span></span>
 * Removal of identifying information before database entry.
 * Independence from direct enforcement functions.
 * Established [trust]({{ 'trust/' | relative_url }}) among aviation professionals.
-* Experience processing large numbers of safety-related submissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">aviation voluntary reporting programs 1</span><span class="citation-popover-snippet">Federal Aviation AdministrationAviation Voluntary Reporting Programs10 Mar 2021 — ASRS is confidential, non-punitive and is available to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/overview/confidentiality.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">More than one million reports have been submitted to date and no reporter&#x27;s identity has ever been...Read more...</span></span></span>
+* Experience processing large numbers of safety-related submissions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">aviation voluntary reporting programs 1</span><span class="citation-popover-snippet">Federal Aviation AdministrationAviation Voluntary Reporting Programs10 Mar 2021 — ASRS is confidential, non-punitive and is available to...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/overview/confidentiality.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">More than one million reports have been submitted to date and no reporter&#x27;s identity has ever been...Read more...</span></span></span>
 
-NASA's report framed the issue primarily as one of data quality and aviation safety rather than extraordinary claims. The objective was to improve collection and analysis of observations that currently fall through reporting gaps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">NASA&#x27;s long-standing public trust, which is essential for communicating findings</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/29...NASA could play an important role in destigmatizing the UAP reporting...</span></span></span>
+NASA's report framed the issue primarily as one of data quality and aviation safety rather than extraordinary claims. The objective was to improve collection and analysis of observations that currently fall through reporting gaps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">NASA&#x27;s long-standing public trust, which is essential for communicating findings</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/29...NASA could play an important role in destigmatizing the UAP reporting...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe_confidential_reporti_f574b5-Illustration-2-dark.svg" | relative_url }}" alt="Confidential Reporti F574 B5 illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe_confidential_reporti_f574b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe_confidential_reporti_f574b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -337,13 +337,13 @@ NASA's report framed the issue primarily as one of data quality and aviation saf
 
 Confidentiality improves reporting quality, but it does not solve every problem.
 
-The first limitation is verification. A confidential report may be sincere and detailed yet still lack independent confirmation. If no radar records, [sensor data]({{ 'sensor-data/' | relative_url }}), photographs, or additional witnesses exist, investigators remain constrained by the available evidence. Confidentiality improves the input but cannot manufacture missing measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot pro...</span></span></span>
+The first limitation is verification. A confidential report may be sincere and detailed yet still lack independent confirmation. If no radar records, [sensor data]({{ 'sensor-data/' | relative_url }}), photographs, or additional witnesses exist, investigators remain constrained by the available evidence. Confidentiality improves the input but cannot manufacture missing measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot pro...</span></span></span>
 
-The second limitation is standardisation. Traditional safety reporting systems were designed to document operational hazards, not necessarily anomalous aerial observations. Additional fields, procedures, and analytical frameworks may be needed to capture information specific to UAP encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+The second limitation is standardisation. Traditional safety reporting systems were designed to document operational hazards, not necessarily anomalous aerial observations. Additional fields, procedures, and analytical frameworks may be needed to capture information specific to UAP encounters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
-A third challenge involves privacy and trust. Confidential systems depend on users believing that their identities will remain protected. Maintaining that confidence requires robust procedures, especially when reports concern sensitive military, commercial, or national-security issues. ASRS has built its reputation around long-standing confidentiality protections, but expanding reporting categories would still require careful governance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/overview/immunity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Aviation Safety Reporting System - Immunity PoliciesThis advisory circular (AC) provides guidance for the submission of reports under the...</span></span></span>
+A third challenge involves privacy and trust. Confidential systems depend on users believing that their identities will remain protected. Maintaining that confidence requires robust procedures, especially when reports concern sensitive military, commercial, or national-security issues. ASRS has built its reputation around long-standing confidentiality protections, but expanding reporting categories would still require careful governance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/overview/immunity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Aviation Safety Reporting System - Immunity PoliciesThis advisory circular (AC) provides guidance for the submission of reports under the...</span></span></span>
 
-Finally, better reporting does not automatically produce extraordinary conclusions. Many reports may ultimately be identified as conventional objects, environmental effects, or sensor artefacts. From a scientific and safety perspective, however, that outcome is a success rather than a failure. The goal is a more accurate record, not a predetermined answer. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">n surrounding UFOs poses an obstacle to collecting data...</span></span></span>
+Finally, better reporting does not automatically produce extraordinary conclusions. Many reports may ultimately be identified as conventional objects, environmental effects, or sensor artefacts. From a scientific and safety perspective, however, that outcome is a success rather than a failure. The goal is a more accurate record, not a predetermined answer. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">n surrounding UFOs poses an obstacle to collecting data...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8ooljeLAPqw" title="NASA hosts briefing on UAP Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8ooljeLAPqw" target="_blank" rel="noopener noreferrer">NASA hosts briefing on UAP Study</a></p><p class="youtube-embed-meta">Channel: Juan Antonio Acevedo &middot; Views: 197 &middot; Uploaded: September 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8ooljeLAPqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8ooljeLAPqw">Open on YouTube</a></p></div></div></div>
@@ -352,7 +352,7 @@ Finally, better reporting does not automatically produce extraordinary conclusio
 
 Within aviation, the strongest argument for confidential UAP reporting is not that it uncovers hidden mysteries. It is that it transforms isolated anecdotes into structured safety information.
 
-A confidential system allows observers to report uncertainty without first resolving it. That increases participation, reduces reporting bias, preserves operational detail, and creates opportunities to correlate witness accounts with objective data sources. NASA's independent study team identified exactly this combination—reduced stigma, structured reporting, and integration with existing aviation safety mechanisms—as one of the most practical paths toward improving UAP data quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Leveraging the Aviation Safety Reporting System for commerc...</span></span></span>
+A confidential system allows observers to report uncertainty without first resolving it. That increases participation, reduces reporting bias, preserves operational detail, and creates opportunities to correlate witness accounts with objective data sources. NASA's independent study team identified exactly this combination—reduced stigma, structured reporting, and integration with existing aviation safety mechanisms—as one of the most practical paths toward improving UAP data quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Leveraging the Aviation Safety Reporting System for commerc...</span></span></span>
 
 In that sense, confidential reporting is less about protecting extraordinary claims than about protecting the integrity of the evidence collection process itself.
 
@@ -360,194 +360,194 @@ In that sense, confidential reporting is less about protecting extraordinary cla
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe_confidential_reporti_f574b5-Illustration-3-dark.svg" | relative_url }}" alt="Confidential Reporti F574 B5 illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe_confidential_reporti_f574b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe_confidential_reporti_f574b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Confidential Reporti F574 B5. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Confidential Reporti F574 B5. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="confidential-reporti-f574-b5-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="how-confidential-safety-reporting-changes-uap-data-quality-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ In that sense, confidential reporting is less about protecting extraordinary cla
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ In that sense, confidential reporting is less about protecting extraordinary cla
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ In that sense, confidential reporting is less about protecting extraordinary cla
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ In that sense, confidential reporting is less about protecting extraordinary cla
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ In that sense, confidential reporting is less about protecting extraordinary cla
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,170 +753,170 @@ In that sense, confidential reporting is less about protecting extraordinary cla
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n surrounding UFOs poses an obstacle to collecting data...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n surrounding UFOs poses an obstacle to collecting data...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: NASA's long-standing public trust, which is essential for communicating findings  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/29...NASA could play an important role in destigmatizing the UAP reporting...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/29...NASA could play an important role in destigmatizing the UAP reporting...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
    Title: aviation voluntary reporting programs 1  
-   Link: <a href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAviation Voluntary Reporting Programs10 Mar 2021 — ASRS is confidential, non-punitive and is available to...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAviation Voluntary Reporting Programs10 Mar 2021 — ASRS is confidential, non-punitive and is available to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: asias.faa.gov  
    Title: Asia ASRS System Info Page  
-   Link: <a href="https://www.asias.faa.gov/apex/f?p=100%3A43%3A%3A%3ANO%3A%3AP43_REGION_VAR%3A1" target="_blank" rel="noopener noreferrer nofollow">https://www.asias.faa.gov/apex/f?p=100%3A43%3A%3A%3ANO%3A%3AP43_REGION_VAR%3A1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA AsiaASRS System Info Page - asias.faa.govThe Aviation Safety Reporting System (ASRS) is a voluntary, confidential and non-punitive in...</p></details>
+   Link:<a href="https://www.asias.faa.gov/apex/f?p=100%3A43%3A%3A%3ANO%3A%3AP43_REGION_VAR%3A1" target="_blank" rel="noopener noreferrer nofollow">https://www.asias.faa.gov/apex/f?p=100%3A43%3A%3A%3ANO%3A%3AP43_REGION_VAR%3A1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA AsiaASRS System Info Page - asias.faa.govThe Aviation Safety Reporting System (ASRS) is a voluntary, confidential and non-punitive in...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting SystemASRS captures confidential reports, analyzes the resulting aviation safety data, and disseminates vital i...</p></details>
+   Link:<a href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting SystemASRS captures confidential reports, analyzes the resulting aviation safety data, and disseminates vital i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rev.com  
-   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot pro...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot pro...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/about/initiatives/cp" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/initiatives/cp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationCompliance Program | Federal Aviation AdministrationA &quot;just culture&quot; allows for due consideration of hones...</p></details>
+   Link:<a href="https://www.faa.gov/about/initiatives/cp" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/initiatives/cp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationCompliance Program | Federal Aviation AdministrationA &quot;just culture&quot; allows for due consideration of hones...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aerossurance.com  
-   Link: <a href="https://aerossurance.com/safety-management/nasa-asrs-40-timeliness/" target="_blank" rel="noopener noreferrer nofollow">https://aerossurance.com/safety-management/nasa-asrs-40-timeliness/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ASRS at 40 and the Continued Challenge of...20 Apr 2016 — Thus was born the idea of a national aviation incident report...</p></details>
+   Link:<a href="https://aerossurance.com/safety-management/nasa-asrs-40-timeliness/" target="_blank" rel="noopener noreferrer nofollow">https://aerossurance.com/safety-management/nasa-asrs-40-timeliness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ASRS at 40 and the Continued Challenge of...20 Apr 2016 — Thus was born the idea of a national aviation incident report...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Leveraging the Aviation Safety Reporting System for commerc...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Leveraging the Aviation Safety Reporting System for commerc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/overview/confidentiality.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/overview/confidentiality.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More than one million reports have been submitted to date and no reporter&#x27;s identity has ever been...Read more...</p></details>
+   Link:<a href="https://asrs.arc.nasa.gov/overview/confidentiality.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/overview/confidentiality.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More than one million reports have been submitted to date and no reporter&#x27;s identity has ever been...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping the future of aerospaceADDRESSING THE UNKNOWN:This opinion paper uses existing aviation safety principles to present a fra...</p></details>
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping the future of aerospaceADDRESSING THE UNKNOWN:This opinion paper uses existing aviation safety principles to present a fra...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/overview/immunity.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/overview/immunity.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting System - Immunity PoliciesThis advisory circular (AC) provides guidance for the submission of reports under the...</p></details>
+   Link:<a href="https://asrs.arc.nasa.gov/overview/immunity.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/overview/immunity.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting System - Immunity PoliciesThis advisory circular (AC) provides guidance for the submission of reports under the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/report/electronic.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/report/electronic.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report Submission (ERS)Securely send any of the following Aviation Safety reports to ASRS via the internet. For information on reporter c...</p></details>
+   Link:<a href="https://asrs.arc.nasa.gov/report/electronic.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/report/electronic.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report Submission (ERS)Securely send any of the following Aviation Safety reports to ASRS via the internet. For information on reporter c...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/uas/getting_started/asrp" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/asrp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting Program (ASRP) for UAS31 May 2022 — The FAA &#x27;s ASRP enables a non-punitive avenue for anonymous reporting. ASRS...</p></details>
+   Link:<a href="https://www.faa.gov/uas/getting_started/asrp" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/asrp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting Program (ASRP) for UAS31 May 2022 — The FAA &#x27;s ASRP enables a non-punitive avenue for anonymous reporting. ASRS...</p></details>
    Published: May 2022  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: rev.com  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e that although the argument for aviation safety is...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e that although the argument for aviation safety is...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aiaauap.org  
-   Link: <a href="https://aiaauap.org/reporting/guidance" target="_blank" rel="noopener noreferrer nofollow">https://aiaauap.org/reporting/guidance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting GuidanceWe are partnering with aviation leaders who support our mission to reduce UAP stigma and improve aviation safety. M...</p></details>
+   Link:<a href="https://aiaauap.org/reporting/guidance" target="_blank" rel="noopener noreferrer nofollow">https://aiaauap.org/reporting/guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reporting GuidanceWe are partnering with aviation leaders who support our mission to reduce UAP stigma and improve aviation safety. M...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Aviation Safety Reporting System  
-   Link: <a href="https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting SystemThe FAA extends limited immunity to individual aviation workers for reporting safety events which do n...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety Reporting SystemThe FAA extends limited immunity to individual aviation workers for reporting safety events which do n...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: en.wikibooks.org  
    Title: The Aviation Safety Reporting System  
-   Link: <a href="https://en.wikibooks.org/wiki/Professionalism/The_Aviation_Safety_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikibooks.org/wiki/Professionalism/The_Aviation_Safety_Reporting_System</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikibooks.orgProfessionalism/The Aviation Safety Reporting SystemThe ASRS is a confidential self reporting system which provides a valuab...</p></details>
+   Link:<a href="https://en.wikibooks.org/wiki/Professionalism/The_Aviation_Safety_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikibooks.org/wiki/Professionalism/The_Aviation_Safety_Reporting_System</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikibooks.orgProfessionalism/The Aviation Safety Reporting SystemThe ASRS is a confidential self reporting system which provides a valuab...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: faasafety.gov  
-   Link: <a href="https://www.faasafety.gov/files/events/EA/EA23/2010/EA2334954/NASA_Reporting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/EA/EA23/2010/EA2334954/NASA_Reporting.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASRS: The Case for Confidential Incident Reporting SystemsThe FAA provides limited immunity from disciplinary action to pilots who report...</p></details>
+   Link:<a href="https://www.faasafety.gov/files/events/EA/EA23/2010/EA2334954/NASA_Reporting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/EA/EA23/2010/EA2334954/NASA_Reporting.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASRS: The Case for Confidential Incident Reporting SystemsThe FAA provides limited immunity from disciplinary action to pilots who report...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Insights, Current Challenges, and Future DirectionsThe study of Unidentified Aerospace Phenomena (UAP) requires a shift from a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Insights, Current Challenges, and Future DirectionsThe study of Unidentified Aerospace Phenomena (UAP) requires a shift from a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: commercialuavnews.com  
-   Link: <a href="https://www.commercialuavnews.com/non-punitive-aviation-safety-reporting-systems-and-how-crucial-they-are-to-the-drone-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.commercialuavnews.com/non-punitive-aviation-safety-reporting-systems-and-how-crucial-they-are-to-the-drone-industry</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Non-Punitive Aviation Safety Reporting Systems and How...21 Mar 2025 — ASRS is confidential, non-punitive, and available to all particip...</p></details>
+   Link:<a href="https://www.commercialuavnews.com/non-punitive-aviation-safety-reporting-systems-and-how-crucial-they-are-to-the-drone-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.commercialuavnews.com/non-punitive-aviation-safety-reporting-systems-and-how-crucial-they-are-to-the-drone-industry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Non-Punitive Aviation Safety Reporting Systems and How...21 Mar 2025 — ASRS is confidential, non-punitive, and available to all particip...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: Combating Stigma | PDF13 Nov 2024 — Gold suggests that NASA could enhance UAP data collection by leveraging its Aviatio...</p></details>
+   Link:<a href="https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: Combating Stigma | PDF13 Nov 2024 — Gold suggests that NASA could enhance UAP data collection by leveraging its Aviatio...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: adamsandreese.com  
    Title: voluntary safety reports employee discipline asap immunity limitations  
-   Link: <a href="https://www.adamsandreese.com/liftoff/voluntary-safety-reports-employee-discipline-asap-immunity-limitations" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsandreese.com/liftoff/voluntary-safety-reports-employee-discipline-asap-immunity-limitations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voluntary Safety Reports: ASAP Immunity Limitations10 Jun 2024 — A voluntary safety report does not amount to a universal “get-out-of-jai...</p></details>
+   Link:<a href="https://www.adamsandreese.com/liftoff/voluntary-safety-reports-employee-discipline-asap-immunity-limitations" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsandreese.com/liftoff/voluntary-safety-reports-employee-discipline-asap-immunity-limitations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voluntary Safety Reports: ASAP Immunity Limitations10 Jun 2024 — A voluntary safety report does not amount to a universal “get-out-of-jai...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ralphbuncheinstitute.org  
    Title: nasa unidentified anomalous phenomena independent study team report  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UNIDENTIFIED ANOMALOUS PHENOMENA...28 May 2026 — Beyond the tech, they want to erase the stigma around reporting sightings by tappi...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UNIDENTIFIED ANOMALOUS PHENOMENA...28 May 2026 — Beyond the tech, they want to erase the stigma around reporting sightings by tappi...</p></details>
    Published: May 2026  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: angelflightwest.org  
-   Link: <a href="https://angelflightwest.org/news/january-safety-update-nasa-asrs-program-aviation-safety-reporting-system/" target="_blank" rel="noopener noreferrer nofollow">https://angelflightwest.org/news/january-safety-update-nasa-asrs-program-aviation-safety-reporting-system/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, you don&#x27;t have to have done something wrong in order to file a report.Read more...</p></details>
+   Link:<a href="https://angelflightwest.org/news/january-safety-update-nasa-asrs-program-aviation-safety-reporting-system/" target="_blank" rel="noopener noreferrer nofollow">https://angelflightwest.org/news/january-safety-update-nasa-asrs-program-aviation-safety-reporting-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, you don&#x27;t have to have done something wrong in order to file a report.Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: businessofgovernment.org  
-   Link: <a href="https://www.businessofgovernment.org/sites/default/files/Management_Mills.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.businessofgovernment.org/sites/default/files/Management_Mills.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>regulatory and company enforce- ment actions to all stakeholders who participate and share...</p></details>
+   Link:<a href="https://www.businessofgovernment.org/sites/default/files/Management_Mills.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.businessofgovernment.org/sites/default/files/Management_Mills.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>regulatory and company enforce- ment actions to all stakeholders who participate and share...</p></details>

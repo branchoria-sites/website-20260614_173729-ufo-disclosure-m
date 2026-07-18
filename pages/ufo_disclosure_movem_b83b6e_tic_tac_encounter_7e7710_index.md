@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-tic-tac/
 description: Focused pages that expand on Tic Tac.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_tic_tac_encounter_7e7710
 parent_title: Tic Tac
@@ -16,7 +16,7 @@ parent_permalink: /tic-tac/
 
 # Explore Topics in Tic Tac
 
-The following pages expand on the main **[Tic Tac]({{ '/tic-tac/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Tic Tac]({{ '/tic-tac/' | relative_url }})** page and cover its key branches in.
 
 - [Fravor Visual Accoun 896 Cc 3]({{ '/fravor-visual-accoun-896-cc-3/' | relative_url }})
 - [Princeton Radar Gap 9 B2 Df 2]({{ '/princeton-radar-gap-9-b2-df-2/' | relative_url }})

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-uap/
 description: Focused pages that expand on NARA Records.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_uap_records_collecti_736606
 parent_title: NARA Records
@@ -16,7 +16,7 @@ parent_permalink: /nara-records/
 
 # Explore Topics in NARA Records
 
-The following pages expand on the main **[NARA Records]({{ '/nara-records/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[NARA Records]({{ '/nara-records/' | relative_url }})** page and cover its key branches in.
 
 - [Agency Self Identifi 0 Ec 0 B6]({{ '/agency-self-identifi-0-ec-0-b6/' | relative_url }})
 - [Digital UAP Scan Qua Ef 2331]({{ '/digital-uap-scan-qua-ef-2331/' | relative_url }})

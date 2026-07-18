@@ -259,17 +259,17 @@ image: /assets/images/ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5_ac
 
 ## Why Unresolved UAP Cases Enter the Active Archive
 
-AARO formally defines the Active Archive as a repository for cases that lack sufficient data to facilitate analysis. According to the FY2024 consolidated UAP report, these cases are retained for pattern-of-life and trend analysis and may be re-examined if additional information becomes available. The report explicitly states that archived cases can be reopened and resolved if new evidence supports further assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
+AARO formally defines the Active Archive as a repository for cases that lack sufficient data to facilitate analysis. According to the FY2024 consolidated UAP report, these cases are retained for pattern-of-life and trend analysis and may be re-examined if additional information becomes available. The report explicitly states that archived cases can be reopened and resolved if new evidence supports further assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5_active_archive_uap_e0b333-Illustration-1-dark.svg" | relative_url }}" alt="Active Archive UAP E0 B333 illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5_active_archive_uap_e0b333-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5_active_archive_uap_e0b333-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This policy emerged because the volume of reports greatly exceeds the amount of high-quality data available. In the FY2024 reporting cycle, AARO received hundreds of cases that could not be confidently analysed due to missing sensor information, incomplete metadata, limited observation time, poor imagery, or other evidentiary gaps. Of the cases reviewed during that period, 444 were moved into the Active Archive because analysts lacked enough information to reach a defensible conclusion. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aol.com/pentagon-received-hundreds-uap-reports-192558337.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-snippet">the active archive, where they can be re-examined if additional data becomes...Read more...</span></span></span>
+This policy emerged because the volume of reports greatly exceeds the amount of high-quality data available. In the FY2024 reporting cycle, AARO received hundreds of cases that could not be confidently analysed due to missing sensor information, incomplete metadata, limited observation time, poor imagery, or other evidentiary gaps. Of the cases reviewed during that period, 444 were moved into the Active Archive because analysts lacked enough information to reach a defensible conclusion. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aol.com/pentagon-received-hundreds-uap-reports-192558337.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-snippet">the active archive, where they can be re-examined if additional data becomes...Read more...</span></span></span>
 
 The Active Archive therefore functions as a middle category between two more familiar outcomes:
 
 * **Closure:** sufficient evidence exists to identify the object or event as something ordinary, such as a balloon, aircraft, bird, drone, or satellite.
 * **Continued investigation:** enough potentially significant information exists to justify additional scientific or intelligence analysis.
-* **Active Archive:** evidence is too limited for either outcome, so the case is retained rather than forced into a premature conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
+* **Active Archive:** evidence is too limited for either outcome, so the case is retained rather than forced into a premature conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
 
 This administrative distinction is important because it reduces pressure to classify every report immediately as either solved or mysterious.
 
@@ -278,9 +278,9 @@ This administrative distinction is important because it reduces pressure to clas
 
 ## What Closure, Archive, and Reopening Mean
 
-A common misunderstanding in disclosure debates is that a case enters the archive because officials cannot explain it. AARO's framework uses a narrower standard. A case is archived when analysts cannot responsibly determine what happened using the available evidence. That is a statement about data quality, not necessarily about the underlying event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
+A common misunderstanding in disclosure debates is that a case enters the archive because officials cannot explain it. AARO's framework uses a narrower standard. A case is archived when analysts cannot responsibly determine what happened using the available evidence. That is a statement about data quality, not necessarily about the underlying event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
 
-Closure requires enough information to support attribution. Archived status means attribution is not currently possible. Reopening occurs if new evidence appears, such as additional sensor records, witness information, platform data, radar tracks, or contextual intelligence that was unavailable during the original review. AARO leadership has publicly stated that archived cases may be reopened and resolved when such information becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>
+Closure requires enough information to support attribution. Archived status means attribution is not currently possible. Reopening occurs if new evidence appears, such as additional sensor records, witness information, platform data, radar tracks, or contextual intelligence that was unavailable during the original review. AARO leadership has publicly stated that archived cases may be reopened and resolved when such information becomes available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>
 
 The policy therefore treats unresolved status as provisional. Rather than declaring a permanent mystery, the archive preserves cases in a state where future evidence can change the assessment.
 
@@ -291,9 +291,9 @@ The policy therefore treats unresolved status as provisional. Rather than declar
 
 One of the most significant implications of the Active Archive is methodological rather than bureaucratic. It creates an explicit category for “not enough information”, helping separate uncertainty from anomaly.
 
-This distinction addresses a recurring problem in public interpretation of UAP statistics. If hundreds of reports remain unresolved, it can be tempting to treat the unresolved total as evidence of extraordinary phenomena. AARO's reporting framework argues the opposite: many unresolved cases remain unresolved because critical information is missing. The absence of a conventional explanation is not itself evidence for an unconventional one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>
+This distinction addresses a recurring problem in public interpretation of UAP statistics. If hundreds of reports remain unresolved, it can be tempting to treat the unresolved total as evidence of extraordinary phenomena. AARO's reporting framework argues the opposite: many unresolved cases remain unresolved because critical information is missing. The absence of a conventional explanation is not itself evidence for an unconventional one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>
 
-Examples published by AARO illustrate this point. Several officially released unresolved cases involve short infrared videos or limited recordings where analysts concluded that a physical object was present but lacked enough information for a definitive identification. In other cases, the available footage was judged insufficient to render a determination at all. These reports remain unresolved, yet AARO simultaneously notes that the observed characteristics are often unremarkable and do not independently justify extraordinary conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — Sensors and visual observations are imperfect; the vast majority of cases lack actionable dat...</span></span></span>
+Examples published by AARO illustrate this point. Several officially released unresolved cases involve short infrared videos or limited recordings where analysts concluded that a physical object was present but lacked enough information for a definitive identification. In other cases, the available footage was judged insufficient to render a determination at all. These reports remain unresolved, yet AARO simultaneously notes that the observed characteristics are often unremarkable and do not independently justify extraordinary conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — Sensors and visual observations are imperfect; the vast majority of cases lack actionable dat...</span></span></span>
 
 The Active Archive therefore acts as a safeguard against a logical error that often appears in UFO debates: treating unknown as evidence of the extraordinary. Under the archive model, “unknown” frequently means “insufficiently documented”.
 
@@ -303,7 +303,7 @@ The Active Archive therefore acts as a safeguard against a logical error that of
 
 The most interesting feature of the Active Archive is that archived reports still retain analytical value.
 
-AARO states that archived cases are maintained for pattern-of-life and trend analysis. In practice, this means that even weak individual reports may contribute to broader statistical understanding when examined collectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
+AARO states that archived cases are maintained for pattern-of-life and trend analysis. In practice, this means that even weak individual reports may contribute to broader statistical understanding when examined collectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
 
 A single report with incomplete [sensor data]({{ 'sensor-data/' | relative_url }}) may reveal little. Hundreds of similarly limited reports, however, can help analysts examine questions such as:
 
@@ -311,7 +311,7 @@ A single report with incomplete [sensor data]({{ 'sensor-data/' | relative_url }
 * Whether certain sensor systems repeatedly generate similar observations.
 * Whether reporting rates increase after changes in reporting procedures.
 * Whether specific environmental conditions correlate with recurring observations.
-* Whether certain categories of unresolved reports later become explainable once more contextual data is collected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
+* Whether certain categories of unresolved reports later become explainable once more contextual data is collected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
 
 This is a key implementation shift. Instead of viewing weak cases as investigative dead ends, the archive allows them to remain part of a larger analytical dataset. The individual case may never become conclusive, but it can still contribute to understanding reporting patterns, sensor limitations, operational environments, and recurring sources of confusion.
 
@@ -319,205 +319,205 @@ This is a key implementation shift. Instead of viewing weak cases as investigati
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5_active_archive_uap_e0b333-Illustration-3-dark.svg" | relative_url }}" alt="Active Archive UAP E0 B333 illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5_active_archive_uap_e0b333-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5_active_archive_uap_e0b333-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Active Archive Changes the Disclosure Debate
 
-Within the broader [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}), the Active Archive creates a more nuanced picture of government holdings. Previously, unresolved cases were often discussed as a single pool of unexplained incidents. The archive system divides that pool into at least two categories: cases worthy of continued focused investigation and cases that remain unresolved because the evidence is too weak for meaningful analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
+Within the broader [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}), the Active Archive creates a more nuanced picture of government holdings. Previously, unresolved cases were often discussed as a single pool of unexplained incidents. The archive system divides that pool into at least two categories: cases worthy of continued focused investigation and cases that remain unresolved because the evidence is too weak for meaningful analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
 
-This distinction can frustrate both sides of the debate. Disclosure advocates may argue that large archive totals still indicate unanswered questions. Skeptics may point out that archived status often reflects poor data rather than genuine mystery. AARO's framework attempts to avoid both extremes by preserving uncertain cases without elevating them into confirmed anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
+This distinction can frustrate both sides of the debate. Disclosure advocates may argue that large archive totals still indicate unanswered questions. Skeptics may point out that archived status often reflects poor data rather than genuine mystery. AARO's framework attempts to avoid both extremes by preserving uncertain cases without elevating them into confirmed anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")
 
-The practical consequence is that unresolved cases no longer function as a simple scorecard. Entry into the Active Archive means a report remains available for future analysis, but it does not count as evidence of exotic technology, extraterrestrial activity, or any other extraordinary explanation. It represents a formal acknowledgement that the available information is currently inadequate while preserving the possibility that future evidence could change that judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>
+The practical consequence is that unresolved cases no longer function as a simple scorecard. Entry into the Active Archive means a report remains available for future analysis, but it does not count as evidence of exotic technology, extraterrestrial activity, or any other extraordinary explanation. It represents a formal acknowledgement that the available information is currently inadequate while preserving the possibility that future evidence could change that judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>(#endnote-7 "Snippet: U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VmVf2Axe6as" title="UAP Data Analysis On 80,000 Sightings! | Don Tadaya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer">UAP Data Analysis On 80,000 Sightings! | Don Tadaya</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 9.1K &middot; Uploaded: May 2023 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VmVf2Axe6as" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VmVf2Axe6as">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Active Archive UAP E0 B333. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Active Archive UAP E0 B333. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="active-archive-uap-e0-b333-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ The practical consequence is that unresolved cases no longer function as a simpl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ The practical consequence is that unresolved cases no longer function as a simpl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ The practical consequence is that unresolved cases no longer function as a simpl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ The practical consequence is that unresolved cases no longer function as a simpl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ The practical consequence is that unresolved cases no longer function as a simpl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,99 +723,99 @@ The practical consequence is that unresolved cases no longer function as a simpl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — Active Archive: Cases lacking suffic...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...November 14, 2024 — 14 Nov 2024 — Active Archive: Cases lacking suffic...</p></details>
    Published: November 14, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — Meanwhile, over 900 reports lack sufficient d...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — Meanwhile, over 900 reports lack sufficient d...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/pentagon-received-hundreds-uap-reports-192558337.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/pentagon-received-hundreds-uap-reports-192558337.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the active archive, where they can be re-examined if additional data becomes...Read more...</p></details>
+   Link:<a href="https://www.aol.com/pentagon-received-hundreds-uap-reports-192558337.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/pentagon-received-hundreds-uap-reports-192558337.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the active archive, where they can be re-examined if additional data becomes...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Sensors and visual observations are imperfect; the vast majority of cases lack actionable dat...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Sensors and visual observations are imperfect; the vast majority of cases lack actionable dat...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryPR-018, Unresolved UAP Report, Europe 2024... This unresolved report contributes to AARO&#x27;s historical and locational tren...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryPR-018, Unresolved UAP Report, Europe 2024... This unresolved report contributes to AARO&#x27;s historical and locational tren...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</p></details>
+   Link:<a href="https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/today-the-department-of-war-announced-the-initial-release-of-new-never-before-se/1427633032736291/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarThis can occur for a variety of reasons, including a lack of sufficient data... The materials archived here are un...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: docs.oracle.com  
-   Link: <a href="https://docs.oracle.com/en/industries/financial-services/ofs-analytical-applications/enterprise-case-management-application-pack/8.1.2.10.0/ecgug/archiveunarchive-cases.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.oracle.com/en/industries/financial-services/ofs-analytical-applications/enterprise-case-management-application-pack/8.1.2.10.0/ecgug/archiveunarchive-cases.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>oracle.com9 Archive or Unarchive CasesIf an archived case is re-opened with the Take Action button, the case will not be available in the...</p></details>
+   Link:<a href="https://docs.oracle.com/en/industries/financial-services/ofs-analytical-applications/enterprise-case-management-application-pack/8.1.2.10.0/ecgug/archiveunarchive-cases.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.oracle.com/en/industries/financial-services/ofs-analytical-applications/enterprise-case-management-application-pack/8.1.2.10.0/ecgug/archiveunarchive-cases.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oracle.com9 Archive or Unarchive CasesIf an archived case is re-opened with the Take Action button, the case will not be available in the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ec.europa.eu  
-   Link: <a href="https://ec.europa.eu/isa2/sites/default/files/actions/8.13_standards-based_archival_data_management_exchange_and_publication_2017.01_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/isa2/sites/default/files/actions/8.13_standards-based_archival_data_management_exchange_and_publication_2017.01_revised.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>europa.eu7.1 standards-based archival data management, exchange...Ideally the archives should be made available to the public in a way t...</p></details>
+   Link:<a href="https://ec.europa.eu/isa2/sites/default/files/actions/8.13_standards-based_archival_data_management_exchange_and_publication_2017.01_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/isa2/sites/default/files/actions/8.13_standards-based_archival_data_management_exchange_and_publication_2017.01_revised.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>europa.eu7.1 standards-based archival data management, exchange...Ideally the archives should be made available to the public in a way t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: the pentagon on friday released a video allegedly showing unidentified anomalous  
-   Link: <a href="https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon on Friday released a video allegedly showing...Kosloski presented AARO&#x27;s 2024 report, covering 757 UAP cases—485 from May 2...</p></details>
+   Link:<a href="https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon on Friday released a video allegedly showing...Kosloski presented AARO&#x27;s 2024 report, covering 757 UAP cases—485 from May 2...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: opentext.com  
-   Link: <a href="https://www.opentext.com/media/solution-overview/information-archiving-slo-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.opentext.com/media/solution-overview/information-archiving-slo-en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Archiving Solution OverviewOpenText™ Core Archive for SAP® Solutions is a purpose-built cloud archive that manages the long-t...</p></details>
+   Link:<a href="https://www.opentext.com/media/solution-overview/information-archiving-slo-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.opentext.com/media/solution-overview/information-archiving-slo-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information Archiving Solution OverviewOpenText™ Core Archive for SAP® Solutions is a purpose-built cloud archive that manages the long-t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: acleddata.com  
    Title: violence targeting local officials 2024 annual report 30 may  
-   Link: <a href="https://acleddata.com/system/files/2025-06/violence-targeting-local-officials-2024-annual-report-30-may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acleddata.com/system/files/2025-06/violence-targeting-local-officials-2024-annual-report-30-may.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 annual report - violence targeting local officialsviolence against local officials reveals more than 2,600 reported incidents of vio...</p></details>
+   Link:<a href="https://acleddata.com/system/files/2025-06/violence-targeting-local-officials-2024-annual-report-30-may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acleddata.com/system/files/2025-06/violence-targeting-local-officials-2024-annual-report-30-may.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2024 annual report - violence targeting local officialsviolence against local officials reveals more than 2,600 reported incidents of vio...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: annual ufo report 21 cases need more analysis 2024  
-   Link: <a href="https://www.cbsnews.com/news/annual-ufo-report-21-cases-need-more-analysis-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/annual-ufo-report-21-cases-need-more-analysis-2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual UFO report finds 21 cases of more than 700...14 Nov 2024 — Another 444 didn&#x27;t have enough data to keep investigating, so the offi...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/annual-ufo-report-21-cases-need-more-analysis-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/annual-ufo-report-21-cases-need-more-analysis-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual UFO report finds 21 cases of more than 700...14 Nov 2024 — Another 444 didn&#x27;t have enough data to keep investigating, so the offi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: This report remains unresolved due to lack of technical data.Read more  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...This footage, captured by an infrared sensor in 2024, was later reported to AAR...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...This footage, captured by an infrared sensor in 2024, was later reported to AAR...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>basic research, the faulty references, and blatant errors. Article...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>basic research, the faulty references, and blatant errors. Article...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: static.namirial.com  
    Title: long term archiving practice statement  
-   Link: <a href="https://static.namirial.com/docs/en/long-term-archiving-practice-statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.namirial.com/docs/en/long-term-archiving-practice-statement.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Term Archiving18 Dec 2025 — This Practice Statement covers the LTA service and, in Annex 1, the Practice Statements for a Qualified Elect...</p></details>
+   Link:<a href="https://static.namirial.com/docs/en/long-term-archiving-practice-statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.namirial.com/docs/en/long-term-archiving-practice-statement.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Term Archiving18 Dec 2025 — This Practice Statement covers the LTA service and, in Annex 1, the Practice Statements for a Qualified Elect...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYGGkhvx5XC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYGGkhvx5XC/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pendent analysis of these unresolved phenomena. Access the...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYGGkhvx5XC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYGGkhvx5XC/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pendent analysis of these unresolved phenomena. Access the...</p></details>

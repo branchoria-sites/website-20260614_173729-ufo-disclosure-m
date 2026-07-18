@@ -442,21 +442,21 @@ image: /assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe-ov
 
 ## Introduction
 
-Pilots may stay silent about UAP because aviation culture rewards precise, calm, professionally defensible reporting, while “UFO” language has long carried a reputational cost. In the disclosure debate, this matters less as proof of exotic craft than as a safety problem: if crews hesitate to describe unusual lights, objects, sensor returns, or near-miss concerns, investigators lose the early, detailed data needed to distinguish [drones]({{ 'drones/' | relative_url }}), balloons, satellites, military activity, sensor artefacts, weather effects, and genuinely unresolved events. NASA’s 2023 UAP study made this point directly, arguing that better data collection and a systematic reporting framework must go together with reducing reporting stigma. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+Pilots may stay silent about UAP because aviation culture rewards precise, calm, professionally defensible reporting, while “UFO” language has long carried a reputational cost. In the disclosure debate, this matters less as proof of exotic craft than as a safety problem: if crews hesitate to describe unusual lights, objects, sensor returns, or near-miss concerns, investigators lose the early, detailed data needed to distinguish [drones]({{ 'drones/' | relative_url }}), balloons, satellites, military activity, sensor artefacts, weather effects, and genuinely unresolved events. NASA’s 2023 UAP study made this point directly, arguing that better data collection and a systematic reporting framework must go together with reducing reporting stigma.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe-overview.webp" | relative_url }}" alt="Overview image for Stigma" loading="eager" decoding="sync" fetchpriority="high">
-The aviation-specific question is therefore not whether every strange sighting should be treated as extraordinary. It is whether pilots, air traffic controllers, dispatchers, and safety officers can report odd observations without ridicule, career anxiety, or pressure to translate uncertainty into silence. Modern UAP disclosure arguments increasingly depend on that shift: the movement’s strongest safety case is that candour improves the quality of the record, even when the final explanation is ordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The aviation-specific question is therefore not whether every strange sighting should be treated as extraordinary. It is whether pilots, air traffic controllers, dispatchers, and safety officers can report odd observations without ridicule, career anxiety, or pressure to translate uncertainty into silence. Modern UAP disclosure arguments increasingly depend on that shift: the movement’s strongest safety case is that candour improves the quality of the record, even when the final explanation is ordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## How ridicule changes what gets reported
 
 The simplest way stigma distorts aviation evidence is by turning a timely safety observation into a private story. A pilot who sees something unusual may worry less about the object itself than about how the report will sound afterwards: Was it Venus? A drone? A satellite train? A cockpit reflection? Will the crew be mocked? Could a medical or psychological question be raised? Will management see the report as a distraction? Those concerns can change whether a report is filed, how much detail is included, and whether the observer uses cautious aviation language or vague, incomplete wording.
 
-This is not only a claim made by UFO enthusiasts. NASA’s independent UAP team said the subject’s stigma “almost certainly” contributes to data loss and argued that NASA’s public involvement could help move UAP reporting from sensationalism towards science. Its report also stressed a practical limitation: many UAP records lack calibrated sensors, multiple measurements, sensor metadata, and baseline data, which makes later analysis far weaker than it would be if the event had been documented promptly and consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+This is not only a claim made by UFO enthusiasts. NASA’s independent UAP team said the subject’s stigma “almost certainly” contributes to data loss and argued that NASA’s public involvement could help move UAP reporting from sensationalism towards science. Its report also stressed a practical limitation: many UAP records lack calibrated sensors, multiple measurements, sensor metadata, and baseline data, which makes later analysis far weaker than it would be if the event had been documented promptly and consistently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
-Former US Navy pilot Ryan Graves made the stigma argument in a more direct witness-centred form during his 2023 House Oversight testimony. He said UAP are “grossly underreported” and described stigma as a force that silences commercial pilots who fear professional repercussions. That testimony is advocacy evidence rather than a neutral statistical survey, but it is important because it names the specific aviation population at issue: trained observers whose reports may be professionally risky precisely because the subject is culturally contaminated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight Committee</span></span></span>
+Former US Navy pilot Ryan Graves made the stigma argument in a more direct witness-centred form during his 2023 House Oversight testimony. He said UAP are “grossly underreported” and described stigma as a force that silences commercial pilots who fear professional repercussions. That testimony is advocacy evidence rather than a neutral statistical survey, but it is important because it names the specific aviation population at issue: trained observers whose reports may be professionally risky precisely because the subject is culturally contaminated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight Committee</span></span></span>
 
-Private aviation-focused UAP [researchers]({{ 'researchers/' | relative_url }}) have made a similar point for longer. The National Aviation Reporting Center on Anomalous Phenomena, a non-governmental group, has argued that many pilots delay or avoid reporting unusual aerial observations because they expect disbelief or reputational damage. Its older technical work should be read with caution because it is not an official aviation safety authority, but it usefully documents a long-running pattern in witness commentary: pilots often describe silence as the socially safer choice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/blog/uap-aviation-safety-pilot-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-title">uap aviation safety pilot bias</span><span class="citation-popover-snippet">uap aviation safety pilot bias</span></span></span>
+Private aviation-focused UAP [researchers]({{ 'researchers/' | relative_url }}) have made a similar point for longer. The National Aviation Reporting Center on Anomalous Phenomena, a non-governmental group, has argued that many pilots delay or avoid reporting unusual aerial observations because they expect disbelief or reputational damage. Its older technical work should be read with caution because it is not an official aviation safety authority, but it usefully documents a long-running pattern in witness commentary: pilots often describe silence as the socially safer choice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/blog/uap-aviation-safety-pilot-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-title">uap aviation safety pilot bias</span><span class="citation-popover-snippet">uap aviation safety pilot bias</span></span></span>
 
 The result is a biased record. Events that are dramatic, public, or military may be more likely to surface, while mundane but safety-relevant observations from civil aviation may vanish. That bias can make UAP appear either more mysterious or more trivial than they really are, depending on which reports survive. For disclosure advocates, this is a central problem: [secrecy]({{ 'secrecy/' | relative_url }}) and stigma do not merely hide extraordinary claims; they also hide the ordinary [explanations]({{ 'explanations/' | relative_url }}) that would reduce confusion.
 
@@ -464,13 +464,13 @@ The result is a biased record. Events that are dramatic, public, or military may
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe-Illustration-1-dark.svg" | relative_url }}" alt="Stigma illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_reporting_stigma_9ebffe-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why safety systems need candour more than certainty
 
-Aviation safety reporting does not require a pilot to solve the event before reporting it. In fact, the whole point of a good safety culture is to capture uncertainty before memory fades and before investigators lose access to contextual data. NASA’s Aviation Safety Reporting System, or ASRS, is built around that principle: it receives confidential reports, analyses safety data, and shares lessons with the aviation community. The FAA describes ASRS as confidential and non-punitive, with reports de-identified and used to identify system-level risks in the National Airspace System. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+Aviation safety reporting does not require a pilot to solve the event before reporting it. In fact, the whole point of a good safety culture is to capture uncertainty before memory fades and before investigators lose access to contextual data. NASA’s Aviation Safety Reporting System, or ASRS, is built around that principle: it receives confidential reports, analyses safety data, and shares lessons with the aviation community. The FAA describes ASRS as confidential and non-punitive, with reports de-identified and used to identify system-level risks in the National Airspace System.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 That model matters for UAP because many “unidentified” events are unidentified only at the moment of observation. A crew may not know that a strange light pattern is a satellite constellation, a balloon cluster, an uncrewed aircraft, a military exercise, or an atmospheric effect. If the sighting is reported with time, location, altitude, heading, weather, cockpit observations, radar context, and any traffic-control exchange, later analysts have a chance to compare it with known objects and operations. If the crew says nothing, even an ordinary explanation can be lost.
 
-A 2024 case study of a commercial aviation UAP report over the Pacific shows the value of that approach. Researchers examined an event involving multiple pilots on two commercial flights, photos and video, and an initially puzzling visual pattern. By reconstructing satellite positions with orbital data and comparing them with aircraft tracking data, they concluded that a recently launched Starlink satellite train could account for the sighting. The lesson is not that all UAP are satellites; it is that good aviation reports can turn an alarming or mysterious cockpit observation into a solvable safety and space situational awareness problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A 2024 case study of a commercial aviation UAP report over the Pacific shows the value of that approach. Researchers examined an event involving multiple pilots on two commercial flights, photos and video, and an initially puzzling visual pattern. By reconstructing satellite positions with orbital data and comparing them with aircraft tracking data, they concluded that a recently launched Starlink satellite train could account for the sighting. The lesson is not that all UAP are satellites; it is that good aviation reports can turn an alarming or mysterious cockpit observation into a solvable safety and space situational awareness problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-AARO’s official reporting also points in this direction. Its FY2023 annual report said FAA reports had begun to reduce a previous collection bias towards restricted military airspace, because commercial pilot reporting gave a more geographically diverse picture. At the same time, AARO said the FAA-shared reports mostly involved unidentified lights at varied altitudes and did not, in that set, show anomalous manoeuvres, unsafe proximity to civil aircraft, or threats to the observing aircraft. This is exactly why reporting culture matters: better reporting may increase the number of mundane cases as well as the number of genuinely unresolved ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+AARO’s official reporting also points in this direction. Its FY2023 annual report said FAA reports had begun to reduce a previous collection bias towards restricted military airspace, because commercial pilot reporting gave a more geographically diverse picture. At the same time, AARO said the FAA-shared reports mostly involved unidentified lights at varied altitudes and did not, in that set, show anomalous manoeuvres, unsafe proximity to civil aircraft, or threats to the observing aircraft. This is exactly why reporting culture matters: better reporting may increase the number of mundane cases as well as the number of genuinely unresolved ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 That point cuts against a common misconception in the disclosure debate. Reducing stigma does not mean lowering evidential standards. It means collecting reports early enough that ordinary explanations can be tested and unusual cases can be separated from noise. The more candid the reporting environment, the less room there is for both institutional dismissal and speculative overreach.
 
@@ -479,13 +479,13 @@ That point cuts against a common misconception in the disclosure debate. Reducin
 
 ## The awkward gap between existing channels and UAP-specific needs
 
-The United States now has more formal [UAP language]({{ 'uap-language/' | relative_url }}) in aviation channels than it once did, but the system remains uneven. The FAA’s current air traffic control publication instructs personnel to inform an operations supervisor or controller-in-charge of reported or observed UAP or unexplained phenomena activity. The FAA’s Aeronautical Information Manual also directs people wanting to report UAP or unexplained phenomena activity to AARO, while stating that life or property concerns should be reported to local law enforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The United States now has more formal [UAP language]({{ 'uap-language/' | relative_url }}) in aviation channels than it once did, but the system remains uneven. The FAA’s current air traffic control publication instructs personnel to inform an operations supervisor or controller-in-charge of reported or observed UAP or unexplained phenomena activity. The FAA’s Aeronautical Information Manual also directs people wanting to report UAP or unexplained phenomena activity to AARO, while stating that life or property concerns should be reported to local law enforcement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-AARO, for its part, presents itself as the US government office leading UAP work through a scientific and data-driven framework, and says it receives UAP-related Pilot Reports from the FAA. Its FY2024 annual report said AARO had obtained FAA logs containing UAP incidents reported since June 2021 and was receiving FAA UAP reports weekly, which it described as an increase from the previous reporting period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+AARO, for its part, presents itself as the US government office leading UAP work through a scientific and data-driven framework, and says it receives UAP-related Pilot Reports from the FAA. Its FY2024 annual report said AARO had obtained FAA logs containing UAP incidents reported since June 2021 and was receiving FAA UAP reports weekly, which it described as an increase from the previous reporting period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
-Yet there is still a practical culture gap between “there is a route” and “pilots [trust]({{ 'trust/' | relative_url }}) the route”. ASRS is familiar, confidential, and non-punitive, but it was designed as a broad aviation safety system, not as a UAP investigation pipeline. AARO is UAP-specific, but its public-facing mission is tied to defence, intelligence, and national security contexts, which may feel distant from a civilian crew deciding what to do after a strange but non-emergency sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/uassafety.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+Yet there is still a practical culture gap between “there is a route” and “pilots [trust]({{ 'trust/' | relative_url }}) the route”. ASRS is familiar, confidential, and non-punitive, but it was designed as a broad aviation safety system, not as a UAP investigation pipeline. AARO is UAP-specific, but its public-facing mission is tied to defence, intelligence, and national security contexts, which may feel distant from a civilian crew deciding what to do after a strange but non-emergency sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/uassafety.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[ASRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-That ambiguity matters in the cockpit. If a pilot perceives a UAP as an immediate hazard, the first duty is still basic airmanship: aviate, navigate, communicate. A 2025 American Institute of Aeronautics and Astronautics opinion paper on UAP occupational safety reporting argues that crews should handle imminent risks through ordinary safety principles, notify air traffic control when appropriate, and use post-flight reporting systems for detailed follow-up. The paper also emphasises trust in the initial observer and respect for the person making the report, because a dismissive response can suppress exactly the information safety systems need. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaa.org">[AIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaa.org</span><span class="citation-popover-title">Shaping the future of aerospace</span><span class="citation-popover-snippet">Shaping the future of aerospace</span></span></span> - Shaping the future of aerospace
+That ambiguity matters in the cockpit. If a pilot perceives a UAP as an immediate hazard, the first duty is still basic airmanship: aviate, navigate, communicate. A 2025 American Institute of Aeronautics and Astronautics opinion paper on UAP occupational safety reporting argues that crews should handle imminent risks through ordinary safety principles, notify air traffic control when appropriate, and use post-flight reporting systems for detailed follow-up. The paper also emphasises trust in the initial observer and respect for the person making the report, because a dismissive response can suppress exactly the information safety systems need.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaa.org">[AIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaa.org</span><span class="citation-popover-title">Shaping the future of aerospace</span><span class="citation-popover-snippet">Shaping the future of aerospace</span></span></span> - Shaping the future of aerospace
 
 The harder problem is the non-immediate sighting: something odd, perhaps distant, perhaps not close enough to trigger emergency handling, but still worth documenting. In that situation, a culture of ridicule encourages crews to treat uncertainty as embarrassment. A mature safety culture treats uncertainty as a reportable condition.
 
@@ -508,18 +508,18 @@ Several practical changes follow from that principle:
 
 </div>
 
-NASA’s study team explicitly recommended using a systematic reporting framework and highlighted ASRS as a model for commercial pilot reporting. The point is not that ASRS alone solves UAP investigation, but that its design shows the cultural ingredients needed: confidentiality, de-identification, safety learning, and a path from individual observation to system-level analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Responses to Statement of Task</span></span></span>
+NASA’s study team explicitly recommended using a systematic reporting framework and highlighted ASRS as a model for commercial pilot reporting. The point is not that ASRS alone solves UAP investigation, but that its design shows the cultural ingredients needed: confidentiality, de-identification, safety learning, and a path from individual observation to system-level analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Responses to Statement of Task</span></span></span>
 
-Training is also part of the answer. The AIAA paper recommends UAP awareness and response training for certified flight instructors and students, including how to report sightings and incidents. That is a modest proposal, but it targets a real weak spot: many pilots may know how to report turbulence, wildlife strikes, runway incursions, or equipment problems, yet remain unsure how to report something that sounds socially risky even when it may have a normal explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaa.org">[AIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaa.org</span><span class="citation-popover-title">Shaping the future of aerospace</span><span class="citation-popover-snippet">Shaping the future of aerospace</span></span></span> - Shaping the future of aerospace
+Training is also part of the answer. The AIAA paper recommends UAP awareness and response training for certified flight instructors and students, including how to report sightings and incidents. That is a modest proposal, but it targets a real weak spot: many pilots may know how to report turbulence, wildlife strikes, runway incursions, or equipment problems, yet remain unsure how to report something that sounds socially risky even when it may have a normal explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaa.org">[AIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaa.org</span><span class="citation-popover-title">Shaping the future of aerospace</span><span class="citation-popover-snippet">Shaping the future of aerospace</span></span></span> - Shaping the future of aerospace
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xn4t6ZcAGcs" title="NASA &amp; UFOs: First public meeting held" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xn4t6ZcAGcs" target="_blank" rel="noopener noreferrer">NASA &amp; UFOs: First public meeting held</a></p><p class="youtube-embed-meta">Channel: FOX 10 Phoenix &middot; Views: 3.9K &middot; Uploaded: June 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xn4t6ZcAGcs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xn4t6ZcAGcs">Open on YouTube</a></p></div></div></div>
 
 ## The risk of overcorrecting
 
-There is a genuine danger in swinging from stigma to credulity. A reporting culture that treats every unusual observation as evidence of exotic technology would produce noise, anxiety, and poor analysis. AARO’s FY2023 report is a useful restraint here: it says many unresolved cases remain unresolved because of insufficient data, while the majority of unidentified objects in its holdings show ordinary characteristics of readily explainable sources. Better reporting should therefore be understood as a filtering tool, not a belief system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+There is a genuine danger in swinging from stigma to credulity. A reporting culture that treats every unusual observation as evidence of exotic technology would produce noise, anxiety, and poor analysis. AARO’s FY2023 report is a useful restraint here: it says many unresolved cases remain unresolved because of insufficient data, while the majority of unidentified objects in its holdings show ordinary characteristics of readily explainable sources. Better reporting should therefore be understood as a filtering tool, not a belief system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-The Starlink misidentification case is especially useful because it shows how a good-faith pilot report can be both sincere and mistaken. Skilled observers can misidentify unfamiliar satellite behaviour, especially under unusual illumination conditions. That should not be used to shame pilots; it should be used to improve advisories, databases, cockpit awareness, and post-event analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Starlink misidentification case is especially useful because it shows how a good-faith pilot report can be both sincere and mistaken. Skilled observers can misidentify unfamiliar satellite behaviour, especially under unusual illumination conditions. That should not be used to shame pilots; it should be used to improve advisories, databases, cockpit awareness, and post-event analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The opposite error is to assume that because many cases are explainable, reporting is unnecessary. Aviation safety has never worked that way. Bird strikes, laser illuminations, drone sightings, wake turbulence, near misses, and equipment anomalies are reportable not because each one reveals a mystery, but because patterns become visible only when individual events are captured. UAP reporting belongs in that safety logic if it is framed as “unknown at the time of observation” rather than “extraordinary by default”.
 
@@ -531,7 +531,7 @@ This is where the disclosure movement’s stronger aviation argument differs fro
 
 A healthier aviation reporting culture would make UAP reports routine, bounded, and analytically useful. That means normalising the act of reporting without normalising wild conclusions. It also means designing systems so that pilots know where a report goes, what protections apply, who may see it, and whether it contributes to safety analysis, intelligence analysis, public records, or all three.
 
-The most promising model is a layered one. In-flight hazards should go through ordinary operational channels: air traffic control, company procedures, and mandatory safety reporting where applicable. Post-flight observations should be recorded through confidential safety systems such as ASRS where relevant, and UAP-specific channels such as AARO where they meet the reporting scope. The FAA’s own UAP language in air traffic publications and AARO’s receipt of FAA pilot reports show that the institutional plumbing is developing, but trust and clarity still have to catch up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most promising model is a layered one. In-flight hazards should go through ordinary operational channels: air traffic control, company procedures, and mandatory safety reporting where applicable. Post-flight observations should be recorded through confidential safety systems such as ASRS where relevant, and UAP-specific channels such as AARO where they meet the reporting scope. The FAA’s own UAP language in air traffic publications and AARO’s receipt of FAA pilot reports show that the institutional plumbing is developing, but trust and clarity still have to catch up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For airlines, unions, regulators, and safety departments, the cultural test is simple: can a crew file a careful UAP-related report and be treated like professionals describing an unresolved safety observation? If the answer is yes, reports will be richer, false alarms will be easier to resolve, and the remaining hard cases will be more meaningful. If the answer is no, the system will keep selecting for silence, late anecdotes, and incomplete data.
 
@@ -542,194 +542,194 @@ That is why aviation reporting stigma has become a pillar issue inside the discl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Pilots May Stay Silent About UAP. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Pilots May Stay Silent About UAP. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses how witnesses and investigators handled unusual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how witnesses and investigators handled unusual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Features credible witness accounts and reporting barriers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features credible witness accounts and reporting barriers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows how aviation culture, secrecy, and reporting practices shape what becomes public.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how aviation culture, secrecy, and reporting practices shape what becomes public.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Provides context for pilot culture and professional reputation concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
+</h4>
+<p class="fr-book-author">By Tom Wolfe</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Provides context for pilot culture and professional reputation concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="stigma-why-pilots-may-stay-silent-about-uap-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -745,7 +745,7 @@ That is why aviation reporting stigma has become a pillar issue inside the discl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -765,7 +765,7 @@ That is why aviation reporting stigma has become a pillar issue inside the discl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -797,7 +797,7 @@ That is why aviation reporting stigma has become a pillar issue inside the discl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -849,7 +849,7 @@ That is why aviation reporting stigma has become a pillar issue inside the discl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -894,7 +894,7 @@ That is why aviation reporting stigma has become a pillar issue inside the discl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -935,211 +935,211 @@ That is why aviation reporting stigma has become a pillar issue inside the discl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1</a>  
+   Link:<a href="https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/aviation-voluntary-reporting-programs-1</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: narcap.org  
    Title: uap aviation safety pilot bias  
-   Link: <a href="https://www.narcap.org/blog/uap-aviation-safety-pilot-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/blog/uap-aviation-safety-pilot-bias</a>  
+   Link:<a href="https://www.narcap.org/blog/uap-aviation-safety-pilot-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/blog/uap-aviation-safety-pilot-bias</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/</a>  
+   Link:<a href="https://asrs.arc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aiaa.org  
    Title: Shaping the future of aerospace  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nasa.gov  
    Title: aviation safety reporting system overview  
-   Link: <a href="https://www.nasa.gov/human-systems-integration-division/aviation-safety-reporting-system-overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/human-systems-integration-division/aviation-safety-reporting-system-overview/</a>  
+   Link:<a href="https://www.nasa.gov/human-systems-integration-division/aviation-safety-reporting-system-overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/human-systems-integration-division/aviation-safety-reporting-system-overview/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/uassafety.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/uassafety.html</a>  
+   Link:<a href="https://asrs.arc.nasa.gov/uassafety.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/uassafety.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/overview/confidentiality.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/overview/confidentiality.html</a>  
+   Link:<a href="https://asrs.arc.nasa.gov/overview/confidentiality.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/overview/confidentiality.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: faa.gov  
    Title: general statements  
-   Link: <a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
+   Link:<a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: faa.gov  
    Title: 2025 09 12 Notice N7110.800 Unidentied Anomalous Phenomena (UAP) Reports FINAL  
-   Link: <a href="https://www.faa.gov/documentLibrary/[media" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/[media</a>  
+   Link:<a href="https://www.faa.gov/documentLibrary/[media" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/[media</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: faa.gov  
    Title: AIM Basic w Chg 1 dtd 8 7 25  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_dtd_8-7-25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_dtd_8-7-25.pdf</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_dtd_8-7-25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/media/AIM_Basic_w_Chg_1_dtd_8-7-25.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aerospaceamerica.aiaa.org  
-   Link: <a href="https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-[hearings" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-[hearings</a>  
+   Link:<a href="https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-[hearings" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/u-s-government-studies-[hearings</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: narcap.org  
-   Link: <a href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/technical-reports</a>  
+   Link:<a href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/technical-reports</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: narcap.org  
    Title: uap aviation safety and official denial  
-   Link: <a href="https://www.narcap.org/blog/uap-aviation-safety-and-official-denial" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/blog/uap-aviation-safety-and-official-denial</a>  
+   Link:<a href="https://www.narcap.org/blog/uap-aviation-safety-and-official-denial" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/blog/uap-aviation-safety-and-official-denial</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: robertgarcia.house.gov  
    Title: congressman robert garcia and congressman glenn grothman reintroduce  
-   Link: <a href="https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-and-congressman-glenn-grothman-reintroduce" target="_blank" rel="noopener noreferrer nofollow">https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-and-congressman-glenn-grothman-reintroduce</a>  
+   Link:<a href="https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-and-congressman-glenn-grothman-reintroduce" target="_blank" rel="noopener noreferrer nofollow">https://robertgarcia.house.gov/media/press-releases/congressman-robert-garcia-and-congressman-glenn-grothman-reintroduce</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: en.wikisource.org  
    Title: Overall Conclusions and Recommendations  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations</a>  
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Executive_Summary" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Executive_Summary</a>  
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Executive_Summary" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Executive_Summary</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: en.wikisource.org  
    Title: UAP Reporting  
-   Link: <a href="https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Aviation Safety Reporting System  
-   Link: <a href="https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: airsafe.com  
-   Link: <a href="https://airsafe.com/issues/uap.htm" target="_blank" rel="noopener noreferrer nofollow">https://airsafe.com/issues/uap.htm</a>  
+   Link:<a href="https://airsafe.com/issues/uap.htm" target="_blank" rel="noopener noreferrer nofollow">https://airsafe.com/issues/uap.htm</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Military Pilots Can Now Report UAP Encounters Freely | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=O3NjM3FHCkw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O3NjM3FHCkw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Military Pilots Stay Silent About UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O3NjM3FHCkw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O3NjM3FHCkw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Military Pilots Stay Silent About UFOs...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: E340: Ryan Graves UAP's and F18's  
-   Link: <a href="https://www.youtube.com/watch?v=mQQn1LWYRsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mQQn1LWYRsc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Navy pilots destroying UAP evidence to avoid backlash? | Elizabeth Vargas Reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mQQn1LWYRsc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mQQn1LWYRsc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Navy pilots destroying UAP evidence to avoid backlash? | Elizabeth Vargas Reports...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: NASA & UFOs: First public meeting held  
-   Link: <a href="https://www.youtube.com/watch?v=xn4t6ZcAGcs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xn4t6ZcAGcs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Pilots Can Now Report UAP Encounters Freely | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xn4t6ZcAGcs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xn4t6ZcAGcs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Pilots Can Now Report UAP Encounters Freely | WION Podcast...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: faraim.org  
-   Link: <a href="https://faraim.org/faa/aim/chapter-7/section-7-7-4.html" target="_blank" rel="noopener noreferrer nofollow">https://faraim.org/faa/aim/chapter-7/section-7-7-4.html</a>  
+   Link:<a href="https://faraim.org/faa/aim/chapter-7/section-7-7-4.html" target="_blank" rel="noopener noreferrer nofollow">https://faraim.org/faa/aim/chapter-7/section-7-7-4.html</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
+   Link:<a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: safeaerospace.org  
-   Link: <a href="https://www.safeaerospace.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/</a>  
+   Link:<a href="https://www.safeaerospace.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: gleim.com  
-   Link: <a href="https://www.gleim.com/aviation/faraim/index.php?fullTextNum=aim7&amp;srsltid=AfmBOopEOLc6W8vKU8fF41BvLnja-QqNhCbRJcwX2ltjDbHpel20jY_Q&amp;terms%5B0%5D=91.175" target="_blank" rel="noopener noreferrer nofollow">https://www.gleim.com/aviation/faraim/index.php?fullTextNum=aim7&amp;srsltid=AfmBOopEOLc6W8vKU8fF41BvLnja-QqNhCbRJcwX2ltjDbHpel20jY_Q&amp;terms%5B0%5D=91.175</a>  
+   Link:<a href="https://www.gleim.com/aviation/faraim/index.php?fullTextNum=aim7&amp;srsltid=AfmBOopEOLc6W8vKU8fF41BvLnja-QqNhCbRJcwX2ltjDbHpel20jY_Q&amp;terms%5B0%5D=91.175" target="_blank" rel="noopener noreferrer nofollow">https://www.gleim.com/aviation/faraim/index.php?fullTextNum=aim7&amp;srsltid=AfmBOopEOLc6W8vKU8fF41BvLnja-QqNhCbRJcwX2ltjDbHpel20jY_Q&amp;terms%5B0%5D=91.175</a>  

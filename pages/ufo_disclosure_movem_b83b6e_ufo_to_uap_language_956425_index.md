@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-ufo-to-uap/
 description: Focused pages that expand on UAP Language.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_ufo_to_uap_language_956425
 parent_title: UAP Language
@@ -16,7 +16,7 @@ parent_permalink: /uap-language/
 
 # Explore Topics in UAP Language
 
-The following pages expand on the main **[UAP Language]({{ '/uap-language/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UAP Language]({{ '/uap-language/' | relative_url }})** page and cover its key branches in.
 
 - [Blue Book UFO Langua 688 B0 E]({{ '/blue-book-ufo-langua-688-b0-e/' | relative_url }})
 - [Kenneth Arnold Sauce 806 A5 B]({{ '/kenneth-arnold-sauce-806-a5-b/' | relative_url }})

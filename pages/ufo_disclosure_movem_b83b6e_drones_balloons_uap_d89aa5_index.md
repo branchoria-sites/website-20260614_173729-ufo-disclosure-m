@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-drones/
 description: Focused pages that expand on Drones.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5
 parent_title: Drones
@@ -16,7 +16,7 @@ parent_permalink: /drones/
 
 # Explore Topics in Drones
 
-The following pages expand on the main **[Drones]({{ '/drones/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Drones]({{ '/drones/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Balloon Ir Case C34 A05]({{ '/aaro-balloon-ir-case-c34-a05/' | relative_url }})
 - [Al Taqaddum Balloons 978 E45]({{ '/al-taqaddum-balloons-978-e45/' | relative_url }})

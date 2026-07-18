@@ -264,7 +264,7 @@ image: /assets/images/ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18_hy
 
 ## Introduction
 
-For supporters of greater government transparency, Hynek became a powerful witness because he was not an outsider attacking the project from afar. He was an insider who concluded that the Air Force had missed an opportunity to study an unusual body of reports with greater scientific seriousness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+For supporters of greater government transparency, Hynek became a powerful witness because he was not an outsider attacking the project from afar. He was an insider who concluded that the Air Force had missed an opportunity to study an unusual body of reports with greater scientific seriousness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18_hynek_blue_book_crit_e7461b-Illustration-1-dark.svg" | relative_url }}" alt="Hynek Blue Book Crit E7461 B illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18_hynek_blue_book_crit_e7461b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18_hynek_blue_book_crit_e7461b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -272,9 +272,9 @@ For supporters of greater government transparency, Hynek became a powerful witne
 
 ### Hynek's role inside Air Force UFO work
 
-Hynek joined Air Force UFO investigations in 1948 as an astronomer tasked with helping identify sightings that could be explained by known astronomical or atmospheric phenomena. He served through Project Sign, Project Grudge, and eventually Project [Blue Book]({{ 'blue-book/' | relative_url }}), giving him a unique view of how official UFO investigations evolved over more than two decades. Initially he considered most reports to be misidentifications and openly described the subject as unlikely to contain anything significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reportsApril 26, 2026 — After the reports were attributed to swamp gas by Air Force civilian investigator J...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
+Hynek joined Air Force UFO investigations in 1948 as an astronomer tasked with helping identify sightings that could be explained by known astronomical or atmospheric phenomena. He served through Project Sign, Project Grudge, and eventually Project [Blue Book]({{ 'blue-book/' | relative_url }}), giving him a unique view of how official UFO investigations evolved over more than two decades. Initially he considered most reports to be misidentifications and openly described the subject as unlikely to contain anything significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reportsApril 26, 2026 — After the reports were attributed to swamp gas by Air Force civilian investigator J...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
 
-Over time, however, certain cases troubled him. Reports from military pilots, radar operators, police officers, and other trained observers did not always fit the easy explanations he expected. Hynek later said that the quality of some witnesses and the Air Force's unwillingness to consider unusual possibilities pushed him away from his original scepticism. He did not conclude that UFOs were extraterrestrial craft; rather, he concluded that some reports deserved more careful scientific examination than they were receiving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</span></span></span>
+Over time, however, certain cases troubled him. Reports from military pilots, radar operators, police officers, and other trained observers did not always fit the easy explanations he expected. Hynek later said that the quality of some witnesses and the Air Force's unwillingness to consider unusual possibilities pushed him away from his original scepticism. He did not conclude that UFOs were extraterrestrial craft; rather, he concluded that some reports deserved more careful scientific examination than they were receiving.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</span></span></span>
 
 His position gave special weight to his later criticism. Unlike many UFO advocates, he had worked within the official system and understood its procedures first-hand.
 
@@ -285,7 +285,7 @@ His position gave special weight to his later criticism. Unlike many UFO advocat
 
 Hynek's most persistent complaint was not that Blue Book reached conventional explanations, but that it often appeared committed to reaching them before the investigation was complete.
 
-In a widely cited statement from 1953, he argued that ridicule was not part of the scientific method and warned that the continuing flow of reports from credible witnesses created a legitimate scientific question. He believed that science should examine unusual claims carefully rather than dismiss them through public mockery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</span></span></span>
+In a widely cited statement from 1953, he argued that ridicule was not part of the scientific method and warned that the continuing flow of reports from credible witnesses created a legitimate scientific question. He believed that science should examine unusual claims carefully rather than dismiss them through public mockery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</span></span></span>
 
 By the late 1960s his criticisms had become more specific. In recommendations sent to the Air Force, Hynek argued that:
 
@@ -293,7 +293,7 @@ By the late 1960s his criticisms had become more specific. In recommendations se
 * Potentially valuable cases were not always examined thoroughly.
 * The project's resources were insufficient for serious scientific analysis.
 * The overall attitude of the programme had become "illogical and unscientific."
-* The scientific consultant's role was often restricted rather than fully utilised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.internationalflyingsaucerbureau.com/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalflyingsaucerbureau.com">[Flying Saucer Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalflyingsaucerbureau.com</span><span class="citation-popover-snippet">Flying Saucer BureauProject Blue BookThe basic attitude and approach within Blue Book is illogical and unscientific … Inadequate use had...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">roach within Blue Book is illogical and unscientific …Read more...</span></span></span> Perhaps his most damaging charge was that Blue Book increasingly functioned as a public-relations operation. Hynek later said that after thedeparture of early director Edward Ruppelt, scientific investigation declined and the project became more concerned with reassuring the public than with pursuing unresolved questions wherever the evidence led. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+* The scientific consultant's role was often restricted rather than fully utilised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.internationalflyingsaucerbureau.com/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalflyingsaucerbureau.com">[Flying Saucer Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalflyingsaucerbureau.com</span><span class="citation-popover-snippet">Flying Saucer BureauProject Blue BookThe basic attitude and approach within Blue Book is illogical and unscientific … Inadequate use had...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">roach within Blue Book is illogical and unscientific …Read more...</span></span></span> Perhaps his most damaging charge was that Blue Book increasingly functioned as a public-relations operation. Hynek later said that after thedeparture of early director Edward Ruppelt, scientific investigation declined and the project became more concerned with reassuring the public than with pursuing unresolved questions wherever the evidence led.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
 This distinction became central to later debates. Critics of Blue Book did not necessarily argue that the project hid proof of alien visitors. Many instead argued that its investigative framework encouraged premature explanations and discouraged deeper inquiry into difficult cases.
 
@@ -303,9 +303,9 @@ This distinction became central to later debates. Critics of Blue Book did not n
 
 Several incidents reinforced Hynek's growing dissatisfaction with Blue Book's methods.
 
-One of the most famous was the 1966 wave of sightings in Michigan. Acting as an Air Force consultant, Hynek suggested that some reports might have been caused by swamp gas illuminated under particular conditions. Although he presented the idea as a limited and tentative explanation, it became a national punchline. The public treated it as an example of official absurdity, while Hynek himself later regarded the episode as damaging both scientifically and politically. Even contemporaries noted that the explanation appeared inadequate to many witnesses and observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fordlibrarymuseum.gov">[Ford Library Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fordlibrarymuseum.gov</span><span class="citation-popover-title">Ford Library Museum Ford Press Releases</span><span class="citation-popover-snippet">Allen Hynek as &quot;flippant.&quot; Ford has received a number of telegrams and letters from individuals anxious to see...Read more...</span></span></span>
+One of the most famous was the 1966 wave of sightings in Michigan. Acting as an Air Force consultant, Hynek suggested that some reports might have been caused by swamp gas illuminated under particular conditions. Although he presented the idea as a limited and tentative explanation, it became a national punchline. The public treated it as an example of official absurdity, while Hynek himself later regarded the episode as damaging both scientifically and politically. Even contemporaries noted that the explanation appeared inadequate to many witnesses and observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fordlibrarymuseum.gov">[Ford Library Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fordlibrarymuseum.gov</span><span class="citation-popover-title">Ford Library Museum Ford Press Releases</span><span class="citation-popover-snippet">Allen Hynek as &quot;flippant.&quot; Ford has received a number of telegrams and letters from individuals anxious to see...Read more...</span></span></span>
 
-He also publicly disagreed with Air Force conclusions in several other well-known cases, including the Socorro sighting reported by police officer Lonnie Zamora and the Portage County pursuit reported by police officers. These disagreements were significant because they showed Hynek challenging official assessments while still serving as Blue Book's scientific adviser. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reportsApril 26, 2026 — After the reports were attributed to swamp gas by Air Force civilian investigator J...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
+He also publicly disagreed with Air Force conclusions in several other well-known cases, including the Socorro sighting reported by police officer Lonnie Zamora and the Portage County pursuit reported by police officers. These disagreements were significant because they showed Hynek challenging official assessments while still serving as Blue Book's scientific adviser.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reportsApril 26, 2026 — After the reports were attributed to swamp gas by Air Force civilian investigator J...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
 
 Such episodes convinced him that unexplained reports should not automatically be forced into conventional categories merely because an explanation was administratively convenient.
 
@@ -315,210 +315,210 @@ Such episodes convinced him that unexplained reports should not automatically be
 
 Hynek's critique remains influential because it addressed a broader issue than UFOs themselves: how institutions investigate unusual claims.
 
-His argument was essentially methodological. A case being unexplained does not prove an extraordinary hypothesis. At the same time, an unexplained case should not be treated as solved simply because investigators prefer a conventional answer. Hynek believed that science advances by examining anomalies carefully, not by assuming in advance what conclusions are acceptable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</span></span></span>
+His argument was essentially methodological. A case being unexplained does not prove an extraordinary hypothesis. At the same time, an unexplained case should not be treated as solved simply because investigators prefer a conventional answer. Hynek believed that science advances by examining anomalies carefully, not by assuming in advance what conclusions are acceptable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</span></span></span>
 
-That position allowed people with very different views about UFOs to cite him. UFO advocates saw his criticism as evidence that official investigations were biased. More cautious [researchers]({{ 'researchers/' | relative_url }}) pointed to Hynek as an example of someone who demanded better evidence without embracing sensational conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/1280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationHow One Man Made the World Believe in UFOs by Mark O&#x27;...Jul 2, 2018 — Those interested in UFOs will rem...</span></span></span>
+That position allowed people with very different views about UFOs to cite him. UFO advocates saw his criticism as evidence that official investigations were biased. More cautious [researchers]({{ 'researchers/' | relative_url }}) pointed to Hynek as an example of someone who demanded better evidence without embracing sensational conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/1280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationHow One Man Made the World Believe in UFOs by Mark O&#x27;...Jul 2, 2018 — Those interested in UFOs will rem...</span></span></span>
 
-His influence can also be seen in later efforts to study unidentified aerial phenomena. Modern debates frequently revolve around data quality, investigative standards, witness credibility, transparency, and institutional incentives—the same themes Hynek raised decades earlier. Whether one agrees with his conclusions or not, his criticism shifted attention from the question "Are UFOs real?" to the question "How should unusual reports be investigated?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</span></span></span>
+His influence can also be seen in later efforts to study unidentified aerial phenomena. Modern debates frequently revolve around data quality, investigative standards, witness credibility, transparency, and institutional incentives—the same themes Hynek raised decades earlier. Whether one agrees with his conclusions or not, his criticism shifted attention from the question "Are UFOs real?" to the question "How should unusual reports be investigated?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lIGQii6wA04" title="This Man Sparked Spielberg&#x27;s Interest in UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer">This Man Sparked Spielberg&#x27;s Interest in UFOs</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 452.6K &middot; Uploaded: August 2012</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lIGQii6wA04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lIGQii6wA04">Open on YouTube</a></p></div></div></div>
 
 ## From Blue Book Insider to Symbol of a Missed Opportunity
 
-Hynek never became the simple believer or simple debunker that later portrayals sometimes suggest. His mature position was more complicated. He accepted that many sightings had ordinary explanations and rejected sensational claims that lacked evidence. Yet he also believed that Blue Book's investigative culture often prevented genuinely puzzling cases from receiving the level of scientific scrutiny they deserved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</span></span></span>
+Hynek never became the simple believer or simple debunker that later portrayals sometimes suggest. His mature position was more complicated. He accepted that many sightings had ordinary explanations and rejected sensational claims that lacked evidence. Yet he also believed that Blue Book's investigative culture often prevented genuinely puzzling cases from receiving the level of scientific scrutiny they deserved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</span></span></span>
 
-That is why his legacy occupies such a distinctive place in discussions of Project Blue Book. The strongest challenge he posed was not that the Air Force failed to find alien spacecraft. It was that an organisation created to investigate a mystery too often behaved as though the mystery had already been solved. For critics of Blue Book, that transformed the project from a definitive answer into a cautionary example of how scientific opportunities can be limited by institutional assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</span></span></span>
+That is why his legacy occupies such a distinctive place in discussions of Project Blue Book. The strongest challenge he posed was not that the Air Force failed to find alien spacecraft. It was that an organisation created to investigate a mystery too often behaved as though the mystery had already been solved. For critics of Blue Book, that transformed the project from a definitive answer into a cautionary example of how scientific opportunities can be limited by institutional assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Hynek Blue Book Crit E7461 B. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Hynek Blue Book Crit E7461 B. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hynek-blue-book-crit-e7461-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="j-allen-hynek-s-critique-of-blue-book-science-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ That is why his legacy occupies such a distinctive place in discussions of Proje
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ That is why his legacy occupies such a distinctive place in discussions of Proje
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ That is why his legacy occupies such a distinctive place in discussions of Proje
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ That is why his legacy occupies such a distinctive place in discussions of Proje
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ That is why his legacy occupies such a distinctive place in discussions of Proje
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,143 +724,143 @@ That is why his legacy occupies such a distinctive place in discussions of Proje
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>roach within Blue Book is illogical and unscientific …Read more...</p></details>
+   Link:<a href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>roach within Blue Book is illogical and unscientific …Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan &quot;swamp gas&quot; UFO reportsApril 26, 2026 — After the reports were attributed to swamp gas by Air Force civilian investigator J...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan &quot;swamp gas&quot; UFO reportsApril 26, 2026 — After the reports were attributed to swamp gas by Air Force civilian investigator J...</p></details>
    Published: April 26, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/1280" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/1280</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationHow One Man Made the World Believe in UFOs by Mark O&#x27;...Jul 2, 2018 — Those interested in UFOs will rem...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/1280" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/1280</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationHow One Man Made the World Believe in UFOs by Mark O&#x27;...Jul 2, 2018 — Those interested in UFOs will rem...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: internationalflyingsaucerbureau.com  
-   Link: <a href="https://www.internationalflyingsaucerbureau.com/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalflyingsaucerbureau.com/project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer BureauProject Blue BookThe basic attitude and approach within Blue Book is illogical and unscientific … Inadequate use had...</p></details>
+   Link:<a href="https://www.internationalflyingsaucerbureau.com/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalflyingsaucerbureau.com/project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer BureauProject Blue BookThe basic attitude and approach within Blue Book is illogical and unscientific … Inadequate use had...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fordlibrarymuseum.gov  
    Title: Ford Library Museum Ford Press Releases  
-   Link: <a href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek as &quot;flippant.&quot; Ford has received a number of telegrams and letters from individuals anxious to see...Read more...</p></details>
+   Link:<a href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek as &quot;flippant.&quot; Ford has received a number of telegrams and letters from individuals anxious to see...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: findingaids.library.northwestern.edu  
-   Link: <a href="https://findingaids.library.northwestern.edu/repositories/6/resources/373" target="_blank" rel="noopener noreferrer nofollow">https://findingaids.library.northwestern.edu/repositories/6/resources/373</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>northwestern.eduJ. Allen Hynek (1910-1986) PapersSome of the reports were written for or published in Project Blue Book (the U.S. Militar...</p></details>
+   Link:<a href="https://findingaids.library.northwestern.edu/repositories/6/resources/373" target="_blank" rel="noopener noreferrer nofollow">https://findingaids.library.northwestern.edu/repositories/6/resources/373</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>northwestern.eduJ. Allen Hynek (1910-1986) PapersSome of the reports were written for or published in Project Blue Book (the U.S. Militar...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Over the next 17 years, Project Blue Book would compile reports of 12,618 UFO sightings or related events. Similarly to...Read more...</p></details>
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over the next 17 years, Project Blue Book would compile reports of 12,618 UFO sightings or related events. Similarly to...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recovered near Rosw...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recovered near Rosw...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
    Title: Project Blue Book | Definition, History, Aliens, UFOs, & Facts  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News •. Trump&#x27;s new &#x27;Aliens&#x27; website exploits UFO intrigue to demean immigrants...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News •. Trump&#x27;s new &#x27;Aliens&#x27; website exploits UFO intrigue to demean immigrants...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.howstuffworks.com  
    Title: ufo government2  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book - Aliens &amp; UFOsWant to learn more about UFOs and aliens? Check out these articles: · How UFOs Work · The Roswell UFO Crash · Hi...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book - Aliens &amp; UFOsWant to learn more about UFOs and aliens? Check out these articles: · How UFOs Work · The Roswell UFO Crash · Hi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/892" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/892</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO That Wasn&#x27;t Swamp Gas11 Jul 2023 — Swamp gas is something of a hoary old nickname for a case that&#x27;s not worth investigating. If t...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/892" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/892</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO That Wasn&#x27;t Swamp Gas11 Jul 2023 — Swamp gas is something of a hoary old nickname for a case that&#x27;s not worth investigating. If t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: biography.com  
    Title: j allen hynek  
-   Link: <a href="https://www.biography.com/scientists/j-allen-hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.biography.com/scientists/j-allen-hynek</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek - Project Blue Book, Quotes &amp; Facts22 Jan 2020 — Swamp Gas and the Condon Committee... In March 1966, Hynek was dispatched t...</p></details>
+   Link:<a href="https://www.biography.com/scientists/j-allen-hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.biography.com/scientists/j-allen-hynek</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek - Project Blue Book, Quotes &amp; Facts22 Jan 2020 — Swamp Gas and the Condon Committee... In March 1966, Hynek was dispatched t...</p></details>
    Published: March 1966  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon ReportThe project grew out of a critical review of Project Blue Book, the... The report was skeptical and ascribed most UFO sight...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon ReportThe project grew out of a critical review of Project Blue Book, the... The report was skeptical and ascribed most UFO sight...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Secret Life of J. Allen Hynek... Project Blue Book noted for his skeptical stance toward UFOs, Hynek... Project Bl...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/01/the-secret-life-of-j-allen-hynek/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Secret Life of J. Allen Hynek... Project Blue Book noted for his skeptical stance toward UFOs, Hynek... Project Bl...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dailynorthwestern.com  
-   Link: <a href="https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily NorthwesternRemembering NU professor J. Allen Hynek&#x27;s UFO research7 Mar 2023 — Hynek later became chief scientific advisor for...</p></details>
+   Link:<a href="https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://dailynorthwestern.com/2023/03/06/lateststories/time-capsule-a-look-at-j-allen-hynek-the-nu-professor-whose-ufo-research-inspired-close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily NorthwesternRemembering NU professor J. Allen Hynek&#x27;s UFO research7 Mar 2023 — Hynek later became chief scientific advisor for...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force analyzed UFO sightings and any security threat they posed; most notably through Project Blue Book, which launched in...Read more...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force analyzed UFO sightings and any security threat they posed; most notably through Project Blue Book, which launched in...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: on march 21 1966 dozens of students and staff at hillsdale college in michigan r  
-   Link: <a href="https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On March 21, 1966, dozens of students and staff at...J. Allen Hynek, and what was his role in Ufology? Answer: Dr. J. Allen Hynek was an...</p></details>
+   Link:<a href="https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On March 21, 1966, dozens of students and staff at...J. Allen Hynek, and what was his role in Ufology? Answer: Dr. J. Allen Hynek was an...</p></details>
    Published: March 21, 1966  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sofrep.com  
    Title: the truth behind ufos from project blue book to the pentagons uap task force  
-   Link: <a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — Project Blue Book had two main goals: to determine whether UFOs posed...</p></details>
+   Link:<a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — Project Blue Book had two main goals: to determine whether UFOs posed...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UCnc6db-y3IU7CkT_yeVXdVg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCnc6db-y3IU7CkT_yeVXdVg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. ColeMusic videos · No Role Modelz · J. Cole – Work Out (Official Music Video) · J. Cole - Power Trip (Lyric) ft. Miguel. J.Read more...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UCnc6db-y3IU7CkT_yeVXdVg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCnc6db-y3IU7CkT_yeVXdVg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. ColeMusic videos · No Role Modelz · J. Cole – Work Out (Official Music Video) · J. Cole - Power Trip (Lyric) ft. Miguel. J.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jasoncolavito.com  
    Title: review of historys project blue book ufo propaganda as turgid drama  
-   Link: <a href="https://www.jasoncolavito.com/blog/review-of-historys-project-blue-book-ufo-propaganda-as-turgid-drama" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-historys-project-blue-book-ufo-propaganda-as-turgid-drama</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of History&#x27;s &quot;Project Blue Book&quot;: UFO Propaganda...6 Jan 2019 — Although the MJ-12 conspiracy theory alleging that Harry Truman s...</p></details>
+   Link:<a href="https://www.jasoncolavito.com/blog/review-of-historys-project-blue-book-ufo-propaganda-as-turgid-drama" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-historys-project-blue-book-ufo-propaganda-as-turgid-drama</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review of History&#x27;s &quot;Project Blue Book&quot;: UFO Propaganda...6 Jan 2019 — Although the MJ-12 conspiracy theory alleging that Harry Truman s...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: amazon.sg  
-   Link: <a href="https://www.amazon.sg/Hynek-UFO-Report-Authoritative-Cover-Up/dp/1590033035" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.sg/Hynek-UFO-Report-Authoritative-Cover-Up/dp/1590033035</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FO witnesses are liars but to expose the unscientific way reports were analyzed...Read more...</p></details>
+   Link:<a href="https://www.amazon.sg/Hynek-UFO-Report-Authoritative-Cover-Up/dp/1590033035" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.sg/Hynek-UFO-Report-Authoritative-Cover-Up/dp/1590033035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FO witnesses are liars but to expose the unscientific way reports were analyzed...Read more...</p></details>

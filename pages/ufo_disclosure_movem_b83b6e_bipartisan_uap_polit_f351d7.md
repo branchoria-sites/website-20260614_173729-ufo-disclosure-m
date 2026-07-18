@@ -450,7 +450,7 @@ The political appeal is not that everyone agrees on what UAP are. They do not. T
 
 ## Why different lawmakers can support the same transparency push
 
-The UAP issue gives different political [factions]({{ 'factions/' | relative_url }}) different reasons to arrive at the same procedural demand: more accountable government. Senate Majority Leader Chuck Schumer, a Democrat, and Senator Mike Rounds, a Republican, jointly introduced the 2023 UAP [Disclosure Act]({{ 'disclosure-act/' | relative_url }}) as an amendment to the National Defense Authorization Act, describing it as a way to create a government records collection modelled on the JFK assassination records process. Their proposal was co-sponsored by senators from both parties, including Marco Rubio, Kirsten Gillibrand, Todd Young, and Martin Heinrich, and centred on a “presumption of disclosure” for UAP records rather than a congressional finding that alien technology exists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — The legislation intr...</span><span class="citation-popover-meta">Published: July 14, 2023</span></span></span>
+The UAP issue gives different political [factions]({{ 'factions/' | relative_url }}) different reasons to arrive at the same procedural demand: more accountable government. Senate Majority Leader Chuck Schumer, a Democrat, and Senator Mike Rounds, a Republican, jointly introduced the 2023 UAP [Disclosure Act]({{ 'disclosure-act/' | relative_url }}) as an amendment to the National Defense Authorization Act, describing it as a way to create a government records collection modelled on the JFK assassination records process. Their proposal was co-sponsored by senators from both parties, including Marco Rubio, Kirsten Gillibrand, Todd Young, and Martin Heinrich, and centred on a “presumption of disclosure” for UAP records rather than a congressional finding that alien technology exists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — The legislation intr...</span><span class="citation-popover-meta">Published: July 14, 2023</span></span></span>
 
 That framing matters. It lets lawmakers support UAP transparency through familiar institutional roles:
 
@@ -458,9 +458,9 @@ That framing matters. It lets lawmakers support UAP transparency through familia
 
 **Defence spending and contractor accountability:** If UAP-related programmes, sensor systems, retrieval claims, or legacy investigations involve defence funds, lawmakers can frame the issue as a spending-control question. The more the topic is tied to special-access programmes or contractor-held records, the more it becomes a conventional problem of appropriations and oversight.
 
-**Aviation and military safety:** Pilots and service members may encounter objects they cannot identify, including [drones]({{ 'drones/' | relative_url }}), balloons, aircraft, clutter, sensor artefacts, or rarer unresolved cases. The House Oversight hearing in July 2023 was formally framed around national security, public safety, and government transparency, with testimony from former military personnel and aviation witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National...26 Jul 2023 — Hearing Date: July 26, 2023 10:00 am 2154...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span>
+**Aviation and military safety:** Pilots and service members may encounter objects they cannot identify, including [drones]({{ 'drones/' | relative_url }}), balloons, aircraft, clutter, sensor artefacts, or rarer unresolved cases. The House Oversight hearing in July 2023 was formally framed around national security, public safety, and government transparency, with testimony from former military personnel and aviation witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National...26 Jul 2023 — Hearing Date: July 26, 2023 10:00 am 2154...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span>
 
-**Public [trust]({{ 'trust/' | relative_url }}) and records access:** The National Archives now has a statutory role in the UAP issue. The 2024 defence law required the creation of an Unidentified Anomalous Phenomena Records Collection, and NARA instructed federal agencies to identify, review, organise, and transmit UAP records for disclosure and preservation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">uap guidance</span></span></span>
+**Public [trust]({{ 'trust/' | relative_url }}) and records access:** The National Archives now has a statutory role in the UAP issue. The 2024 defence law required the creation of an Unidentified Anomalous Phenomena Records Collection, and NARA instructed federal agencies to identify, review, organise, and transmit UAP records for disclosure and preservation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">uap guidance</span></span></span>
 
 This is why UAP transparency has more political flexibility than many culture-war issues. A progressive can ask whether the public has been misled by secretive institutions. A conservative can ask whether unelected bureaucracies are evading Congress. A defence hawk can ask whether unknown objects near military ranges represent a security problem. A civil libertarian can ask whether overclassification is undermining democratic accountability. They may disagree on the likely answer, but they can all support a demand for process.
 
@@ -470,24 +470,24 @@ This is why UAP transparency has more political flexibility than many culture-wa
 
 The strongest bipartisan UAP politics usually avoids making “aliens are real” the legislative premise. Instead, it works through questions that Congress is already equipped to ask: What records exist? Who controls them? Are reports being standardised? Are witnesses protected? Are classified programmes properly briefed to the right committees? Are agencies using national-security exemptions too broadly?
 
-Official findings reinforce why this cautious framing is politically useful. NASA’s 2023 independent study report said there was no conclusive evidence in peer-reviewed literature for an extraterrestrial origin of UAP, while also arguing that poor data quality and stigma make rigorous study difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science[PDF] Independent Study Team Report &#124; NASA Science</span><span class="citation-popover-snippet">Science[PDF] Independent Study Team Report &#124; NASA Science</span></span></span> The Pentagon’s All-domain Anomaly Resolution Office, or AARO, likewise states that the Department of Defense has not found evidence of extraterrestrial technology, while continuing to collect and assess UAP reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+Official findings reinforce why this cautious framing is politically useful. NASA’s 2023 independent study report said there was no conclusive evidence in peer-reviewed literature for an extraterrestrial origin of UAP, while also arguing that poor data quality and stigma make rigorous study difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science[PDF] Independent Study Team Report &#124; NASA Science</span><span class="citation-popover-snippet">Science[PDF] Independent Study Team Report &#124; NASA Science</span></span></span> The Pentagon’s All-domain Anomaly Resolution Office, or AARO, likewise states that the Department of Defense has not found evidence of extraterrestrial technology, while continuing to collect and assess UAP reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 That official caution gives lawmakers room to pursue transparency without endorsing the most dramatic claims. It also protects the coalition from collapsing into a belief test. A member of Congress can say: “I am not claiming this is non-human technology; I am saying Congress and the public need a trustworthy process for records, reporting, and review.” That distinction is central to why the issue has survived in committee rooms rather than remaining only a subject of media speculation.
 
-The same logic shaped the creation and funding of AARO. Senator Kirsten Gillibrand and Senator Marco Rubio led a bipartisan push for full funding of the office, presenting UAP as an airborne national-security risk that required a properly resourced investigative body. Gillibrand later announced that she had secured full funding for AARO in the Senate Armed Services Committee’s fiscal year 2024 defence bill markup. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This was not simply a “disclosure movement” demand from outside government; it was an institutional attempt to give the defence and intelligence system a formal place to receive, analyse, and report UAP information.
+The same logic shaped the creation and funding of AARO. Senator Kirsten Gillibrand and Senator Marco Rubio led a bipartisan push for full funding of the office, presenting UAP as an airborne national-security risk that required a properly resourced investigative body. Gillibrand later announced that she had secured full funding for AARO in the Senate Armed Services Committee’s fiscal year 2024 defence bill markup.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This was not simply a “disclosure movement” demand from outside government; it was an institutional attempt to give the defence and intelligence system a formal place to receive, analyse, and report UAP information.
 
-The oversight frame also helps explain why [hearings]({{ 'hearings/' | relative_url }}) can include dramatic witness testimony while still producing cautious legislative language. In the July 2023 House hearing, former intelligence official David Grusch made highly consequential allegations about hidden crash-retrieval and reverse-engineering programmes, while other witnesses emphasised pilot reporting and aviation safety. The political mechanism was not to prove every allegation in public session. It was to move those claims into channels where inspectors general, committees, and classified briefings could test them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The oversight frame also helps explain why [hearings]({{ 'hearings/' | relative_url }}) can include dramatic witness testimony while still producing cautious legislative language. In the July 2023 House hearing, former intelligence official David Grusch made highly consequential allegations about hidden crash-retrieval and reverse-engineering programmes, while other witnesses emphasised pilot reporting and aviation safety. The political mechanism was not to prove every allegation in public session. It was to move those claims into channels where inspectors general, committees, and classified briefings could test them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KQ7Dw-739VY" title="Subcommittee on National Security, the Border, and Foreign Affairs Hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KQ7Dw-739VY" target="_blank" rel="noopener noreferrer">Subcommittee on National Security, the Border, and Foreign Affairs Hearing</a></p><p class="youtube-embed-meta">Channel: GOP Oversight &middot; Views: 1.3M &middot; Uploaded: July 2023 &middot; Length: 2 hours 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KQ7Dw-739VY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KQ7Dw-739VY">Open on YouTube</a></p></div></div></div>
 
 ## The Schumer-Rounds model turned disclosure into records policy
 
-The UAP Disclosure Act of 2023 is the clearest example of bipartisan disclosure politics becoming a governance proposal. Its central move was to shift the issue away from ad hoc leaks, one-off hearings, and agency discretion, and towards an archive-based disclosure system. The proposal called for a UAP Records Collection at the National Archives and a presumption that government UAP records should be disclosed unless postponement was justified under defined standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — The legislation intr...</span><span class="citation-popover-meta">Published: July 14, 2023</span></span></span>
+The UAP Disclosure Act of 2023 is the clearest example of bipartisan disclosure politics becoming a governance proposal. Its central move was to shift the issue away from ad hoc leaks, one-off hearings, and agency discretion, and towards an archive-based disclosure system. The proposal called for a UAP Records Collection at the National Archives and a presumption that government UAP records should be disclosed unless postponement was justified under defined standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — The legislation intr...</span><span class="citation-popover-meta">Published: July 14, 2023</span></span></span>
 
 The choice of the JFK assassination records model was politically clever. It did not require lawmakers to agree on the underlying truth of every UAP claim. It invoked a familiar public-trust problem: when secrecy lasts too long, suspicion becomes self-sustaining. A records-collection system offers a procedural remedy. It says that the state should preserve, identify, review, and release records according to rules visible enough for the public to evaluate.
 
-The version enacted in the fiscal year 2024 defence law was narrower than the original proposal, but it still created a concrete institutional foothold. Sections 1841 to 1843 of the law required NARA to establish the UAP Records Collection and required agencies to review, identify, and organise relevant records for public disclosure and transfer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">uap guidance</span></span></span> That is a significant shift for the disclosure movement: instead of depending only on whistleblowers or Freedom of Information Act requests, UAP records became a statutory records-management category.
+The version enacted in the fiscal year 2024 defence law was narrower than the original proposal, but it still created a concrete institutional foothold. Sections 1841 to 1843 of the law required NARA to establish the UAP Records Collection and required agencies to review, identify, and organise relevant records for public disclosure and transfer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">uap guidance</span></span></span> That is a significant shift for the disclosure movement: instead of depending only on whistleblowers or Freedom of Information Act requests, UAP records became a statutory records-management category.
 
 This matters politically because archive law is less combustible than alien speculation. It lets supporters say that the public deserves records even if many cases eventually turn out to be drones, balloons, aircraft, sensor effects, or classified human technology. It also lets sceptics support disclosure as a way to reduce myth-making. Better records can confirm some concerns, debunk others, and narrow the zone in which rumours flourish.
 
@@ -495,11 +495,11 @@ This matters politically because archive law is less combustible than alien spec
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7-Illustration-2-dark.svg" | relative_url }}" alt="Bipartisan illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The House coalition is noisier but still cross-party
 
-In the House, UAP transparency has often been more populist and confrontational than in the Senate. Republican representatives such as Tim Burchett and Anna Paulina Luna became prominent public advocates for UAP hearings and records access, while Democratic members including Robert Garcia, Jared Moskowitz, and Alexandria Ocasio-Cortez have also pressed oversight questions from different angles. Burchett launched a UAP caucus in 2023 and led colleagues in seeking follow-up from the Intelligence Community Inspector General after the July 2023 hearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: burchett.house.gov">[Representative Tim Burchett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">burchett.house.gov</span><span class="citation-popover-title">rep burchett launches uap caucus leads letter intelligence community inspector</span><span class="citation-popover-snippet">rep burchett launches uap caucus leads letter intelligence community inspector</span></span></span>
+In the House, UAP transparency has often been more populist and confrontational than in the Senate. Republican representatives such as Tim Burchett and Anna Paulina Luna became prominent public advocates for UAP hearings and records access, while Democratic members including Robert Garcia, Jared Moskowitz, and Alexandria Ocasio-Cortez have also pressed oversight questions from different angles. Burchett launched a UAP caucus in 2023 and led colleagues in seeking follow-up from the Intelligence Community Inspector General after the July 2023 hearing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: burchett.house.gov">[Representative Tim Burchett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">burchett.house.gov</span><span class="citation-popover-title">rep burchett launches uap caucus leads letter intelligence community inspector</span><span class="citation-popover-snippet">rep burchett launches uap caucus leads letter intelligence community inspector</span></span></span>
 
 The House version of bipartisanship is less about a single unified theory and more about a shared suspicion that agencies are not being fully candid. Some members emphasise alleged crash-retrieval programmes. Others focus on witness retaliation, pilot safety, the misuse of classification, or whether contractors can shield information from public accountability. The coalition therefore looks ideologically odd from the outside, but internally it is held together by an institutional claim: Congress should not be stonewalled.
 
-That explains why House hearings often use the language of public trust. In 2025, the House Oversight Committee’s Task Force on the Declassification of Federal Secrets held a hearing titled “Restoring Public Trust Through UAP Transparency and Whistleblower Protection”, with Chairwoman Luna arguing that the federal government and intelligence community had not been transparent enough about UAP research and disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National...26 Jul 2023 — Hearing Date: July 26, 2023 10:00 am 2154...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> The title itself shows the political strategy: the hearing was framed less as a hearing on extraterrestrial life than as a hearing on trust, secrecy, and witness protection.
+That explains why House hearings often use the language of public trust. In 2025, the House Oversight Committee’s Task Force on the Declassification of Federal Secrets held a hearing titled “Restoring Public Trust Through UAP Transparency and Whistleblower Protection”, with Chairwoman Luna arguing that the federal government and intelligence community had not been transparent enough about UAP research and disclosure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National...26 Jul 2023 — Hearing Date: July 26, 2023 10:00 am 2154...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> The title itself shows the political strategy: the hearing was framed less as a hearing on extraterrestrial life than as a hearing on trust, secrecy, and witness protection.
 
 This approach has advantages and risks. The advantage is that it can bring together members who rarely cooperate on other issues. The risk is that the coalition can become vulnerable to overreach if public claims run far ahead of verifiable evidence. The broader and more dramatic the allegation, the more important the oversight frame becomes: it keeps the demand focused on documents, testimony, and accountability rather than requiring every participant to endorse the same explanation.
 
@@ -510,13 +510,13 @@ This approach has advantages and risks. The advantage is that it can bring toget
 
 Bipartisan support for UAP transparency is real, but it is not unlimited. The same issue that looks easy to support at the level of “release the records” becomes more divisive when the details touch national-security law, private contractors, executive privilege, classified sources and methods, or claims about recovered non-human technology.
 
-The most visible fracture came when the 2023 UAP Disclosure Act was narrowed before final passage. Reporting at the time described the enacted measure as stripped down: the National Archives would collect UAP records, but agencies retained broad authority to postpone disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian US Congress passes stripped-down measure to release</span><span class="citation-popover-snippet">The Guardian US Congress passes stripped-down measure to release</span></span></span> The original proposal was more ambitious, including an independent review board and stronger mechanisms for handling alleged recovered technologies or biological evidence. A later House amendment draft preserved language asserting federal eminent domain over “recovered technologies of unknown origin” and “biological evidence of non-human intelligence”, showing how far some disclosure advocates wanted the policy to go. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rules.house.gov/bill/118/hr-8070" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rules.house.gov">[House Rules Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rules.house.gov</span><span class="citation-popover-title">hr 8070</span><span class="citation-popover-snippet">hr 8070</span></span></span>
+The most visible fracture came when the 2023 UAP Disclosure Act was narrowed before final passage. Reporting at the time described the enacted measure as stripped down: the National Archives would collect UAP records, but agencies retained broad authority to postpone disclosure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian US Congress passes stripped-down measure to release</span><span class="citation-popover-snippet">The Guardian US Congress passes stripped-down measure to release</span></span></span> The original proposal was more ambitious, including an independent review board and stronger mechanisms for handling alleged recovered technologies or biological evidence. A later House amendment draft preserved language asserting federal eminent domain over “recovered technologies of unknown origin” and “biological evidence of non-human intelligence”, showing how far some disclosure advocates wanted the policy to go.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rules.house.gov/bill/118/hr-8070" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rules.house.gov">[House Rules Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rules.house.gov</span><span class="citation-popover-title">hr 8070</span><span class="citation-popover-snippet">hr 8070</span></span></span>
 
 Those provisions reveal the pressure points. Many lawmakers can support a records collection. Fewer may support a powerful independent board able to challenge agency secrecy. Fewer still may be comfortable with statutory language about non-human intelligence, especially if they believe it risks validating unproven claims or creating legal conflict with defence contractors and classified programmes.
 
 There is also a tension between transparency and genuine security. Some UAP reports may involve sensitive sensors, military ranges, intelligence platforms, adversary drones, or classified US systems. Disclosure advocates often argue that secrecy has been abused; defence and intelligence officials often argue that some information cannot be released without revealing capabilities or vulnerabilities. The political difficulty is designing a process that can distinguish legitimate secrecy from embarrassment, inertia, or institutional self-protection.
 
-A further fracture could emerge between “scientific transparency” and “total disclosure”. NASA’s approach emphasises better data, calibrated sensors, stigma reduction, and cautious analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science[PDF] Independent Study Team Report &#124; NASA Science</span><span class="citation-popover-snippet">Science[PDF] Independent Study Team Report &#124; NASA Science</span></span></span> Some disclosure activists, by contrast, believe the core issue is not poor data but concealed knowledge. Those views can coexist inside a broad movement for a while, but they imply different priorities: building better future collection systems versus forcing open alleged legacy programmes.
+A further fracture could emerge between “scientific transparency” and “total disclosure”. NASA’s approach emphasises better data, calibrated sensors, stigma reduction, and cautious analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science[PDF] Independent Study Team Report &#124; NASA Science</span><span class="citation-popover-snippet">Science[PDF] Independent Study Team Report &#124; NASA Science</span></span></span> Some disclosure activists, by contrast, believe the core issue is not poor data but concealed knowledge. Those views can coexist inside a broad movement for a while, but they imply different priorities: building better future collection systems versus forcing open alleged legacy programmes.
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7-Illustration-3-dark.svg" | relative_url }}" alt="Bipartisan illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -535,194 +535,194 @@ The coalition’s future will depend on whether it can keep that procedural cent
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Disclosure Crosses Party Lines. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Disclosure Crosses Party Lines. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Relevant to oversight, whistleblower politics, and classified-program claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to oversight, whistleblower politics, and classified-program claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows why officials from different backgrounds push transparency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why officials from different backgrounds push transparency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Helps frame why classified aviation topics attract cross-party suspicion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps frame why classified aviation topics attract cross-party suspicion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Connects UFO disclosure to government institutions and public accountability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO disclosure to government institutions and public accountability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="bipartisan-why-ufo-disclosure-crosses-party-lines-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-ufo-disclosure-crosses-party-lines-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -738,7 +738,7 @@ The coalition’s future will depend on whether it can keep that procedural cent
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -758,7 +758,7 @@ The coalition’s future will depend on whether it can keep that procedural cent
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -790,7 +790,7 @@ The coalition’s future will depend on whether it can keep that procedural cent
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -842,7 +842,7 @@ The coalition’s future will depend on whether it can keep that procedural cent
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -887,7 +887,7 @@ The coalition’s future will depend on whether it can keep that procedural cent
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -928,200 +928,200 @@ The coalition’s future will depend on whether it can keep that procedural cent
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: democrats.senate.gov  
    Title: Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — The legislation intr...</p></details>
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Democratic LeadershipSchumer, Rounds Introduce New Legislation To Declassify...July 14, 2023 — 14 Jul 2023 — The legislation intr...</p></details>
    Published: July 14, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National...26 Jul 2023 — Hearing Date: July 26, 2023 10:00 am 2154...</p></details>
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National...26 Jul 2023 — Hearing Date: July 26, 2023 10:00 am 2154...</p></details>
    Published: July 26, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science[PDF] Independent Study Team Report | NASA Science  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gillibrand.senate.gov  
-   Link: <a href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/" target="_blank" rel="noopener noreferrer nofollow">https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/</a>  
+   Link:<a href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/" target="_blank" rel="noopener noreferrer nofollow">https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gillibrand.senate.gov  
    Title: gillibrand secures full funding for uap office in senate defense bill markup  
-   Link: <a href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow">https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/</a>  
+   Link:<a href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow">https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
+   Link:<a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: burchett.house.gov  
    Title: rep burchett launches uap caucus leads letter intelligence community inspector  
-   Link: <a href="https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector</a>  
+   Link:<a href="https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oversightdemocrats.house.gov  
    Title: ranking member garcia s opening statement at subcommittee hearing on 0  
-   Link: <a href="https://oversightdemocrats.house.gov/news/press-releases/ranking-member-garcia-s-opening-statement-at-subcommittee-hearing-on-0" target="_blank" rel="noopener noreferrer nofollow">https://oversightdemocrats.house.gov/news/press-releases/ranking-member-garcia-s-opening-statement-at-subcommittee-hearing-on-0</a>  
+   Link:<a href="https://oversightdemocrats.house.gov/news/press-releases/ranking-member-garcia-s-opening-statement-at-subcommittee-hearing-on-0" target="_blank" rel="noopener noreferrer nofollow">https://oversightdemocrats.house.gov/news/press-releases/ranking-member-garcia-s-opening-statement-at-subcommittee-hearing-on-0</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oversight.house.gov  
    Title: luna opens hearing on restoring public trust through uap transparency  
-   Link: <a href="https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/</a>  
+   Link:<a href="https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oversight.house.gov  
    Title: hearing wrap up government must be more transparent about uaps  
-   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
+   Link:<a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: amendments-rules.house.gov  
    Title: Rules Committee Subtitle D—Unidentified Anomalous Phenomena Disclosure  
-   Link: <a href="https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf</a>  
+   Link:<a href="https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amendments-rules.house.gov/amendments/GARCRO_115_xml240529153551283.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: young.senate.gov  
-   Link: <a href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/</a>  
+   Link:<a href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: democrats.senate.gov  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/majority-leader-schumer-and-republican-senator-mike-rounds-floor-colloquy-on-unidentified-anomalous-phenomena-provisions-in-the-ndaa-and-future-legislation-on-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/majority-leader-schumer-and-republican-senator-mike-rounds-floor-colloquy-on-unidentified-anomalous-phenomena-provisions-in-the-ndaa-and-future-legislation-on-uaps</a>  
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/majority-leader-schumer-and-republican-senator-mike-rounds-floor-colloquy-on-unidentified-anomalous-phenomena-provisions-in-the-ndaa-and-future-legislation-on-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/majority-leader-schumer-and-republican-senator-mike-rounds-floor-colloquy-on-unidentified-anomalous-phenomena-provisions-in-the-ndaa-and-future-legislation-on-uaps</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: burlison.house.gov  
    Title: rep burlison introduces uap disclosure act 2025 amendment ndaa  
-   Link: <a href="https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa</a>  
+   Link:<a href="https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: burchett.house.gov  
    Title: oversight committee announces uap hearing  
-   Link: <a href="https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing</a>  
+   Link:<a href="https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/house-oversight-committee-announces-uap-hearing</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rules.house.gov  
    Title: hr 8070  
-   Link: <a href="https://rules.house.gov/bill/118/hr-8070" target="_blank" rel="noopener noreferrer nofollow">https://rules.house.gov/bill/118/hr-8070</a>  
+   Link:<a href="https://rules.house.gov/bill/118/hr-8070" target="_blank" rel="noopener noreferrer nofollow">https://rules.house.gov/bill/118/hr-8070</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: disclosure.org  
    Title: senate reception 2024  
-   Link: <a href="https://disclosure.org/events/senate-reception-2024" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/events/senate-reception-2024</a>  
+   Link:<a href="https://disclosure.org/events/senate-reception-2024" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/events/senate-reception-2024</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/</a>  
+   Link:<a href="https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/25/senate-panel-aims-to-set-a-mandatory-timeline-and-process-for-agencies-to-declassify-all-uap-records/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theguardian.com  
    Title: The Guardian US Congress passes stripped-down measure to release  
-   Link: <a href="https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress</a>  
+   Link:<a href="https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/dec/15/ufo-records-release-congress</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
+   Link:<a href="https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/jan/14/what-happens-if-we-have-been-visited-by-aliens-lied-to-ufos-uaps-grusch-congress</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
    Title: ufo congress hearing  
-   Link: <a href="https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz</a>  
+   Link:<a href="https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
+   Link:<a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z8a0P617nqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers demand disclosure of UAP information...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z8a0P617nqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z8a0P617nqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers demand disclosure of UAP information...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mu9mw6GHPEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mu9mw6GHPEM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO disclosure amendment facing pushback | Vargas Reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mu9mw6GHPEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mu9mw6GHPEM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO disclosure amendment facing pushback | Vargas Reports...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Lawmakers demand disclosure of UAP information  
-   Link: <a href="https://www.youtube.com/watch?v=5Py0BhmvIuI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Py0BhmvIuI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>House holds hearing on UFO transparency and whistleblower protection | full video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5Py0BhmvIuI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Py0BhmvIuI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House holds hearing on UFO transparency and whistleblower protection | full video...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: UFO disclosure amendment facing pushback | Vargas Reports  
-   Link: <a href="https://www.youtube.com/watch?v=O6ShslicJeQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O6ShslicJeQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>House committee holds UFO hearing | full video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O6ShslicJeQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O6ShslicJeQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House committee holds UFO hearing | full video...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reuters.com  
    Title: senators move require release us government ufo records 2023 07 14  
-   Link: <a href="https://www.reuters.com/world/us/senators-move-require-release-us-government-ufo-records-2023-07-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/senators-move-require-release-us-government-ufo-records-2023-07-14/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government to publicly release records...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/senators-move-require-release-us-government-ufo-records-2023-07-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/senators-move-require-release-us-government-ufo-records-2023-07-14/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government to publicly release records...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-bipartisan-group-of-lawmakers-is-pushing-for-more-transparency-on-alleged-ufo-/1020926820314335/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-bipartisan-group-of-lawmakers-is-pushing-for-more-transparency-on-alleged-ufo-/1020926820314335/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-bipartisan-group-of-lawmakers-is-pushing-for-more-transparency-on-alleged-ufo-/1020926820314335/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-bipartisan-group-of-lawmakers-is-pushing-for-more-transparency-on-alleged-ufo-/1020926820314335/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-group-of-bipartisan-lawmakers-are-calling-for-the-government-to-release-docume/1022829023457448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-group-of-bipartisan-lawmakers-are-calling-for-the-government-to-release-docume/1022829023457448/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-group-of-bipartisan-lawmakers-are-calling-for-the-government-to-release-docume/1022829023457448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-group-of-bipartisan-lawmakers-are-calling-for-the-government-to-release-docume/1022829023457448/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/USATODAYEntertainment/posts/at-the-disclosureday-premiere-and-ahead-of-a-capitol-hill-press-conference-calli/1356921786308197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USATODAYEntertainment/posts/at-the-disclosureday-premiere-and-ahead-of-a-capitol-hill-press-conference-calli/1356921786308197/</a>  
+   Link:<a href="https://www.facebook.com/USATODAYEntertainment/posts/at-the-disclosureday-premiere-and-ahead-of-a-capitol-hill-press-conference-calli/1356921786308197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USATODAYEntertainment/posts/at-the-disclosureday-premiere-and-ahead-of-a-capitol-hill-press-conference-calli/1356921786308197/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBS4RGV/posts/lawmakers-and-uap-whistleblowers-are-set-to-gather-at-the-us-capitol-tuesday-to-/1401860545309677/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBS4RGV/posts/lawmakers-and-uap-whistleblowers-are-set-to-gather-at-the-us-capitol-tuesday-to-/1401860545309677/</a>  
+   Link:<a href="https://www.facebook.com/CBS4RGV/posts/lawmakers-and-uap-whistleblowers-are-set-to-gather-at-the-us-capitol-tuesday-to-/1401860545309677/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBS4RGV/posts/lawmakers-and-uap-whistleblowers-are-set-to-gather-at-the-us-capitol-tuesday-to-/1401860545309677/</a>  

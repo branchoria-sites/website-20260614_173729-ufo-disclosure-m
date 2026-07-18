@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-uap/
 description: Focused pages that expand on Security Frame.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_uap_security_framing_98e2bd
 parent_title: Security Frame
@@ -16,7 +16,7 @@ parent_permalink: /security-frame/
 
 # Explore Topics in Security Frame
 
-The following pages expand on the main **[Security Frame]({{ '/security-frame/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Security Frame]({{ '/security-frame/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Unresolved Evid Da 06 Ad]({{ '/aaro-unresolved-evid-da-06-ad/' | relative_url }})
 - [Foreign Surveillance 6 E33 E1]({{ '/foreign-surveillance-6-e33-e1/' | relative_url }})

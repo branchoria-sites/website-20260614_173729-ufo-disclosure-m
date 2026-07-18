@@ -265,11 +265,11 @@ For observers of the [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | r
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3_balloon_alien_specul_a90b61-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Alien Specul A90 B61 illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3_balloon_alien_specul_a90b61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3_balloon_alien_specul_a90b61-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why “unidentified” did not mean alien
 
-The key fact often lost during the news cycle was that “unidentified” is a temporary classification, not a conclusion. After the Chinese surveillance balloon was shot down on 4 February 2023, military authorities increased scrutiny of North American airspace and adjusted radar settings to detect smaller, slower-moving objects. This led to the discovery of additional airborne targets that previously might have been ignored or filtered out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">I Haven&#x27;t Ruled Out Anything.&#x27; U.S</span><span class="citation-popover-snippet">General Doesn&#x27;t Eliminate Aliens As UFOs MountFebruary 13, 2023 — The U.S. military has recently shot down several unidentified flying ob...</span><span class="citation-popover-meta">Published: February 13, 2023</span></span></span>
+The key fact often lost during the news cycle was that “unidentified” is a temporary classification, not a conclusion. After the Chinese surveillance balloon was shot down on 4 February 2023, military authorities increased scrutiny of North American airspace and adjusted radar settings to detect smaller, slower-moving objects. This led to the discovery of additional airborne targets that previously might have been ignored or filtered out.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">I Haven&#x27;t Ruled Out Anything.&#x27; U.S</span><span class="citation-popover-snippet">General Doesn&#x27;t Eliminate Aliens As UFOs MountFebruary 13, 2023 — The U.S. military has recently shot down several unidentified flying ob...</span><span class="citation-popover-meta">Published: February 13, 2023</span></span></span>
 
-Officials openly acknowledged that they did not immediately know what the new objects were. That uncertainty was technically accurate, but it created a communications problem. Many news reports highlighted that the objects were “unidentified” while simultaneously noting that fighter jets were being scrambled and missiles were being launched. The combination of mystery and military action encouraged speculation far beyond the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The object, described as being &#x27;the size of a small car,&#x27; was spotted at an altitude of 40,000 feet, which posed a threat to civilian air...</span></span></span>
+Officials openly acknowledged that they did not immediately know what the new objects were. That uncertainty was technically accurate, but it created a communications problem. Many news reports highlighted that the objects were “unidentified” while simultaneously noting that fighter jets were being scrambled and missiles were being launched. The combination of mystery and military action encouraged speculation far beyond the available evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The object, described as being &#x27;the size of a small car,&#x27; was spotted at an altitude of 40,000 feet, which posed a threat to civilian air...</span></span></span>
 
-The situation became so charged that White House Press Secretary Karine Jean-Pierre felt compelled to address alien rumours directly, stating that there was “no indication of aliens or extraterrestrial activity” connected to the incidents. The fact that senior officials had to deny extraterrestrial involvement illustrates how quickly the public conversation had shifted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/politics/white-house-defends-decision-to-shoot-down-3-unidentified-objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">white house defends decision to shoot down 3 unidentified objects</span><span class="citation-popover-snippet">White House defends decision to shoot down 3...Feb 14, 2023 — &quot;I know there have been questions and concerns about this, but there is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/white-house-no-evidence-shot-down-objects-alien-spacecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Space&#x27;No evidence&#x27; shot-down objects are alien spacecraftFeb 13, 2566 BE — &#x27;No indication&#x27; shot-down objects are alien spacecraft, White...</span></span></span>
+The situation became so charged that White House Press Secretary Karine Jean-Pierre felt compelled to address alien rumours directly, stating that there was “no indication of aliens or extraterrestrial activity” connected to the incidents. The fact that senior officials had to deny extraterrestrial involvement illustrates how quickly the public conversation had shifted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/politics/white-house-defends-decision-to-shoot-down-3-unidentified-objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">white house defends decision to shoot down 3 unidentified objects</span><span class="citation-popover-snippet">White House defends decision to shoot down 3...Feb 14, 2023 — &quot;I know there have been questions and concerns about this, but there is...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/white-house-no-evidence-shot-down-objects-alien-spacecraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Space&#x27;No evidence&#x27; shot-down objects are alien spacecraftFeb 13, 2566 BE — &#x27;No indication&#x27; shot-down objects are alien spacecraft, White...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pI62mLVHSM8" title="Spy balloons are not &#x27;aliens&#x27;, insists US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pI62mLVHSM8" target="_blank" rel="noopener noreferrer">Spy balloons are not &#x27;aliens&#x27;, insists US</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 14.6K &middot; Uploaded: February 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pI62mLVHSM8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pI62mLVHSM8">Open on YouTube</a></p></div></div></div>
@@ -278,13 +278,13 @@ The situation became so charged that White House Press Secretary Karine Jean-Pie
 
 The balloon episode unfolded under conditions that favour speculation.
 
-First, there was a genuine national-security story. The original Chinese balloon was ultimately identified as a surveillance platform, creating public expectations that other mysterious objects might also be significant threats. Officials described the subsequent targets as different from the Chinese balloon, but they could not immediately explain what they were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">flying objects shot down balloons white house</span><span class="citation-popover-snippet">The GuardianThree objects shot down after Chinese spy balloon may be...Feb 14, 2023 — “I know there have been questions and concerns abo...</span></span></span>
+First, there was a genuine national-security story. The original Chinese balloon was ultimately identified as a surveillance platform, creating public expectations that other mysterious objects might also be significant threats. Officials described the subsequent targets as different from the Chinese balloon, but they could not immediately explain what they were.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">flying objects shot down balloons white house</span><span class="citation-popover-snippet">The GuardianThree objects shot down after Chinese spy balloon may be...Feb 14, 2023 — “I know there have been questions and concerns abo...</span></span></span>
 
-Second, information emerged in fragments. Military commanders disclosed altitude estimates, locations, and interception details before investigators had recovered debris or reached firm conclusions. News organisations therefore reported what was known at each moment, which often meant leading with uncertainty. In fast-moving media environments, uncertainty itself becomes a headline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The object, described as being &#x27;the size of a small car,&#x27; was spotted at an altitude of 40,000 feet, which posed a threat to civilian air...</span></span></span>
+Second, information emerged in fragments. Military commanders disclosed altitude estimates, locations, and interception details before investigators had recovered debris or reached firm conclusions. News organisations therefore reported what was known at each moment, which often meant leading with uncertainty. In fast-moving media environments, uncertainty itself becomes a headline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The object, described as being &#x27;the size of a small car,&#x27; was spotted at an altitude of 40,000 feet, which posed a threat to civilian air...</span></span></span>
 
 Third, the story arrived during a period of heightened interest in unidentified aerial phenomena (UAP). Congressional [hearings]({{ 'hearings/' | relative_url }}), Pentagon reviews, and years of discussion surrounding Navy pilot encounters had already brought UFO topics back into mainstream conversation. As a result, many audiences interpreted the new events through an existing UAP framework rather than as a conventional airspace-monitoring story.
 
-One revealing moment came when a U.S. military commander declined to completely exclude any possibility while investigations remained incomplete. Although this reflected standard investigative caution, headlines often emphasised the apparent openness to extraordinary explanations rather than the much larger body of evidence pointing toward mundane possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">I Haven&#x27;t Ruled Out Anything.&#x27; U.S</span><span class="citation-popover-snippet">General Doesn&#x27;t Eliminate Aliens As UFOs MountFebruary 13, 2023 — The U.S. military has recently shot down several unidentified flying ob...</span><span class="citation-popover-meta">Published: February 13, 2023</span></span></span>
+One revealing moment came when a U.S. military commander declined to completely exclude any possibility while investigations remained incomplete. Although this reflected standard investigative caution, headlines often emphasised the apparent openness to extraordinary explanations rather than the much larger body of evidence pointing toward mundane possibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">I Haven&#x27;t Ruled Out Anything.&#x27; U.S</span><span class="citation-popover-snippet">General Doesn&#x27;t Eliminate Aliens As UFOs MountFebruary 13, 2023 — The U.S. military has recently shot down several unidentified flying ob...</span><span class="citation-popover-meta">Published: February 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3_balloon_alien_specul_a90b61-Illustration-2-dark.svg" | relative_url }}" alt="Balloon Alien Specul A90 B61 illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3_balloon_alien_specul_a90b61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3_balloon_alien_specul_a90b61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -298,7 +298,7 @@ The balloon episode exposed several media dynamics that repeatedly appear in UAP
 
 **Social media rewards speculation.** Online platforms rapidly amplified theories ranging from secret technology to extraterrestrial visitors. These interpretations often travelled faster than official updates because speculation requires no verification.
 
-**Corrections receive less attention than mysteries.** Once later assessments suggested that at least some of the objects were probably benign commercial, research, or hobby balloons, those explanations attracted less public attention than the original mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/02/14/kirby-no-indication-objects-china-spy-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">intelligence community has found no evidence linking the three unidentified aerial objects recently shot down to China&#x27;s espionage activi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/8d8b9e7474027e1305264b2c7b8b04fb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The objects, which were unmanned and posed potential risks to commercial air traffic, were shot down despite no evidence indicating they...</span></span></span>
+**Corrections receive less attention than mysteries.** Once later assessments suggested that at least some of the objects were probably benign commercial, research, or hobby balloons, those explanations attracted less public attention than the original mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/02/14/kirby-no-indication-objects-china-spy-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">intelligence community has found no evidence linking the three unidentified aerial objects recently shot down to China&#x27;s espionage activi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/8d8b9e7474027e1305264b2c7b8b04fb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The objects, which were unmanned and posed potential risks to commercial air traffic, were shot down despite no evidence indicating they...</span></span></span>
 
 This asymmetry is especially important in the context of UFO disclosure debates. A dramatic unknown can become culturally influential even if later evidence points toward a conventional explanation.
 
@@ -307,9 +307,9 @@ This asymmetry is especially important in the context of UFO disclosure debates.
 
 ## What later assessments revealed
 
-Subsequent reporting weakened many of the more extraordinary interpretations. Officials increasingly suggested that the additional objects were likely associated with commercial, scientific, or recreational activities rather than hostile intelligence operations or unexplained technology. Recovery efforts were hampered by weather, terrain, and the destruction caused by missile impacts, limiting definitive identification in some cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/02/14/kirby-no-indication-objects-china-spy-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">intelligence community has found no evidence linking the three unidentified aerial objects recently shot down to China&#x27;s espionage activi...</span></span></span>
+Subsequent reporting weakened many of the more extraordinary interpretations. Officials increasingly suggested that the additional objects were likely associated with commercial, scientific, or recreational activities rather than hostile intelligence operations or unexplained technology. Recovery efforts were hampered by weather, terrain, and the destruction caused by missile impacts, limiting definitive identification in some cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2023/02/14/kirby-no-indication-objects-china-spy-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">intelligence community has found no evidence linking the three unidentified aerial objects recently shot down to China&#x27;s espionage activi...</span></span></span>
 
-The broader lesson was reinforced by later UAP investigations. The Pentagon's All-domain Anomaly Resolution Office (AARO) has repeatedly found that many initially puzzling sightings can be explained by balloons, balloon clusters, sensor limitations, or other ordinary causes once additional data become available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO assesses that the object did not demonstrate anomalous performance characteristics. AARO used geo-locational data the...</span></span></span>
+The broader lesson was reinforced by later UAP investigations. The Pentagon's All-domain Anomaly Resolution Office (AARO) has repeatedly found that many initially puzzling sightings can be explained by balloons, balloon clusters, sensor limitations, or other ordinary causes once additional data become available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO assesses that the object did not demonstrate anomalous performance characteristics. AARO used geo-locational data the...</span></span></span>
 
 The February 2023 events therefore did not demonstrate extraterrestrial activity. Instead, they demonstrated how easily a genuine information gap can become filled with extraordinary interpretations when events unfold publicly and in real time.
 
@@ -332,194 +332,194 @@ Most importantly, the episode showed that mainstream UAP coverage can unintentio
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Balloon Alien Specul A90 B61. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Balloon Alien Specul A90 B61. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="balloon-alien-specul-a90-b61-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ Most importantly, the episode showed that mainstream UAP coverage can unintentio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ Most importantly, the episode showed that mainstream UAP coverage can unintentio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ Most importantly, the episode showed that mainstream UAP coverage can unintentio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ Most importantly, the episode showed that mainstream UAP coverage can unintentio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ Most importantly, the episode showed that mainstream UAP coverage can unintentio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,105 +725,105 @@ Most importantly, the episode showed that mainstream UAP coverage can unintentio
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 2023 Chinese balloon incident  
-   Link: <a href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pbs.org  
    Title: white house defends decision to shoot down 3 unidentified objects  
-   Link: <a href="https://www.pbs.org/newshour/politics/white-house-defends-decision-to-shoot-down-3-unidentified-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/white-house-defends-decision-to-shoot-down-3-unidentified-objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>White House defends decision to shoot down 3...Feb 14, 2023 — &quot;I know there have been questions and concerns about this, but there is...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/politics/white-house-defends-decision-to-shoot-down-3-unidentified-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/white-house-defends-decision-to-shoot-down-3-unidentified-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White House defends decision to shoot down 3...Feb 14, 2023 — &quot;I know there have been questions and concerns about this, but there is...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
    Title: 'I Haven't Ruled Out Anything.' U.S  
-   Link: <a href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6254959/military-ufo-shootdown-lake-huron/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>General Doesn&#x27;t Eliminate Aliens As UFOs MountFebruary 13, 2023 — The U.S. military has recently shot down several unidentified flying ob...</p></details>
+   Link:<a href="https://time.com/6254959/military-ufo-shootdown-lake-huron/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6254959/military-ufo-shootdown-lake-huron/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Doesn&#x27;t Eliminate Aliens As UFOs MountFebruary 13, 2023 — The U.S. military has recently shot down several unidentified flying ob...</p></details>
    Published: February 13, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/white-house-no-evidence-shot-down-objects-alien-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/white-house-no-evidence-shot-down-objects-alien-spacecraft</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space&#x27;No evidence&#x27; shot-down objects are alien spacecraftFeb 13, 2566 BE — &#x27;No indication&#x27; shot-down objects are alien spacecraft, White...</p></details>
+   Link:<a href="https://www.space.com/white-house-no-evidence-shot-down-objects-alien-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/white-house-no-evidence-shot-down-objects-alien-spacecraft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space&#x27;No evidence&#x27; shot-down objects are alien spacecraftFeb 13, 2566 BE — &#x27;No indication&#x27; shot-down objects are alien spacecraft, White...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2023/02/14/kirby-no-indication-objects-china-spy-program" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/02/14/kirby-no-indication-objects-china-spy-program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence community has found no evidence linking the three unidentified aerial objects recently shot down to China&#x27;s espionage activi...</p></details>
+   Link:<a href="https://www.axios.com/2023/02/14/kirby-no-indication-objects-china-spy-program" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/02/14/kirby-no-indication-objects-china-spy-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence community has found no evidence linking the three unidentified aerial objects recently shot down to China&#x27;s espionage activi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO assesses that the object did not demonstrate anomalous performance characteristics. AARO used geo-locational data the...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO assesses that the object did not demonstrate anomalous performance characteristics. AARO used geo-locational data the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/8d8b9e7474027e1305264b2c7b8b04fb" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/8d8b9e7474027e1305264b2c7b8b04fb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The objects, which were unmanned and posed potential risks to commercial air traffic, were shot down despite no evidence indicating they...</p></details>
+   Link:<a href="https://apnews.com/article/8d8b9e7474027e1305264b2c7b8b04fb" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/8d8b9e7474027e1305264b2c7b8b04fb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The objects, which were unmanned and posed potential risks to commercial air traffic, were shot down despite no evidence indicating they...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The object, described as being &#x27;the size of a small car,&#x27; was spotted at an altitude of 40,000 feet, which posed a threat to civilian air...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/02/pentagon-shoots-down-unidentified-flying-object-over-alaska</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The object, described as being &#x27;the size of a small car,&#x27; was spotted at an altitude of 40,000 feet, which posed a threat to civilian air...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: flying objects shot down balloons white house  
-   Link: <a href="https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThree objects shot down after Chinese spy balloon may be...Feb 14, 2023 — “I know there have been questions and concerns abo...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/14/flying-objects-shot-down-balloons-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThree objects shot down after Chinese spy balloon may be...Feb 14, 2023 — “I know there have been questions and concerns abo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: chinese balloon spying state department  
-   Link: <a href="https://www.theguardian.com/us-news/2023/feb/09/chinese-balloon-spying-state-department" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/09/chinese-balloon-spying-state-department</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A U-2 spy plane identified the equipment, which included multiple antennas and solar panels. While the Pentagon stated that the balloon d...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/feb/09/chinese-balloon-spying-state-department" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/09/chinese-balloon-spying-state-department</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A U-2 spy plane identified the equipment, which included multiple antennas and solar panels. While the Pentagon stated that the balloon d...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/06/06/world-news/biden-admin-used-500000-missile-to-shoot-down-ufo-that-turned-out-to-be-boy-scouts-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/06/world-news/biden-admin-used-500000-missile-to-shoot-down-ufo-that-turned-out-to-be-boy-scouts-balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This action was part of a heightened response following criticism over the administration&#x27;s delayed reaction to a Chinese spy balloon jus...</p></details>
+   Link:<a href="https://nypost.com/2026/06/06/world-news/biden-admin-used-500000-missile-to-shoot-down-ufo-that-turned-out-to-be-boy-scouts-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/06/world-news/biden-admin-used-500000-missile-to-shoot-down-ufo-that-turned-out-to-be-boy-scouts-balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This action was part of a heightened response following criticism over the administration&#x27;s delayed reaction to a Chinese spy balloon jus...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abc7news.com  
    Title: unidentified object shot down north america  
-   Link: <a href="https://abc7news.com/post/unidentified-object-shot-down-north-america/12805407/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/unidentified-object-shot-down-north-america/12805407/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump directs government to release files on aliens, UFOs, more. Live...Read more...</p></details>
+   Link:<a href="https://abc7news.com/post/unidentified-object-shot-down-north-america/12805407/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/unidentified-object-shot-down-north-america/12805407/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump directs government to release files on aliens, UFOs, more. Live...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: US fighter jet shoots down UFO in newly-declassified footage  
-   Link: <a href="https://www.youtube.com/watch?v=dHIQeO3UiSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dHIQeO3UiSE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did a US F-16 Shoot Down a UFO? Pentagon Releases 222 Secret Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dHIQeO3UiSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dHIQeO3UiSE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did a US F-16 Shoot Down a UFO? Pentagon Releases 222 Secret Files...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: people.com  
    Title: Are UFOs Real?  
-   Link: <a href="https://people.com/are-ufos-real-what-the-pentagon-has-learned-8672818" target="_blank" rel="noopener noreferrer nofollow">https://people.com/are-ufos-real-what-the-pentagon-has-learned-8672818</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Pentagon Has LearnedThe U.S. Department of Defense and the Pentagon have been investigating over 800 UFO sightings, referred to...</p></details>
+   Link:<a href="https://people.com/are-ufos-real-what-the-pentagon-has-learned-8672818" target="_blank" rel="noopener noreferrer nofollow">https://people.com/are-ufos-real-what-the-pentagon-has-learned-8672818</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the Pentagon Has LearnedThe U.S. Department of Defense and the Pentagon have been investigating over 800 UFO sightings, referred to...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Spy balloons are not 'aliens', insists US  
-   Link: <a href="https://www.youtube.com/watch?v=pI62mLVHSM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pI62mLVHSM8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery still surrounds objects shot down over US airspace...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pI62mLVHSM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pI62mLVHSM8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery still surrounds objects shot down over US airspace...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: China Spy Balloon  
-   Link: <a href="https://www.youtube.com/watch?v=Sfnzpwd7Mkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sfnzpwd7Mkg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US fighter jet shoots down UFO in newly-declassified footage...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Sfnzpwd7Mkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sfnzpwd7Mkg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US fighter jet shoots down UFO in newly-declassified footage...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Mystery still surrounds objects shot down over US airspace  
-   Link: <a href="https://www.youtube.com/watch?v=yMrSb9FfoIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yMrSb9FfoIw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>China Spy Balloon - Behind the News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yMrSb9FfoIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yMrSb9FfoIw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>China Spy Balloon - Behind the News...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Did a US F-16 Shoot Down a UFO? Pentagon Releases 222 Secret Files  
-   Link: <a href="https://www.youtube.com/watch?v=h0IFnSoQWmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h0IFnSoQWmU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=h0IFnSoQWmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h0IFnSoQWmU</a>  

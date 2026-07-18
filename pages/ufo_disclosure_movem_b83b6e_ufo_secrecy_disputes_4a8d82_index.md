@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-ufo/
 description: Focused pages that expand on Secrecy.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_ufo_secrecy_disputes_4a8d82
 parent_title: Secrecy
@@ -16,7 +16,7 @@ parent_permalink: /secrecy/
 
 # Explore Topics in Secrecy
 
-The following pages expand on the main **[Secrecy]({{ '/secrecy/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Secrecy]({{ '/secrecy/' | relative_url }})** page and cover its key branches in.
 
 - [Project Condign E9 E643]({{ '/project-condign-e9-e643/' | relative_url }})
 - [Spy Planes UFO Repor]({{ '/spy-planes-ufo-repor/' | relative_url }})

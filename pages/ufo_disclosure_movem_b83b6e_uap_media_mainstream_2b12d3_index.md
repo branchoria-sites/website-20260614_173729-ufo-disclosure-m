@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-uap-media/
 description: Focused pages that expand on Media.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3
 parent_title: Media
@@ -16,7 +16,7 @@ parent_permalink: /media/
 
 # Explore Topics in Media
 
-The following pages expand on the main **[Media]({{ '/media/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Media]({{ '/media/' | relative_url }})** page and cover its key branches in.
 
 - [Balloon Alien Specul A90 B61]({{ '/balloon-alien-specul-a90-b61/' | relative_url }})
 - [Grusch Media Gap 96 Cb 93]({{ '/grusch-media-gap-96-cb-93/' | relative_url }})

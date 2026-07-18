@@ -263,13 +263,13 @@ David Grusch’s testimony became a pivotal moment in the [UFO disclosure moveme
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db_sworn_testimony_limi_ae7d9b-Illustration-1-dark.svg" | relative_url }}" alt="Sworn Testimony Limi Ae 7 D9 B illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db_sworn_testimony_limi_ae7d9b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db_sworn_testimony_limi_ae7d9b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Sworn testimony can be powerful evidence that a witness is sincerely reporting information or believes a matter deserves investigation. It does not automatically prove that the underlying claims are true. In Grusch’s case, the distinction between testimony and proof is the central verification problem. His statements may justify oversight inquiries, but they do not by themselves demonstrate that recovered non-human technology exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">House Hearing on UFOs &amp; Government ConspiracyHouse lawmakers held a hearing to examine how the executive branch handles reports of uni...</span></span></span>
+Sworn testimony can be powerful evidence that a witness is sincerely reporting information or believes a matter deserves investigation. It does not automatically prove that the underlying claims are true. In Grusch’s case, the distinction between testimony and proof is the central verification problem. His statements may justify oversight inquiries, but they do not by themselves demonstrate that recovered non-human technology exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">House Hearing on UFOs &amp; Government ConspiracyHouse lawmakers held a hearing to examine how the executive branch handles reports of uni...</span></span></span>
 
 ## What Grusch Said Under Oath
 
-At the July 2023 congressional hearing, Grusch stated that he had been informed during his official duties of a “multi-decade UAP crash retrieval and reverse-engineering programme” and that he was denied access to it. He also said that his belief was based largely on interviews with numerous individuals whom he considered to have direct knowledge of the alleged activities. When questioned about recovered bodies, he said that “biologics” had been recovered and that he had been told they were non-human. He did not present the underlying evidence publicly, arguing that specific details could only be discussed in secure classified settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">23 Jan 2026 — We learned from David Grusch, a former member of the intelligence community revealed the supposed existence of secret gover...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing congress david grusch whistleblower live updates</span><span class="citation-popover-snippet">UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — David Grusch says he knows of “multiple colleagues” who were physica...</span></span></span>
+At the July 2023 congressional hearing, Grusch stated that he had been informed during his official duties of a “multi-decade UAP crash retrieval and reverse-engineering programme” and that he was denied access to it. He also said that his belief was based largely on interviews with numerous individuals whom he considered to have direct knowledge of the alleged activities. When questioned about recovered bodies, he said that “biologics” had been recovered and that he had been told they were non-human. He did not present the underlying evidence publicly, arguing that specific details could only be discussed in secure classified settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house hearing on unidentified anomalous phenomena</span><span class="citation-popover-snippet">23 Jan 2026 — We learned from David Grusch, a former member of the intelligence community revealed the supposed existence of secret gover...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing congress david grusch whistleblower live updates</span><span class="citation-popover-snippet">UFO hearings: whistleblower David Grusch says &#x27;non-...26 Jul 2023 — David Grusch says he knows of “multiple colleagues” who were physica...</span></span></span>
 
-A crucial feature of the testimony is that Grusch did not claim to have personally handled alien craft, examined non-human remains, or directly participated in a crash-retrieval programme. Instead, he described information provided to him by other people and information he said he encountered while performing intelligence duties. Even supporters often acknowledge that his public testimony was largely based on reported accounts rather than publicly demonstrated first-hand physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aicuk.ltd/pulsar/debunking-legacy-program-myth-crash-retrieval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aicuk.ltd">[2aicuk.ltd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aicuk.ltd</span><span class="citation-popover-title">He was denied access to that</span><span class="citation-popover-snippet">Debunking the Legacy Program Myth: Why Crash Retrieval Claims...During this hearing, Grusch stated: He was “informed” of a multi-decade...</span></span></span>
+A crucial feature of the testimony is that Grusch did not claim to have personally handled alien craft, examined non-human remains, or directly participated in a crash-retrieval programme. Instead, he described information provided to him by other people and information he said he encountered while performing intelligence duties. Even supporters often acknowledge that his public testimony was largely based on reported accounts rather than publicly demonstrated first-hand physical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aicuk.ltd/pulsar/debunking-legacy-program-myth-crash-retrieval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aicuk.ltd">[2aicuk.ltd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aicuk.ltd</span><span class="citation-popover-title">He was denied access to that</span><span class="citation-popover-snippet">Debunking the Legacy Program Myth: Why Crash Retrieval Claims...During this hearing, Grusch stated: He was “informed” of a multi-decade...</span></span></span>
 
 That distinction matters because evidence standards become stronger when a witness can directly demonstrate what they observed, rather than recounting what others allegedly told them.
 
@@ -277,7 +277,7 @@ That distinction matters because evidence standards become stronger when a witne
 
 The strongest argument in favour of taking Grusch seriously is not that he proved his claims, but that he increased their credibility as matters worthy of investigation.
 
-An oath before Congress carries legal and professional risks. Deliberately making false statements can expose a witness to criminal penalties, reputational damage, and career consequences. Grusch’s military and intelligence background also means he was not an anonymous internet source but someone with experience inside national security institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">10 Sept 2025 — After David Grusch testified under oath in the summer of 2023 and... David Charles Grusch, a UAP whistleblower who&#x27;s been...</span></span></span>
+An oath before Congress carries legal and professional risks. Deliberately making false statements can expose a witness to criminal penalties, reputational damage, and career consequences. Grusch’s military and intelligence background also means he was not an anonymous internet source but someone with experience inside national security institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">10 Sept 2025 — After David Grusch testified under oath in the summer of 2023 and... David Charles Grusch, a UAP whistleblower who&#x27;s been...</span></span></span>
 
 However, an oath establishes only a limited set of facts:
 
@@ -313,7 +313,7 @@ One of the most frequently cited points in discussions of Grusch is the statemen
 
 The publicly available information does not support that interpretation.
 
-The complaint process concerned whether Grusch’s allegations and concerns warranted official handling and whether whistleblower procedures had been followed appropriately. Public reporting has not shown that inspectors general verified the existence of recovered non-human craft, alien bodies, or a reverse-engineering programme. Rather, the designation indicated that the complaint met a threshold for further attention within oversight mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dodig.mil/Portals/48/Documents/Components/AI/AI%20Manuals/Guide%20to%20Investigating%20Military%20Whistleblower%20Reprisal%20and%20Restriction%20Complaints%20-%2005-09-2024_Final_20240513_508.pdf?ver=EYXJxdntwpw7f7x7jJ02Dg%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dodig.mil">[DODIG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dodig.mil</span><span class="citation-popover-snippet">Guide to Investigating Military Whistleblower Reprisal and...May 13, 2024 — 9 May 2024 — ensure that a Service member&#x27;s motive for...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
+The complaint process concerned whether Grusch’s allegations and concerns warranted official handling and whether whistleblower procedures had been followed appropriately. Public reporting has not shown that inspectors general verified the existence of recovered non-human craft, alien bodies, or a reverse-engineering programme. Rather, the designation indicated that the complaint met a threshold for further attention within oversight mechanisms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dodig.mil/Portals/48/Documents/Components/AI/AI%20Manuals/Guide%20to%20Investigating%20Military%20Whistleblower%20Reprisal%20and%20Restriction%20Complaints%20-%2005-09-2024_Final_20240513_508.pdf?ver=EYXJxdntwpw7f7x7jJ02Dg%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dodig.mil">[DODIG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dodig.mil</span><span class="citation-popover-snippet">Guide to Investigating Military Whistleblower Reprisal and...May 13, 2024 — 9 May 2024 — ensure that a Service member&#x27;s motive for...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
 
 This distinction is common in whistleblower systems. Authorities may conclude that a complaint deserves investigation without concluding that every underlying allegation is true.
 
@@ -341,7 +341,7 @@ For a claim as significant as recovered non-human technology, investigators woul
 
 Grusch asserted that classified evidence exists, but the public has not been shown such evidence. As a result, observers are asked to [trust]({{ 'trust/' | relative_url }}) either Grusch or the institutions responding to him rather than examine the evidence themselves.
 
-This creates a situation where the debate revolves around competing authorities instead of independently testable facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northeastern.edu">[Northeastern Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northeastern.edu</span><span class="citation-popover-title">Global News Crashed UFOs?</span><span class="citation-popover-snippet">Non-human &#x27;biologics&#x27;? Professor asks28 Jul 2023 — Congressional testimony this week about reverse engineering from crashed UFOs and the...</span></span></span>
+This creates a situation where the debate revolves around competing authorities instead of independently testable facts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northeastern.edu">[Northeastern Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northeastern.edu</span><span class="citation-popover-title">Global News Crashed UFOs?</span><span class="citation-popover-snippet">Non-human &#x27;biologics&#x27;? Professor asks28 Jul 2023 — Congressional testimony this week about reverse engineering from crashed UFOs and the...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xnG4Mfak-Oc" title="UFO whistleblower says U.S. recovered nonhuman &quot;biologics&quot; from crash sites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer">UFO whistleblower says U.S. recovered nonhuman &quot;biologics&quot; from crash sites</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 3.2M &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xnG4Mfak-Oc">Open on YouTube</a></p></div></div></div>
@@ -350,7 +350,7 @@ This creates a situation where the debate revolves around competing authorities 
 
 A common mistake is to assume that the absence of public proof automatically disproves Grusch's allegations. It does not.
 
-Government investigations and official reviews have publicly stated that they found no verifiable evidence supporting claims of secret extraterrestrial reverse-engineering programmes or recovered alien technology. The Pentagon's All-domain Anomaly Resolution Office (AARO), for example, reported that it had found no evidence supporting such claims and no evidence of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</span></span></span>
+Government investigations and official reviews have publicly stated that they found no verifiable evidence supporting claims of secret extraterrestrial reverse-engineering programmes or recovered alien technology. The Pentagon's All-domain Anomaly Resolution Office (AARO), for example, reported that it had found no evidence supporting such claims and no evidence of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolu...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</span></span></span>
 
 Yet official denials are not themselves proof of non-existence. They are findings based on the evidence available to those investigations. Critics of AARO argue that access limitations or classification barriers could potentially affect what investigators uncover, while supporters view the findings as a significant challenge to Grusch's claims.
 
@@ -365,7 +365,7 @@ If the goal is public proof rather than congressional concern, the evidentiary s
 
 A convincing case for recovered non-human technology would likely require evidence that independent specialists could evaluate without relying solely on trust in government officials, [whistleblowers]({{ 'whistleblowers/' | relative_url }}), or institutions. Examples might include authenticated materials with unusual properties, documented provenance, repeatable laboratory findings, or records that directly establish programme existence and activities.
 
-Scientific and technical experts have repeatedly noted that extraordinary claims require evidence that can be independently examined and challenged. Testimony can point investigators toward such evidence, but it cannot substitute for it. As one common criticism of the hearing observed, dramatic allegations remain in the realm of assertion until hard evidence is available for scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northeastern.edu">[Northeastern Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northeastern.edu</span><span class="citation-popover-title">Global News Crashed UFOs?</span><span class="citation-popover-snippet">Non-human &#x27;biologics&#x27;? Professor asks28 Jul 2023 — Congressional testimony this week about reverse engineering from crashed UFOs and the...</span></span></span>
+Scientific and technical experts have repeatedly noted that extraordinary claims require evidence that can be independently examined and challenged. Testimony can point investigators toward such evidence, but it cannot substitute for it. As one common criticism of the hearing observed, dramatic allegations remain in the realm of assertion until hard evidence is available for scrutiny.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northeastern.edu">[Northeastern Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northeastern.edu</span><span class="citation-popover-title">Global News Crashed UFOs?</span><span class="citation-popover-snippet">Non-human &#x27;biologics&#x27;? Professor asks28 Jul 2023 — Congressional testimony this week about reverse engineering from crashed UFOs and the...</span></span></span>
 
 The significance of Grusch's testimony therefore lies less in proving the existence of non-human technology than in triggering demands for further investigation. It may be evidence that serious allegations were made through official channels. It is not, by itself, evidence that the underlying extraordinary claims have been publicly demonstrated.
 
@@ -373,194 +373,194 @@ The significance of Grusch's testimony therefore lies less in proving the existe
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db_sworn_testimony_limi_ae7d9b-Illustration-3-dark.svg" | relative_url }}" alt="Sworn Testimony Limi Ae 7 D9 B illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db_sworn_testimony_limi_ae7d9b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db_sworn_testimony_limi_ae7d9b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Sworn Testimony Limi Ae 7 D9 B. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Sworn Testimony Limi Ae 7 D9 B. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sworn-testimony-limi-ae-7-d9-b-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-grusch-s-sworn-testimony-still-falls-short-of-proof-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ The significance of Grusch's testimony therefore lies less in proving the existe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ The significance of Grusch's testimony therefore lies less in proving the existe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ The significance of Grusch's testimony therefore lies less in proving the existe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ The significance of Grusch's testimony therefore lies less in proving the existe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ The significance of Grusch's testimony therefore lies less in proving the existe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,143 +766,143 @@ The significance of Grusch's testimony therefore lies less in proving the existe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rev.com  
-   Link: <a href="https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Hearing on UFOs &amp; Government ConspiracyHouse lawmakers held a hearing to examine how the executive branch handles reports of uni...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Hearing on UFOs &amp; Government ConspiracyHouse lawmakers held a hearing to examine how the executive branch handles reports of uni...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aicuk.ltd  
    Title: He was denied access to that  
-   Link: <a href="https://www.aicuk.ltd/pulsar/debunking-legacy-program-myth-crash-retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.aicuk.ltd/pulsar/debunking-legacy-program-myth-crash-retrieval</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Legacy Program Myth: Why Crash Retrieval Claims...During this hearing, Grusch stated: He was “informed” of a multi-decade...</p></details>
+   Link:<a href="https://www.aicuk.ltd/pulsar/debunking-legacy-program-myth-crash-retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.aicuk.ltd/pulsar/debunking-legacy-program-myth-crash-retrieval</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Legacy Program Myth: Why Crash Retrieval Claims...During this hearing, Grusch stated: He was “informed” of a multi-decade...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dodig.mil  
-   Link: <a href="https://www.dodig.mil/Portals/48/Documents/Components/AI/AI%20Manuals/Guide%20to%20Investigating%20Military%20Whistleblower%20Reprisal%20and%20Restriction%20Complaints%20-%2005-09-2024_Final_20240513_508.pdf?ver=EYXJxdntwpw7f7x7jJ02Dg%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.dodig.mil/Portals/48/Documents/Components/AI/AI%20Manuals/Guide%20to%20Investigating%20Military%20Whistleblower%20Reprisal%20and%20Restriction%20Complaints%20-%2005-09-2024_Final_20240513_508.pdf?ver=EYXJxdntwpw7f7x7jJ02Dg%3D%3D</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Investigating Military Whistleblower Reprisal and...May 13, 2024 — 9 May 2024 — ensure that a Service member&#x27;s motive for...</p></details>
+   Link:<a href="https://www.dodig.mil/Portals/48/Documents/Components/AI/AI%20Manuals/Guide%20to%20Investigating%20Military%20Whistleblower%20Reprisal%20and%20Restriction%20Complaints%20-%2005-09-2024_Final_20240513_508.pdf?ver=EYXJxdntwpw7f7x7jJ02Dg%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.dodig.mil/Portals/48/Documents/Components/AI/AI%20Manuals/Guide%20to%20Investigating%20Military%20Whistleblower%20Reprisal%20and%20Restriction%20Complaints%20-%2005-09-2024_Final_20240513_508.pdf?ver=EYXJxdntwpw7f7x7jJ02Dg%3D%3D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Investigating Military Whistleblower Reprisal and...May 13, 2024 — 9 May 2024 — ensure that a Service member&#x27;s motive for...</p></details>
    Published: May 13, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.northeastern.edu  
    Title: Global News Crashed UFOs?  
-   Link: <a href="https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Non-human &#x27;biologics&#x27;? Professor asks28 Jul 2023 — Congressional testimony this week about reverse engineering from crashed UFOs and the...</p></details>
+   Link:<a href="https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://news.northeastern.edu/2023/07/28/congress-holds-hearing-on-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Non-human &#x27;biologics&#x27;? Professor asks28 Jul 2023 — Congressional testimony this week about reverse engineering from crashed UFOs and the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rev.com  
    Title: house hearing on unidentified anomalous phenomena  
-   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — We learned from David Grusch, a former member of the intelligence community revealed the supposed existence of secret gover...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — We learned from David Grusch, a former member of the intelligence community revealed the supposed existence of secret gover...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rev.com  
    Title: house uap whistleblower hearing  
-   Link: <a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Sept 2025 — After David Grusch testified under oath in the summer of 2023 and... David Charles Grusch, a UAP whistleblower who&#x27;s been...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Sept 2025 — After David Grusch testified under oath in the summer of 2023 and... David Charles Grusch, a UAP whistleblower who&#x27;s been...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
-   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO [hearings](&amp;#123;&amp;#123; &#x27;hearings/&#x27; | relative_url &amp;#125;&amp;#125;): whistleblower David Grusch says &#x27;non-...26 Jul 2023 — David Grusch says he knows of “multiple colleagues” who were physica...</p></details>
+   Link:<a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO [hearings](&amp;#123;&amp;#123; &#x27;hearings/&#x27; | relative_url &amp;#125;&amp;#125;): whistleblower David Grusch says &#x27;non-...26 Jul 2023 — David Grusch says he knows of “multiple colleagues” who were physica...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US not hiding aliens or UFO technology from the public...8 Mar 2024 — US not hiding aliens or UFO technology from the public, Pentagon...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US not hiding aliens or UFO technology from the public...8 Mar 2024 — US not hiding aliens or UFO technology from the public, Pentagon...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Startling claims made at UFO hearing in Congress, but lack...13 Nov 2024 — US government employees have been injured by UFOs and the US...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Startling claims made at UFO hearing in Congress, but lack...13 Nov 2024 — US government employees have been injured by UFOs and the US...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims](&amp;#123;&amp;#123; &#x27;grusch-claims/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;non-human&#x27; beings found as issue...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David [Grusch claims](&amp;#123;&amp;#123; &#x27;grusch-claims/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;non-human&#x27; beings found as issue...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: ufo alien vehicles us whistleblower evidence where is proof  
-   Link: <a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A whistleblower claims the US has alien vehicles. But...9 Jun 2023 — Experts in UFO lore suggest the assertions should be taken with a g...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jun/09/ufo-alien-vehicles-us-whistleblower-evidence-where-is-proof</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A whistleblower claims the US has alien vehicles. But...9 Jun 2023 — Experts in UFO lore suggest the assertions should be taken with a g...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: earthsky.org  
    Title: Crashed UFOs?  
-   Link: <a href="https://earthsky.org/human-world/crashed-ufos-whistleblower-uap/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/human-world/crashed-ufos-whistleblower-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bold claims from a former intelligence officer9 Jun 2023 — On the UFO front, things are taking a wild turn. A former government officer n...</p></details>
+   Link:<a href="https://earthsky.org/human-world/crashed-ufos-whistleblower-uap/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/human-world/crashed-ufos-whistleblower-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bold claims from a former intelligence officer9 Jun 2023 — On the UFO front, things are taking a wild turn. A former government officer n...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claimsSomething is going on in the intelligence community. It might not be hyper-dimensional an...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claimsSomething is going on in the intelligence community. It might not be hyper-dimensional an...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stories.uq.edu.au  
-   Link: <a href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uq.edu.auUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pro...</p></details>
+   Link:<a href="https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uq.edu.auUFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval pro...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1tc47q5/my_theory_serious/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1tc47q5/my_theory_serious/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1tc47q5/my_theory_serious/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1tc47q5/my_theory_serious/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: in 2023 grusch gave newsnation his first on the record interview claiming the go  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/in-2023-grusch-gave-newsnation-his-first-on-the-record-interview-claiming-the-go/1020450367028647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/in-2023-grusch-gave-newsnation-his-first-on-the-record-interview-claiming-the-go/1020450367028647/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2023, Grusch gave NewsNation his first on-theLIVE Comments on Vargas&#x27; UFO/UAP Breaking News w/Richard Dolan, Daniel Sheehan &amp; Linda Mo...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/in-2023-grusch-gave-newsnation-his-first-on-the-record-interview-claiming-the-go/1020450367028647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/in-2023-grusch-gave-newsnation-his-first-on-the-record-interview-claiming-the-go/1020450367028647/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2023, Grusch gave NewsNation his first on-theLIVE Comments on Vargas&#x27; UFO/UAP Breaking News w/Richard Dolan, Daniel Sheehan &amp; Linda Mo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: courthousenews.com  
    Title: whistleblower feds recovered non human biological material from ufo crash site  
-   Link: <a href="https://www.courthousenews.com/whistleblower-feds-recovered-non-human-biological-material-from-ufo-crash-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.courthousenews.com/whistleblower-feds-recovered-non-human-biological-material-from-ufo-crash-site/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch testified the government is in possession of non... Testifying under oath, the former team lead at the National...Read more...</p></details>
+   Link:<a href="https://www.courthousenews.com/whistleblower-feds-recovered-non-human-biological-material-from-ufo-crash-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.courthousenews.com/whistleblower-feds-recovered-non-human-biological-material-from-ufo-crash-site/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch testified the government is in possession of non... Testifying under oath, the former team lead at the National...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OwSkXDmV6Io" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OwSkXDmV6Io</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Eyewitnesses describe encounters with &quot;non...The Witnesses on the panel today for sharing their stories on how they&#x27;ve enga...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OwSkXDmV6Io" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OwSkXDmV6Io</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Eyewitnesses describe encounters with &quot;non...The Witnesses on the panel today for sharing their stories on how they&#x27;ve enga...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnG4Mfak-Oc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower says U.S. recovered nonhuman &quot;...Former military intelligence officer-turned-whistleblower David Grusch told House law...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnG4Mfak-Oc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower says U.S. recovered nonhuman &quot;...Former military intelligence officer-turned-whistleblower David Grusch told House law...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nofeMMRGuyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nofeMMRGuyI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Non-human biologics&#x27; recovered by US government, says...A whistleblower who formerly worked on the defense Department&#x27;s UAP task force...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nofeMMRGuyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nofeMMRGuyI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Non-human biologics&#x27; recovered by US government, says...A whistleblower who formerly worked on the defense Department&#x27;s UAP task force...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: blogs.lse.ac.uk  
    Title: thinking critically to evaluate the new news about ufos and aliens  
-   Link: <a href="https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>critically to evaluate the new “news” about UFOs...2 Aug 2023 — The US government is in possession of unidentified aerial phenomena (UAP...</p></details>
+   Link:<a href="https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>critically to evaluate the new “news” about UFOs...2 Aug 2023 — The US government is in possession of unidentified aerial phenomena (UAP...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Skeptics, believers discuss whistleblower's claims | We are not alone: The UFO  
-   Link: <a href="https://www.youtube.com/watch?v=xER7WLaAw-E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xER7WLaAw-E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first two videos present arguments from prominent skeptic Mick West explaining why David Grusch&#x27;s claims fail to stack up as definiti...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xER7WLaAw-E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xER7WLaAw-E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first two videos present arguments from prominent skeptic Mick West explaining why David Grusch&#x27;s claims fail to stack up as definiti...</p></details>

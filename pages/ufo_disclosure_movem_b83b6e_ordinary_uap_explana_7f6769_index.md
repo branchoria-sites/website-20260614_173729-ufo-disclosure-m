@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-ordinary/
 description: Focused pages that expand on Explanations.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_ordinary_uap_explana_7f6769
 parent_title: Explanations
@@ -16,7 +16,7 @@ parent_permalink: /explanations/
 
 # Explore Topics in Explanations
 
-The following pages expand on the main **[Explanations]({{ '/explanations/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Explanations]({{ '/explanations/' | relative_url }})** page and cover its key branches in.
 
 - [Balloon UAP Reports 0 C6 D80]({{ '/balloon-uap-reports-0-c6-d80/' | relative_url }})
 - [Bird Formations UAP 9 C5 Eba]({{ '/bird-formations-uap-9-c5-eba/' | relative_url }})

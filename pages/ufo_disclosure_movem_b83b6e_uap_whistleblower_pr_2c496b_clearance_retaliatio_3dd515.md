@@ -259,7 +259,7 @@ image: /assets/images/ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b_cl
 
 ## Introduction
 
-This is why modern UAP whistleblower legislation places unusual emphasis on clearance-related reprisals. The concern is not simply whether a witness can speak, but whether they can continue working afterwards. In a field where access to classified systems, facilities, and information is often the foundation of employment, the threat of clearance loss can function as a powerful deterrent against disclosure. Congress explicitly recognised this risk when drafting UAP reporting protections that prohibit retaliation, including the suspension or revocation of security clearances, for authorised disclosures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title50-section3373b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Code50 USC 3373b: Unidentified anomalous phenomena...The Secretary shall ensure that the mechanism for authorized reporting established...</span></span></span>
+This is why modern UAP whistleblower legislation places unusual emphasis on clearance-related reprisals. The concern is not simply whether a witness can speak, but whether they can continue working afterwards. In a field where access to classified systems, facilities, and information is often the foundation of employment, the threat of clearance loss can function as a powerful deterrent against disclosure. Congress explicitly recognised this risk when drafting UAP reporting protections that prohibit retaliation, including the suspension or revocation of security clearances, for authorised disclosures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title50-section3373b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Code50 USC 3373b: Unidentified anomalous phenomena...The Secretary shall ensure that the mechanism for authorized reporting established...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b_clearance_retaliatio_3dd515-Illustration-1-dark.svg" | relative_url }}" alt="Clearance Retaliatio 3 Dd 515 illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b_clearance_retaliatio_3dd515-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b_clearance_retaliatio_3dd515-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -274,7 +274,7 @@ For a software engineer supporting classified satellite systems, an intelligence
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Removal from current duties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportU.S. Government UAP-Related Program/Activity Reporting. AARO is accepting reports from current or former U.S. Government e...</span></span></span>
+* Removal from current duties.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportU.S. Government UAP-Related Program/Activity Reporting. AARO is accepting reports from current or former U.S. Government e...</span></span></span>
 * Loss of access to work facilities and computer systems.
 * Reassignment to lower-level positions.
 * Loss of promotion opportunities.
@@ -284,7 +284,7 @@ For a software engineer supporting classified satellite systems, an intelligence
 
 The result is a form of pressure that differs from ordinary workplace retaliation. A person may remain technically employed yet become professionally sidelined because they no longer possess the access required to perform their specialised role.
 
-In the UAP context, this matters because many allegations involve classified sensors, restricted programmes, compartmented activities, or contractor work. The people who might have first-hand knowledge are often the same people whose livelihoods depend on maintaining clearance status. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">house.gov50 USC 3373: Establishment of office, organizational...Establishment of office, organizational structure, and authorities to ad...</span></span></span>
+In the UAP context, this matters because many allegations involve classified sensors, restricted programmes, compartmented activities, or contractor work. The people who might have first-hand knowledge are often the same people whose livelihoods depend on maintaining clearance status.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">house.gov50 USC 3373: Establishment of office, organizational...Establishment of office, organizational structure, and authorities to ad...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RBAISwCZ2v0" title="UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer">UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation interview</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 8.7M &middot; Uploaded: April 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RBAISwCZ2v0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RBAISwCZ2v0">Open on YouTube</a></p></div></div></div>
@@ -295,7 +295,7 @@ One reason clearance retaliation receives special attention is that it can occur
 
 A public firing creates a record. A clearance review may not. An employee can be removed from a project, lose access privileges, face prolonged security reviews, or find future assignments unavailable while remaining nominally employed. In practical terms, the career damage may be similar.
 
-This concern is not unique to UAP reporting. For decades, lawyers and whistleblower advocates have argued that security-clearance systems can be vulnerable to misuse because access decisions are closely tied to national security authority and historically have received limited external review. Legal commentary on intelligence-community whistleblowing has repeatedly identified clearance revocation as one of the most effective forms of retaliation available against cleared personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://katzbanks.com/whistleblower-law-blog/intelligence-community-whistleblowers-receive-protection-from-presidential-directive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katzbanks.com">[Katz Banks Kumin LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katzbanks.com</span><span class="citation-popover-title">Katz Banks Kumin LLPIntelligence Community Whistleblowers Receive Protection</span><span class="citation-popover-snippet">October 12, 2012 — 12 Oct 2012 — As a result, reducing or revoking an employee&#x27;s security clearance has served as a common and highly eff...</span><span class="citation-popover-meta">Published: October 12, 2012</span></span></span>
+This concern is not unique to UAP reporting. For decades, lawyers and whistleblower advocates have argued that security-clearance systems can be vulnerable to misuse because access decisions are closely tied to national security authority and historically have received limited external review. Legal commentary on intelligence-community whistleblowing has repeatedly identified clearance revocation as one of the most effective forms of retaliation available against cleared personnel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://katzbanks.com/whistleblower-law-blog/intelligence-community-whistleblowers-receive-protection-from-presidential-directive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katzbanks.com">[Katz Banks Kumin LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katzbanks.com</span><span class="citation-popover-title">Katz Banks Kumin LLPIntelligence Community Whistleblowers Receive Protection</span><span class="citation-popover-snippet">October 12, 2012 — 12 Oct 2012 — As a result, reducing or revoking an employee&#x27;s security clearance has served as a common and highly eff...</span><span class="citation-popover-meta">Published: October 12, 2012</span></span></span>
 
 The mechanism is straightforward:
 
@@ -318,11 +318,11 @@ Critics of existing systems argue that the mere possibility of this sequence can
 
 The modern UAP debate brought the issue into public view because several prominent witnesses alleged retaliation after raising concerns through official channels.
 
-Former intelligence officer David Grusch stated that he provided classified information to inspectors general and congressional committees regarding alleged UAP-related programmes and subsequently reported experiencing retaliation. His claims became a major focus of congressional [hearings]({{ 'hearings/' | relative_url }}) and helped drive discussion about whether existing protections were sufficient for people working inside classified environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJul 25, 2023 — My name is David Charles Grusch. I was an intelligence officer for... multiple Inspec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENAHave you faced any retaliation or reprisals for any of your testimony or anything on these lines?... How...</span></span></span>
+Former intelligence officer David Grusch stated that he provided classified information to inspectors general and congressional committees regarding alleged UAP-related programmes and subsequently reported experiencing retaliation. His claims became a major focus of congressional [hearings]({{ 'hearings/' | relative_url }}) and helped drive discussion about whether existing protections were sufficient for people working inside classified environments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJul 25, 2023 — My name is David Charles Grusch. I was an intelligence officer for... multiple Inspec...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENAHave you faced any retaliation or reprisals for any of your testimony or anything on these lines?... How...</span></span></span>
 
 Importantly, the clearance-retaliation issue does not depend on whether any specific UAP allegation is ultimately proven true. Even critics of extraordinary UAP claims often acknowledge a separate governance question: if officials believe they have discovered misconduct, hidden programmes, or improperly withheld information, can they report those concerns without jeopardising their security credentials and careers?
 
-That distinction has become increasingly important in congressional discussions. Debates over UAP oversight frequently separate the factual accuracy of individual claims from the procedural question of whether reporting channels are trustworthy and safe to use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJul 25, 2023 — My name is David Charles Grusch. I was an intelligence officer for... multiple Inspec...</span></span></span>
+That distinction has become increasingly important in congressional discussions. Debates over UAP oversight frequently separate the factual accuracy of individual claims from the procedural question of whether reporting channels are trustworthy and safe to use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Dave G HOC Speech FINAL For Trans</span><span class="citation-popover-snippet">Oversight CommitteeOpening StatementJul 25, 2023 — My name is David Charles Grusch. I was an intelligence officer for... multiple Inspec...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K-3JTvYPOmY" title="Nancy Mace Straight-Up Asks UAP Whistleblower: &#x27;Are You Scared For Your Safety?&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K-3JTvYPOmY" target="_blank" rel="noopener noreferrer">Nancy Mace Straight-Up Asks UAP Whistleblower: &#x27;Are You Scared For Your Safety?&#x27;</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 78.6K &middot; Uploaded: September 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K-3JTvYPOmY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K-3JTvYPOmY">Open on YouTube</a></p></div></div></div>
@@ -333,13 +333,13 @@ A whistleblower system is only as credible as the witness believes it to be. For
 
 Effective protection generally requires several elements:
 
-**Protection for authorised disclosures.** Witnesses must be able to provide information to inspectors general, designated UAP investigators, or authorised congressional recipients without violating [secrecy]({{ 'secrecy/' | relative_url }}) agreements. Congress incorporated this principle into UAP reporting legislation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title50-section3373b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Code50 USC 3373b: Unidentified anomalous phenomena...The Secretary shall ensure that the mechanism for authorized reporting established...</span></span></span>
+**Protection for authorised disclosures.** Witnesses must be able to provide information to inspectors general, designated UAP investigators, or authorised congressional recipients without violating [secrecy]({{ 'secrecy/' | relative_url }}) agreements. Congress incorporated this principle into UAP reporting legislation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title50-section3373b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Code50 USC 3373b: Unidentified anomalous phenomena...The Secretary shall ensure that the mechanism for authorized reporting established...</span></span></span>
 
-**Protection against clearance-based reprisals.** If retaliation can be achieved by suspending access rather than firing an employee, then anti-retaliation rules must address clearance actions directly. The UAP reporting statute specifically includes security-clearance suspension or revocation among prohibited retaliatory measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">house.gov50 USC 3373: Establishment of office, organizational...Establishment of office, organizational structure, and authorities to ad...</span></span></span>
+**Protection against clearance-based reprisals.** If retaliation can be achieved by suspending access rather than firing an employee, then anti-retaliation rules must address clearance actions directly. The UAP reporting statute specifically includes security-clearance suspension or revocation among prohibited retaliatory measures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">house.gov50 USC 3373: Establishment of office, organizational...Establishment of office, organizational structure, and authorities to ad...</span></span></span>
 
 **Independent review mechanisms.** Witnesses need confidence that allegations of retaliation will be examined by entities outside the immediate chain of command. Intelligence-community whistleblower frameworks emphasise protections against reprisal and routes for protected disclosures to oversight bodies. [ODNI]
 
-**Career restoration where retaliation is proven.** If a witness ultimately prevails but has already lost years of advancement, contracts, assignments, or professional standing, the damage may be irreversible. Critics of current systems argue that remedies must address those long-term consequences rather than merely recognising wrongdoing after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">House UAP Whistleblower Hearing23 Jan 2026 — Congress has made strides to pass whistleblower legislation and these laws need to be upd...</span></span></span>
+**Career restoration where retaliation is proven.** If a witness ultimately prevails but has already lost years of advancement, contracts, assignments, or professional standing, the damage may be irreversible. Critics of current systems argue that remedies must address those long-term consequences rather than merely recognising wrongdoing after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">house uap whistleblower hearing</span><span class="citation-popover-snippet">House UAP Whistleblower Hearing23 Jan 2026 — Congress has made strides to pass whistleblower legislation and these laws need to be upd...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b_clearance_retaliatio_3dd515-Illustration-3-dark.svg" | relative_url }}" alt="Clearance Retaliatio 3 Dd 515 illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b_clearance_retaliatio_3dd515-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b_clearance_retaliatio_3dd515-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,194 +356,194 @@ For that reason, security-clearance retaliation is often viewed not as a periphe
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Clearance Retaliatio 3 Dd 515. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Clearance Retaliatio 3 Dd 515. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clearance-retaliatio-3-dd-515-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-security-clearance-retaliation-matters-in-uap-cases-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ For that reason, security-clearance retaliation is often viewed not as a periphe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ For that reason, security-clearance retaliation is often viewed not as a periphe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ For that reason, security-clearance retaliation is often viewed not as a periphe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ For that reason, security-clearance retaliation is often viewed not as a periphe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ For that reason, security-clearance retaliation is often viewed not as a periphe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,118 +749,118 @@ For that reason, security-clearance retaliation is often viewed not as a periphe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uscode.house.gov  
-   Link: <a href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title50-section3373b" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title50-section3373b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Code50 USC 3373b: Unidentified anomalous phenomena...The Secretary shall ensure that the mechanism for authorized reporting established...</p></details>
+   Link:<a href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title50-section3373b" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title50-section3373b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Code50 USC 3373b: Unidentified anomalous phenomena...The Secretary shall ensure that the mechanism for authorized reporting established...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: govinfo.gov  
    Title: USCODE 2024 title50 chap45 subchapIV sec3373b  
-   Link: <a href="https://www.govinfo.gov/content/pkg/USCODE-2024-title50/pdf/USCODE-2024-title50-chap45-subchapIV-sec3373b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/USCODE-2024-title50/pdf/USCODE-2024-title50-chap45-subchapIV-sec3373b.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fied Aerial Phenomena TaskThe Secretary shall ensure that the mech- anism for authorized reporting established under paragraph (1) provid...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/USCODE-2024-title50/pdf/USCODE-2024-title50-chap45-subchapIV-sec3373b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/USCODE-2024-title50/pdf/USCODE-2024-title50-chap45-subchapIV-sec3373b.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fied Aerial Phenomena TaskThe Secretary shall ensure that the mech- anism for authorized reporting established under paragraph (1) provid...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: katzbanks.com  
    Title: Katz Banks Kumin LLPIntelligence Community [Whistleblowers](&#123;&#123; 'whistleblowers/' | relative_url &#125;&#125;) Receive Protection  
-   Link: <a href="https://katzbanks.com/whistleblower-law-blog/intelligence-community-whistleblowers-receive-protection-from-presidential-directive/" target="_blank" rel="noopener noreferrer nofollow">https://katzbanks.com/whistleblower-law-blog/intelligence-community-whistleblowers-receive-protection-from-presidential-directive/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 12, 2012 — 12 Oct 2012 — As a result, reducing or revoking an employee&#x27;s security clearance has served as a common and highly eff...</p></details>
+   Link:<a href="https://katzbanks.com/whistleblower-law-blog/intelligence-community-whistleblowers-receive-protection-from-presidential-directive/" target="_blank" rel="noopener noreferrer nofollow">https://katzbanks.com/whistleblower-law-blog/intelligence-community-whistleblowers-receive-protection-from-presidential-directive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 12, 2012 — 12 Oct 2012 — As a result, reducing or revoking an employee&#x27;s security clearance has served as a common and highly eff...</p></details>
    Published: October 12, 2012  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: govinfo.gov  
    Title: CHRG 118hhrg53022  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED ANOMALOUS PHENOMENAHave you faced any retaliation or reprisals for any of your testimony or anything on these lines?... How...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED ANOMALOUS PHENOMENAHave you faced any retaliation or reprisals for any of your testimony or anything on these lines?... How...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rev.com  
    Title: house uap whistleblower hearing  
-   Link: <a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House UAP Whistleblower Hearing23 Jan 2026 — Congress has made strides to pass whistleblower legislation and these laws need to be upd...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House UAP Whistleblower Hearing23 Jan 2026 — Congress has made strides to pass whistleblower legislation and these laws need to be upd...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rev.com  
    Title: house holds hearing on ufos and government transparency transcript  
-   Link: <a href="https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Hearing on UFOs &amp; Government ConspiracyI became a whistleblower through a PPD-19 urgent concern filing in May 2022 with the Intelli...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-holds-hearing-on-ufos-and-government-transparency-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Hearing on UFOs &amp; Government ConspiracyI became a whistleblower through a PPD-19 urgent concern filing in May 2022 with the Intelli...</p></details>
    Published: May 2022  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeOpening StatementJul 25, 2023 — My name is David Charles Grusch. I was an intelligence officer for... multiple Inspec...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeOpening StatementJul 25, 2023 — My name is David Charles Grusch. I was an intelligence officer for... multiple Inspec...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oversight.house.gov  
    Title: Executive Director Read more  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Unidentified Anomalous Phenomena: Implications...</p></details>
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Unidentified Anomalous Phenomena: Implications...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uscode.house.gov  
-   Link: <a href="https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>house.gov50 USC 3373: Establishment of office, organizational...Establishment of office, organizational structure, and authorities to ad...</p></details>
+   Link:<a href="https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.gov50 USC 3373: Establishment of office, organizational...Establishment of office, organizational structure, and authorities to ad...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oig.ftc.gov  
    Title: whistleblower protection  
-   Link: <a href="https://oig.ftc.gov/whistleblower-protection" target="_blank" rel="noopener noreferrer nofollow">https://oig.ftc.gov/whistleblower-protection</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Protection | Federal Trade Commission OIGThe Whistleblower Protection Act (WPA) protects federal employees or applicants for federal empl...</p></details>
+   Link:<a href="https://oig.ftc.gov/whistleblower-protection" target="_blank" rel="noopener noreferrer nofollow">https://oig.ftc.gov/whistleblower-protection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protection | Federal Trade Commission OIGThe Whistleblower Protection Act (WPA) protects federal employees or applicants for federal empl...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — This year&#x27;s UAP report covers UAP reports from May 1, 2023, to June...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — This year&#x27;s UAP report covers UAP reports from May 1, 2023, to June...</p></details>
    Published: May 1, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdse.edu  
-   Link: <a href="https://www.cdse.edu/Training/Toolkits/Personnel-Vetting-Toolkit/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdse.edu/Training/Toolkits/Personnel-Vetting-Toolkit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Personnel Vetting ToolkitThis toolkit will quickly point to the resources needed to help perform your role in the Personnel Vetting field...</p></details>
+   Link:<a href="https://www.cdse.edu/Training/Toolkits/Personnel-Vetting-Toolkit/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdse.edu/Training/Toolkits/Personnel-Vetting-Toolkit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Personnel Vetting ToolkitThis toolkit will quickly point to the resources needed to help perform your role in the Personnel Vetting field...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fas.org  
-   Link: <a href="https://fas.org/publication/scattered_castles/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/scattered_castles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scattered Castles: IC Directive on Personnel SecurityIntelligence Community Directive 704 (pdf) and five accompanying policy guidance doc...</p></details>
+   Link:<a href="https://fas.org/publication/scattered_castles/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/scattered_castles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scattered Castles: IC Directive on Personnel SecurityIntelligence Community Directive 704 (pdf) and five accompanying policy guidance doc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportU.S. Government UAP-Related Program/Activity Reporting. AARO is accepting reports from current or former U.S. Government e...</p></details>
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportU.S. Government UAP-Related Program/Activity Reporting. AARO is accepting reports from current or former U.S. Government e...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nga.mil  
-   Link: <a href="https://www.nga.mil/resources/oig/Whistleblower_Protections.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nga.mil/resources/oig/Whistleblower_Protections.html</a>  
+   Link:<a href="https://www.nga.mil/resources/oig/Whistleblower_Protections.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nga.mil/resources/oig/Whistleblower_Protections.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: whistleblower.house.gov  
-   Link: <a href="https://whistleblower.house.gov/resources/all-resources/committee-jurisdiction-tool/whistleblowing-executive-branch-employee/unidentified-anomalous-phenomena-uap-whistleblowing-under-james-m-inhofe-national-defense-authorization-act-fiscal-year-2023" target="_blank" rel="noopener noreferrer nofollow">https://whistleblower.house.gov/resources/all-resources/committee-jurisdiction-tool/whistleblowing-executive-branch-employee/unidentified-anomalous-phenomena-uap-whistleblowing-under-james-m-inhofe-national-defense-authorization-act-fiscal-year-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Law: 50 U.S.C § 3373b: Unidentified anomalous phenomena reporting procedures. Committee(s)...Read more...</p></details>
+   Link:<a href="https://whistleblower.house.gov/resources/all-resources/committee-jurisdiction-tool/whistleblowing-executive-branch-employee/unidentified-anomalous-phenomena-uap-whistleblowing-under-james-m-inhofe-national-defense-authorization-act-fiscal-year-2023" target="_blank" rel="noopener noreferrer nofollow">https://whistleblower.house.gov/resources/all-resources/committee-jurisdiction-tool/whistleblowing-executive-branch-employee/unidentified-anomalous-phenomena-uap-whistleblowing-under-james-m-inhofe-national-defense-authorization-act-fiscal-year-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Law: 50 U.S.C § 3373b: Unidentified anomalous phenomena reporting procedures. Committee(s)...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/files/documents/ICPG/ICPG-704-4-Reciprocity-of-Personnel-Security-Clearance-and-Access-Determinations-20220406.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/ICPG/ICPG-704-4-Reciprocity-of-Personnel-Security-Clearance-and-Access-Determinations-20220406.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A... 13549; Intelligence Community Directive 704, Personnel Security. Standards...Read more...</p></details>
+   Link:<a href="https://www.dni.gov/files/documents/ICPG/ICPG-704-4-Reciprocity-of-Personnel-Security-Clearance-and-Access-Determinations-20220406.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/ICPG/ICPG-704-4-Reciprocity-of-Personnel-Security-Clearance-and-Access-Determinations-20220406.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A... 13549; Intelligence Community Directive 704, Personnel Security. Standards...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: occ.gov  
    Title: The Act strengthens protection for federal employees who  
-   Link: <a href="https://www.occ.gov/about/connect-with-us/whistleblower-protection/whistleblower-protection-and-prohibited-personnel-practices.html" target="_blank" rel="noopener noreferrer nofollow">https://www.occ.gov/about/connect-with-us/whistleblower-protection/whistleblower-protection-and-prohibited-personnel-practices.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Protection and Prohibited Personnel PracticesThe Whistleblower Protection Enhancement Act of 2012 was signed into law on No...</p></details>
+   Link:<a href="https://www.occ.gov/about/connect-with-us/whistleblower-protection/whistleblower-protection-and-prohibited-personnel-practices.html" target="_blank" rel="noopener noreferrer nofollow">https://www.occ.gov/about/connect-with-us/whistleblower-protection/whistleblower-protection-and-prohibited-personnel-practices.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Protection and Prohibited Personnel PracticesThe Whistleblower Protection Enhancement Act of 2012 was signed into law on No...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: whistleblowersblog.org  
    Title: whistleblower claims retaliation during testimony at house hearing on ufos  
-   Link: <a href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Claims Retaliation During Testimony at...Aug 2, 2023 — “I became a Whistleblower, through a PPD-19 Urgent Concern filing w...</p></details>
+   Link:<a href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Claims Retaliation During Testimony at...Aug 2, 2023 — “I became a Whistleblower, through a PPD-19 Urgent Concern filing w...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/files/documents/ICD/ICD-704-Personnel-Security-Standards-and-Procedures-for-Access-to-SCI-2018-06-20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/ICD/ICD-704-Personnel-Security-Standards-and-Procedures-for-Access-to-SCI-2018-06-20.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 25, 2023 — 1 Oct 2008 — All IC security elements shall accept in-scope personnel security investigations and access eligibility d...</p></details>
+   Link:<a href="https://www.dni.gov/files/documents/ICD/ICD-704-Personnel-Security-Standards-and-Procedures-for-Access-to-SCI-2018-06-20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/ICD/ICD-704-Personnel-Security-Standards-and-Procedures-for-Access-to-SCI-2018-06-20.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 25, 2023 — 1 Oct 2008 — All IC security elements shall accept in-scope personnel security investigations and access eligibility d...</p></details>
    Published: October 25, 2023  

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-uap-public/
 description: Focused pages that expand on Trust.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_uap_public_trust_045e6b
 parent_title: Trust
@@ -16,7 +16,7 @@ parent_permalink: /trust/
 
 # Explore Topics in Trust
 
-The following pages expand on the main **[Trust]({{ '/trust/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Trust]({{ '/trust/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Credibility Gap D5 D666]({{ '/aaro-credibility-gap-d5-d666/' | relative_url }})
 - [Rand UAP Report Patt 844 Da 0]({{ '/rand-uap-report-patt-844-da-0/' | relative_url }})

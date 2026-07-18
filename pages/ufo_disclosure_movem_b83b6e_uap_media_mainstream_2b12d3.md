@@ -455,13 +455,13 @@ The modern [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_ur
 
 For decades, UFO coverage in mainstream news often carried a wink. The subject was treated as strange, funny, or culturally revealing, but rarely as a serious beat. The recent change began when UAP stories acquired the ingredients that mainstream editors usually require: named officials, military witnesses, official documents, videos authenticated by government, congressional interest, and a plausible national-security hook.
 
-The clearest turning point was the 2017 New York Times reporting on a Pentagon-linked UFO programme, which helped recast the subject from “flying saucers” into “what did the defence bureaucracy investigate, and why?” The story did not prove extraterrestrial technology, but it showed that parts of the US defence establishment had funded or tolerated UAP-related work, and that Navy aviators had reported encounters that could not be easily explained from the information then public. Later official reviews complicated the popular version of that story: AARO’s 2024 historical report said the DIA programme AAWSAP was often called AATIP, that “AATIP” was not itself an official DoD programme in the way many public accounts suggested, and that the work also wandered into paranormal topics far beyond conventional aerospace analysis. That correction matters because it shows both why the 2017 coverage opened the mainstream door and why later reporting needed more precision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/Newsroom/Publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Open source on defense.gov.</span></span></span>(#endnote-4 "Endnote 4")
+The clearest turning point was the 2017 New York Times reporting on a Pentagon-linked UFO programme, which helped recast the subject from “flying saucers” into “what did the defence bureaucracy investigate, and why?” The story did not prove extraterrestrial technology, but it showed that parts of the US defence establishment had funded or tolerated UAP-related work, and that Navy aviators had reported encounters that could not be easily explained from the information then public. Later official reviews complicated the popular version of that story: AARO’s 2024 historical report said the DIA programme AAWSAP was often called AATIP, that “AATIP” was not itself an official DoD programme in the way many public accounts suggested, and that the work also wandered into paranormal topics far beyond conventional aerospace analysis. That correction matters because it shows both why the 2017 coverage opened the mainstream door and why later reporting needed more precision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/Newsroom/Publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Open source on defense.gov.</span></span></span>(#endnote-4 "Endnote 4")
 
-Government confirmation also changed the tone. In 2020, the Pentagon formally released three [Navy videos]({{ 'navy-videos/' | relative_url }}) that had already circulated publicly, removing one major obstacle for mainstream coverage: whether the footage itself was real government material. The question shifted from authenticity of the videos to interpretation of what they showed. Then, in 2021, the Office of the Director of National Intelligence reported to Congress that its dataset covered 144 US government UAP reports from 2004 to 2021, while stressing that limited high-quality reporting prevented firm conclusions. That combination — real official material, unresolved cases, and cautious language — gave editors a way to cover UAP without endorsing extraordinary [explanations]({{ 'explanations/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Government confirmation also changed the tone. In 2020, the Pentagon formally released three [Navy videos]({{ 'navy-videos/' | relative_url }}) that had already circulated publicly, removing one major obstacle for mainstream coverage: whether the footage itself was real government material. The question shifted from authenticity of the videos to interpretation of what they showed. Then, in 2021, the Office of the Director of National Intelligence reported to Congress that its dataset covered 144 US government UAP reports from 2004 to 2021, while stressing that limited high-quality reporting prevented firm conclusions. That combination — real official material, unresolved cases, and cautious language — gave editors a way to cover UAP without endorsing extraordinary [explanations]({{ 'explanations/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The word “UAP” itself helped. “UFO” still carries decades of alien-invasion baggage. “Unidentified anomalous phenomena” sounds bureaucratic, broader, and less culturally loaded. The Department of Defense has explicitly noted the naming shift: in 2022, UAP stood for unidentified aerial phenomena, while the updated usage became unidentified anomalous phenomena to include more than airborne objects. This terminology did not remove public fascination with aliens, but it gave officials, journalists, and scientists a less theatrical vocabulary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/Newsroom/Publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Open source on defense.gov.</span></span></span>(#endnote-4 "Endnote 4")
+The word “UAP” itself helped. “UFO” still carries decades of alien-invasion baggage. “Unidentified anomalous phenomena” sounds bureaucratic, broader, and less culturally loaded. The Department of Defense has explicitly noted the naming shift: in 2022, UAP stood for unidentified aerial phenomena, while the updated usage became unidentified anomalous phenomena to include more than airborne objects. This terminology did not remove public fascination with aliens, but it gave officials, journalists, and scientists a less theatrical vocabulary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/Newsroom/Publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Open source on defense.gov.</span></span></span>(#endnote-4 "Endnote 4")
 
-Public opinion also made the story more attractive to editors. In 2021, Gallup found that 41% of US adults thought some UFO sightings involved alien spacecraft, up from 33% in 2019, while Pew found that most Americans believed intelligent life exists elsewhere, though only a minority saw military-reported UFOs as a major national-security threat. Mainstream outlets were therefore covering a subject with broad curiosity, political relevance, and unresolved official questions — a rare mix of audience demand and institutional legitimacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">americans believe ufos.aspx</span></span></span>
+Public opinion also made the story more attractive to editors. In 2021, Gallup found that 41% of US adults thought some UFO sightings involved alien spacecraft, up from 33% in 2019, while Pew found that most Americans believed intelligent life exists elsewhere, though only a minority saw military-reported UFOs as a major national-security threat. Mainstream outlets were therefore covering a subject with broad curiosity, political relevance, and unresolved official questions — a rare mix of audience demand and institutional legitimacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans believe ufos.aspx</span><span class="citation-popover-snippet">americans believe ufos.aspx</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3-Illustration-1-dark.svg" | relative_url }}" alt="Media illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -469,13 +469,13 @@ Public opinion also made the story more attractive to editors. In 2021, Gallup f
 
 The UAP beat is unusually sensitive to headline framing because the underlying evidence is often incomplete, classified, sensor-dependent, or second-hand. A headline that says “unexplained” may be accurate. A headline that implies “unexplainable” may not be. A headline that says “official does not rule out aliens” can be technically true while giving readers a much stronger impression than the evidence supports.
 
-The 2023 Chinese balloon and follow-on shootdown episode showed this dynamic clearly. After the US shot down several objects, some early coverage leaned into uncertainty and alien possibilities because officials could not immediately identify everything. Columbia Journalism Review argued that the episode exposed journalism’s difficulty in reporting on unknowns: when something is unidentified, news language can accidentally import decades of science-fiction associations. That is a mechanism of mainstreaming: the same official ambiguity that makes a story newsworthy can also make it vulnerable to over-interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cjr.org/the_media_today/uncertainty_media_ufos.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">uncertainty media ufos</span><span class="citation-popover-snippet">uncertainty media ufos</span></span></span>
+The 2023 Chinese balloon and follow-on shootdown episode showed this dynamic clearly. After the US shot down several objects, some early coverage leaned into uncertainty and alien possibilities because officials could not immediately identify everything. Columbia Journalism Review argued that the episode exposed journalism’s difficulty in reporting on unknowns: when something is unidentified, news language can accidentally import decades of science-fiction associations. That is a mechanism of mainstreaming: the same official ambiguity that makes a story newsworthy can also make it vulnerable to over-interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cjr.org/the_media_today/uncertainty_media_ufos.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">uncertainty media ufos</span><span class="citation-popover-snippet">uncertainty media ufos</span></span></span>
 
-The same problem appears in whistleblower coverage. David Grusch’s 2023 allegations about hidden crash-retrieval programmes became a global media event because they combined official credentials, whistleblower procedure, congressional interest, and claims of extraordinary consequence. But the publication pathway also exposed a verification gap. Vanity Fair reported that The New York Times, The Washington Post, and Politico did not publish the initial story before The Debrief, partly because of unresolved evidentiary and editorial concerns; the journalists behind the story had not seen physical proof of the alleged craft. That distinction is central: “a credentialed person made protected allegations” is reportable; “the allegations are true” requires a higher evidentiary threshold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same problem appears in whistleblower coverage. David Grusch’s 2023 allegations about hidden crash-retrieval programmes became a global media event because they combined official credentials, whistleblower procedure, congressional interest, and claims of extraordinary consequence. But the publication pathway also exposed a verification gap. Vanity Fair reported that The New York Times, The Washington Post, and Politico did not publish the initial story before The Debrief, partly because of unresolved evidentiary and editorial concerns; the journalists behind the story had not seen physical proof of the alleged craft. That distinction is central: “a credentialed person made protected allegations” is reportable; “the allegations are true” requires a higher evidentiary threshold.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Congressional hearings intensify this effect. Hearings provide official theatre: sworn testimony, elected representatives, live clips, and quotable exchanges. They are strong evidence that a claim has political salience, but not necessarily that the claim has been independently verified. When headlines blur that distinction, public expectations inflate. Readers may come away believing that Congress has confirmed hidden alien technology, when the more precise story is that Congress is investigating claims, oversight failures, classification barriers, or witness reports.
 
-The result is a recurring mismatch between public expectation and official findings. NASA’s 2023 independent study said UAP are a serious subject for scientific investigation, but emphasised that the available body of data was not sufficient for definitive scientific conclusions. AARO’s historical report likewise said it had found no empirical evidence that US government investigations had confirmed extraterrestrial technology, while acknowledging that unresolved cases exist and that better data could resolve many of them. These conclusions do not make UAP reporting unimportant. They mean headlines should preserve the gap between mystery, allegation, and evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+The result is a recurring mismatch between public expectation and official findings. NASA’s 2023 independent study said UAP are a serious subject for scientific investigation, but emphasised that the available body of data was not sufficient for definitive scientific conclusions. AARO’s historical report likewise said it had found no empirical evidence that US government investigations had confirmed extraterrestrial technology, while acknowledging that unresolved cases exist and that better data could resolve many of them. These conclusions do not make UAP reporting unimportant. They mean headlines should preserve the gap between mystery, allegation, and evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zlrz84nEXtk" title="WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped unidentified flying object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer">WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped unidentified flying object</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 1.0M &middot; Uploaded: July 2021 &middot; Length: 4 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zlrz84nEXtk">Open on YouTube</a></p></div></div></div>
@@ -484,11 +484,11 @@ The result is a recurring mismatch between public expectation and official findi
 
 Media mainstreaming works through a feedback loop. First, a reputable outlet publishes a serious UAP story. Then officials, pilots, former intelligence personnel, or lawmakers feel safer speaking publicly. Their comments generate more coverage. That coverage increases public pressure for reports, hearings, archives, and whistleblower channels. Those official actions then become new stories.
 
-This loop can be constructive. [ODNI]({{ 'odni/' | relative_url }}) and AARO assessed in the 2022 annual UAP report that increased reporting was partly due to reduced [stigma]({{ 'stigma/' | relative_url }}) and better understanding of possible safety or security implications. In other words, serious coverage can help witnesses report events that might otherwise be buried because pilots fear ridicule or career damage. For the disclosure movement, this is one of media’s most important functions: not proving a theory, but lowering the social cost of documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This loop can be constructive. [ODNI]({{ 'odni/' | relative_url }}) and AARO assessed in the 2022 annual UAP report that increased reporting was partly due to reduced [stigma]({{ 'stigma/' | relative_url }}) and better understanding of possible safety or security implications. In other words, serious coverage can help witnesses report events that might otherwise be buried because pilots fear ridicule or career damage. For the disclosure movement, this is one of media’s most important functions: not proving a theory, but lowering the social cost of documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The loop can also become circular. AARO’s historical report warned that television, books, films, internet content, and social media likely influenced public conversation and reinforced certain beliefs. That does not mean every witness is wrong or every case is cultural contamination. It means journalists need to ask whether a claim is supported by independent records, [sensor data]({{ 'sensor-data/' | relative_url }}), chain of custody, or multiple unconnected witnesses — or whether it is travelling through a small network of mutually reinforcing sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO Historical Record Report Vol 1 2024</span></span></span>
+The loop can also become circular. AARO’s historical report warned that television, books, films, internet content, and social media likely influenced public conversation and reinforced certain beliefs. That does not mean every witness is wrong or every case is cultural contamination. It means journalists need to ask whether a claim is supported by independent records, [sensor data]({{ 'sensor-data/' | relative_url }}), chain of custody, or multiple unconnected witnesses — or whether it is travelling through a small network of mutually reinforcing sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol</span><span class="citation-popover-snippet">AARO Historical Record Report Vol</span></span></span>
 
-The 2017-to-present period shows both sides. On the constructive side, media pressure helped make UAP a legitimate subject for Congress, NASA, ODNI, AARO, and the National Archives. NARA has now established a UAP Records Collection under the 2024 National Defense Authorization Act, requiring agencies to identify and organise UAP records for public disclosure and transfer. On the risky side, the same attention economy rewards claims that sound like revelations even when documents, physical evidence, or technical data remain unavailable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Guidance to Federal Agencies on Unidentified Anomalous</span><span class="citation-popover-snippet">National Archives Guidance to Federal Agencies on Unidentified Anomalous</span></span></span>
+The 2017-to-present period shows both sides. On the constructive side, media pressure helped make UAP a legitimate subject for Congress, NASA, ODNI, AARO, and the National Archives. NARA has now established a UAP Records Collection under the 2024 National Defense Authorization Act, requiring agencies to identify and organise UAP records for public disclosure and transfer. On the risky side, the same attention economy rewards claims that sound like revelations even when documents, physical evidence, or technical data remain unavailable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Guidance to Federal Agencies on Unidentified Anomalous</span><span class="citation-popover-snippet">National Archives Guidance to Federal Agencies on Unidentified Anomalous</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3-Illustration-2-dark.svg" | relative_url }}" alt="Media illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -509,7 +509,7 @@ It should avoid several recurring mistakes:
 
 </div>
 
-NASA’s UAP study is useful here because it modelled a sober middle position: stigma should be reduced, data quality should improve, and scientific tools should be applied, but the existing record does not justify definitive claims. That is also the standard journalism should adopt. A story can be open-minded without being credulous, and sceptical without being contemptuous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+NASA’s UAP study is useful here because it modelled a sober middle position: stigma should be reduced, data quality should improve, and scientific tools should be applied, but the existing record does not justify definitive claims. That is also the standard journalism should adopt. A story can be open-minded without being credulous, and sceptical without being contemptuous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6N9_NagpeOc" title="Retired Navy fighter pilot who saw UFO urges against racing to conclusions after Pentagon release" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6N9_NagpeOc" target="_blank" rel="noopener noreferrer">Retired Navy fighter pilot who saw UFO urges against racing to conclusions after Pentagon release</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 302.6K &middot; Uploaded: May 2026 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6N9_NagpeOc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6N9_NagpeOc">Open on YouTube</a></p></div></div></div>
@@ -528,194 +528,194 @@ The best version of UAP media coverage would keep three truths in view at the sa
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3-Illustration-3-dark.svg" | relative_url }}" alt="Media illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_media_mainstream_2b12d3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Media Made UAP Mainstream Again. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Media Made UAP Mainstream Again. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Relevant to how modern reporting shaped public expectations around disclosure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to how modern reporting shaped public expectations around disclosure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows why credible witnesses helped shift media tone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why credible witnesses helped shift media tone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how media, belief, technology, and institutions make UFOs culturally mainstream.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how media, belief, technology, and institutions make UFOs culturally mainstream.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Strongly fits how UFO coverage became institutional, political, and media-friendly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strongly fits how UFO coverage became institutional, political, and media-friendly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-how-media-made-uap-mainstream-again-ufo-disclosure-movement-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -731,7 +731,7 @@ The best version of UAP media coverage would keep three truths in view at the sa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -751,7 +751,7 @@ The best version of UAP media coverage would keep three truths in view at the sa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -783,7 +783,7 @@ The best version of UAP media coverage would keep three truths in view at the sa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -835,7 +835,7 @@ The best version of UAP media coverage would keep three truths in view at the sa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -880,7 +880,7 @@ The best version of UAP media coverage would keep three truths in view at the sa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -921,207 +921,207 @@ The best version of UAP media coverage would keep three truths in view at the sa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — statement of work, the selected private sector organi...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — statement of work, the selected private sector organi...</p></details>
    Published: March 9, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: defense.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.gallup.com  
    Title: americans believe ufos.aspx  
-   Link: <a href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/350096/americans-believe-ufos.aspx</a>  
+   Link:<a href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/350096/americans-believe-ufos.aspx</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: National Archives Guidance to Federal Agencies on Unidentified Anomalous  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: defense.gov  
-   Link: <a href="https://www.defense.gov/Newsroom/Publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/Newsroom/Publications/</a>  
+   Link:<a href="https://www.defense.gov/Newsroom/Publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/Newsroom/Publications/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: defense.gov  
-   Link: <a href="https://www.defense.gov/News/releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/releases/</a>  
+   Link:<a href="https://www.defense.gov/News/releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/releases/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: statmodeling.stat.columbia.edu  
-   Link: <a href="https://statmodeling.stat.columbia.edu/2026/03/11/alienzzzz/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2026/03/11/alienzzzz/</a>  
+   Link:<a href="https://statmodeling.stat.columbia.edu/2026/03/11/alienzzzz/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2026/03/11/alienzzzz/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: statmodeling.stat.columbia.edu  
    Title: whats the story with news media insiders getting all excited about ufos  
-   Link: <a href="https://statmodeling.stat.columbia.edu/2023/07/26/whats-the-story-with-news-media-insiders-getting-all-excited-about-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2023/07/26/whats-the-story-with-news-media-insiders-getting-all-excited-about-ufos/</a>  
+   Link:<a href="https://statmodeling.stat.columbia.edu/2023/07/26/whats-the-story-with-news-media-insiders-getting-all-excited-about-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2023/07/26/whats-the-story-with-news-media-insiders-getting-all-excited-about-ufos/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: statmodeling.stat.columbia.edu  
-   Link: <a href="https://statmodeling.stat.columbia.edu/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/</a>  
+   Link:<a href="https://statmodeling.stat.columbia.edu/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sustainable.columbia.edu  
    Title: sustain what ufos and media time different  
-   Link: <a href="https://sustainable.columbia.edu/events/sustain-what-ufos-and-media-time-different" target="_blank" rel="noopener noreferrer nofollow">https://sustainable.columbia.edu/events/sustain-what-ufos-and-media-time-different</a>  
+   Link:<a href="https://sustainable.columbia.edu/events/sustain-what-ufos-and-media-time-different" target="_blank" rel="noopener noreferrer nofollow">https://sustainable.columbia.edu/events/sustain-what-ufos-and-media-time-different</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: earth.columbia.edu  
    Title: sustain what captured by ufo mania againquestion  
-   Link: <a href="https://www.earth.columbia.edu/videos/view/sustain-what-captured-by-ufo-mania-againquestion" target="_blank" rel="noopener noreferrer nofollow">https://www.earth.columbia.edu/videos/view/sustain-what-captured-by-ufo-mania-againquestion</a>  
+   Link:<a href="https://www.earth.columbia.edu/videos/view/sustain-what-captured-by-ufo-mania-againquestion" target="_blank" rel="noopener noreferrer nofollow">https://www.earth.columbia.edu/videos/view/sustain-what-captured-by-ufo-mania-againquestion</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: statmodeling.stat.columbia.edu  
-   Link: <a href="https://statmodeling.stat.columbia.edu/2024/06/04/again-on-the-role-of-elite-media-in-spreading-ufos-as-space-aliens-and-other-bad-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2024/06/04/again-on-the-role-of-elite-media-in-spreading-ufos-as-space-aliens-and-other-bad-ideas/</a>  
+   Link:<a href="https://statmodeling.stat.columbia.edu/2024/06/04/again-on-the-role-of-elite-media-in-spreading-ufos-as-space-aliens-and-other-bad-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/2024/06/04/again-on-the-role-of-elite-media-in-spreading-ufos-as-space-aliens-and-other-bad-ideas/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: statmodeling.stat.columbia.edu  
-   Link: <a href="https://statmodeling.stat.columbia.edu/category/sociology/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/category/sociology/</a>  
+   Link:<a href="https://statmodeling.stat.columbia.edu/category/sociology/" target="_blank" rel="noopener noreferrer nofollow">https://statmodeling.stat.columbia.edu/category/sociology/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: news.gallup.com  
    Title: larger minority says ufos alien spacecraft.aspx  
-   Link: <a href="https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx</a>  
+   Link:<a href="https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: news.gallup.com  
    Title: americans views ufos august 2019.aspx  
-   Link: <a href="https://news.gallup.com/poll/266543/americans-views-ufos-august-2019.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/266543/americans-views-ufos-august-2019.aspx</a>  
+   Link:<a href="https://news.gallup.com/poll/266543/americans-views-ufos-august-2019.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/266543/americans-views-ufos-august-2019.aspx</a>  
    Published: august 2019  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
+   Link:<a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/records-mgmt/memos/ac-26-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac-26-2024</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/records-mgmt/memos/ac-13-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac-13-2024</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
    Title: rg 615  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cjr.org  
    Title: uncertainty media ufos  
-   Link: <a href="https://www.cjr.org/the_media_today/uncertainty_media_ufos.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/the_media_today/uncertainty_media_ufos.php</a>  
+   Link:<a href="https://www.cjr.org/the_media_today/uncertainty_media_ufos.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/the_media_today/uncertainty_media_ufos.php</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
+   Link:<a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: vanityfair.com  
    Title: ufo report media  
-   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOopeSz1T7kYK4_rNcXNxpqUYjjSKPUGeyUEUSlkY4h7GJbyrAV-a" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOopeSz1T7kYK4_rNcXNxpqUYjjSKPUGeyUEUSlkY4h7GJbyrAV-a</a>  
+   Link:<a href="https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOopeSz1T7kYK4_rNcXNxpqUYjjSKPUGeyUEUSlkY4h7GJbyrAV-a" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media?srsltid=AfmBOopeSz1T7kYK4_rNcXNxpqUYjjSKPUGeyUEUSlkY4h7GJbyrAV-a</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/vanity-fair_why-the-new-york-times-the-washington-activity-7072648480350998528-TOLo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/vanity-fair_why-the-new-york-times-the-washington-activity-7072648480350998528-TOLo</a>  
+   Link:<a href="https://www.linkedin.com/posts/vanity-fair_why-the-new-york-times-the-washington-activity-7072648480350998528-TOLo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/vanity-fair_why-the-new-york-times-the-washington-activity-7072648480350998528-TOLo</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
    Title: office of the director of national intelligence  
-   Link: <a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: audio.nrc.nl  
-   Link: <a href="https://audio.nrc.nl/episode/65027293" target="_blank" rel="noopener noreferrer nofollow">https://audio.nrc.nl/episode/65027293</a>  
+   Link:<a href="https://audio.nrc.nl/episode/65027293" target="_blank" rel="noopener noreferrer nofollow">https://audio.nrc.nl/episode/65027293</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
+   Link:<a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6N9_NagpeOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6N9_NagpeOc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers from both parties, whistleblower David Grusch call for UAP records be declassified | FULL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6N9_NagpeOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6N9_NagpeOc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers from both parties, whistleblower David Grusch call for UAP records be declassified | FULL...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zlrz84nEXtk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Navy fighter pilot who saw UFO urges against racing to conclusions after Pentagon release...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zlrz84nEXtk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Navy fighter pilot who saw UFO urges against racing to conclusions after Pentagon release...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QY6naT5OZSc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QY6naT5OZSc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP disclosure advocates to gather at Capitol on Tuesday | NewsNation Prime...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QY6naT5OZSc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QY6naT5OZSc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP disclosure advocates to gather at Capitol on Tuesday | NewsNation Prime...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Nick Pope on the Nimitz Encounter & AATIP  
-   Link: <a href="https://www.youtube.com/watch?v=tR7zBstOmTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tR7zBstOmTs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Navy pilot describes encounter with &#x27;[Tic Tac](&amp;#123;&amp;#123; &#x27;tic-tac/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; shaped unidentified flying object...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tR7zBstOmTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tR7zBstOmTs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Navy pilot describes encounter with &#x27;[Tic Tac](&amp;#123;&amp;#123; &#x27;tic-tac/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; shaped unidentified flying object...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/84-of-americans-say-the-us-government-knows-more-about-ufos-than-it-is-sharing/1022576080149409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/84-of-americans-say-the-us-government-knows-more-about-ufos-than-it-is-sharing/1022576080149409/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/84-of-americans-say-the-us-government-knows-more-about-ufos-than-it-is-sharing/1022576080149409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/84-of-americans-say-the-us-government-knows-more-about-ufos-than-it-is-sharing/1022576080149409/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/13news/posts/a-ufo-whistleblower-says-there-are-multiple-kinds-of-alien-life-and-there-are-pe/1423063689857739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/13news/posts/a-ufo-whistleblower-says-there-are-multiple-kinds-of-alien-life-and-there-are-pe/1423063689857739/</a>  
+   Link:<a href="https://www.facebook.com/13news/posts/a-ufo-whistleblower-says-there-are-multiple-kinds-of-alien-life-and-there-are-pe/1423063689857739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/13news/posts/a-ufo-whistleblower-says-there-are-multiple-kinds-of-alien-life-and-there-are-pe/1423063689857739/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSMornings/posts/a-majority-of-americans-believe-in-aliens-or-intelligent-life-outside-of-earth-a/1441324788021668/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/a-majority-of-americans-believe-in-aliens-or-intelligent-life-outside-of-earth-a/1441324788021668/</a>  
+   Link:<a href="https://www.facebook.com/CBSMornings/posts/a-majority-of-americans-believe-in-aliens-or-intelligent-life-outside-of-earth-a/1441324788021668/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/a-majority-of-americans-believe-in-aliens-or-intelligent-life-outside-of-earth-a/1441324788021668/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WSYRNews/posts/an-enlightening-new-poll-on-americans-thoughts-about-ufos-provides-remarkable-in/1665819355546125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSYRNews/posts/an-enlightening-new-poll-on-americans-thoughts-about-ufos-provides-remarkable-in/1665819355546125/</a>  
+   Link:<a href="https://www.facebook.com/WSYRNews/posts/an-enlightening-new-poll-on-americans-thoughts-about-ufos-provides-remarkable-in/1665819355546125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSYRNews/posts/an-enlightening-new-poll-on-americans-thoughts-about-ufos-provides-remarkable-in/1665819355546125/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheView/posts/bipartisan-calls-for-ufo-transparency-after-a-ufo-whistleblower-went-public-with/1561248655357074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheView/posts/bipartisan-calls-for-ufo-transparency-after-a-ufo-whistleblower-went-public-with/1561248655357074/</a>  
+   Link:<a href="https://www.facebook.com/TheView/posts/bipartisan-calls-for-ufo-transparency-after-a-ufo-whistleblower-went-public-with/1561248655357074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheView/posts/bipartisan-calls-for-ufo-transparency-after-a-ufo-whistleblower-went-public-with/1561248655357074/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CvLMYc4huqR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CvLMYc4huqR/</a>  
+   Link:<a href="https://www.instagram.com/reel/CvLMYc4huqR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CvLMYc4huqR/</a>  

@@ -264,7 +264,7 @@ image: /assets/images/ufo_disclosure_movem_b83b6e_tic_tac_encounter_7e7710_princ
 
 ## Introduction
 
-The USS Princeton radar story is one of the main reasons the 2004 [Tic Tac]({{ 'tic-tac/' | relative_url }}) incident became more than a pilot sighting. According to multiple Navy witnesses, operators aboard the missile cruiser USS Princeton detected unusual radar contacts for days before David Fravor's visual encounter. Those reports transformed the event from a brief observation into a case that appeared to involve military sensors, tracking systems and command decisions. Yet the most important evidence—the underlying radar recordings and track files—is not publicly available. That absence has become one of the central disputes in the wider [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}): supporters argue that sophisticated military radar corroborated extraordinary behaviour, while critics note that independent analysts cannot verify claims without the raw data itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">uss nimitz 2004 tic tac ufo encounter</span><span class="citation-popover-snippet">When Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the USS Nimitz descri...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+The USS Princeton radar story is one of the main reasons the 2004 [Tic Tac]({{ 'tic-tac/' | relative_url }}) incident became more than a pilot sighting. According to multiple Navy witnesses, operators aboard the missile cruiser USS Princeton detected unusual radar contacts for days before David Fravor's visual encounter. Those reports transformed the event from a brief observation into a case that appeared to involve military sensors, tracking systems and command decisions. Yet the most important evidence—the underlying radar recordings and track files—is not publicly available. That absence has become one of the central disputes in the wider [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}): supporters argue that sophisticated military radar corroborated extraordinary behaviour, while critics note that independent analysts cannot verify claims without the raw data itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">uss nimitz 2004 tic tac ufo encounter</span><span class="citation-popover-snippet">When Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the USS Nimitz descri...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_tic_tac_encounter_7e7710_princeton_radar_gap_9b2df2-Illustration-1-dark.svg" | relative_url }}" alt="Princeton Radar Gap 9 B2 Df 2 illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_tic_tac_encounter_7e7710_princeton_radar_gap_9b2df2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_tic_tac_encounter_7e7710_princeton_radar_gap_9b2df2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -272,11 +272,11 @@ The USS Princeton radar story is one of the main reasons the 2004 [Tic Tac]({{ '
 
 The radar element matters because eyewitness testimony and [sensor data]({{ 'sensor-data/' | relative_url }}) carry different evidential weight. Human observers can misjudge distance, speed and size. Radar systems can also produce errors, but they create records that can be examined, compared and tested.
 
-In accounts given over the years by USS Princeton personnel, operators reported detecting objects that appeared repeatedly, sometimes descending from very high altitudes before stabilising at lower levels. These reports were significant enough that controllers directed Navy fighters to investigate. The radar narrative therefore serves as the bridge between the ship's operators and the later visual encounter described by Fravor and other aviators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+In accounts given over the years by USS Princeton personnel, operators reported detecting objects that appeared repeatedly, sometimes descending from very high altitudes before stabilising at lower levels. These reports were significant enough that controllers directed Navy fighters to investigate. The radar narrative therefore serves as the bridge between the ship's operators and the later visual encounter described by Fravor and other aviators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
-The Princeton was equipped with the Aegis combat system and the AN/SPY-1 radar, a sophisticated naval surveillance system designed to track numerous airborne targets simultaneously. Because the platform was intended for air-defence operations rather than civilian observation, proponents of the case argue that persistent anomalous tracks on such a system deserve serious attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.missiledefenseadvocacy.org/defense-systems/anspy-1-radar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missiledefenseadvocacy.org">[Missile Defense Advocacy Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missiledefenseadvocacy.org</span><span class="citation-popover-snippet">Missile Defense Advocacy AllianceAN/SPY-1 RadarRole, Primary radar for Aegis BMD; Deployment, Deployed on all 85 U.S. Navy vessels equip...</span></span></span>
+The Princeton was equipped with the Aegis combat system and the AN/SPY-1 radar, a sophisticated naval surveillance system designed to track numerous airborne targets simultaneously. Because the platform was intended for air-defence operations rather than civilian observation, proponents of the case argue that persistent anomalous tracks on such a system deserve serious attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.missiledefenseadvocacy.org/defense-systems/anspy-1-radar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missiledefenseadvocacy.org">[Missile Defense Advocacy Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missiledefenseadvocacy.org</span><span class="citation-popover-snippet">Missile Defense Advocacy AllianceAN/SPY-1 RadarRole, Primary radar for Aegis BMD; Deployment, Deployed on all 85 U.S. Navy vessels equip...</span></span></span>
 
-At the same time, the mere existence of radar reports does not automatically validate every interpretation attached to them. Radar operators can encounter clutter, software anomalies, calibration issues and track-generation errors. The question is not whether radar was involved—it clearly was—but whether the recorded data support the extraordinary manoeuvres later attributed to the objects. That question remains unresolved because the underlying records are unavailable for independent review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndupress.ndu.edu">[NDU Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndupress.ndu.edu</span><span class="citation-popover-title">cutting the chaff overlooked lessons of military uap sightings for joint force</span><span class="citation-popover-snippet">The military&#x27;s Aegis SPY-1 radar system can reportedly track an object as small as a golf...Read more...</span></span></span>
+At the same time, the mere existence of radar reports does not automatically validate every interpretation attached to them. Radar operators can encounter clutter, software anomalies, calibration issues and track-generation errors. The question is not whether radar was involved—it clearly was—but whether the recorded data support the extraordinary manoeuvres later attributed to the objects. That question remains unresolved because the underlying records are unavailable for independent review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndupress.ndu.edu">[NDU Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndupress.ndu.edu</span><span class="citation-popover-title">cutting the chaff overlooked lessons of military uap sightings for joint force</span><span class="citation-popover-snippet">The military&#x27;s Aegis SPY-1 radar system can reportedly track an object as small as a golf...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v3c6pyLWzqc" title="Caught On Camera - The US Navy UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v3c6pyLWzqc" target="_blank" rel="noopener noreferrer">Caught On Camera - The US Navy UFO</a></p><p class="youtube-embed-meta">Channel: Found And Explained &middot; Views: 4.7M &middot; Uploaded: December 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v3c6pyLWzqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v3c6pyLWzqc">Open on YouTube</a></p></div></div></div>
@@ -285,9 +285,9 @@ At the same time, the mere existence of radar reports does not automatically val
 
 Public descriptions of the radar contacts come primarily from witness testimony rather than released technical records.
 
-Several operators associated with the Princeton have stated that unusual tracks appeared repeatedly over a period of days. According to these accounts, the objects sometimes appeared at very high altitudes before descending rapidly and then lingering at lower altitudes. Witnesses have also claimed that the contacts became clearer after radar calibration work, a detail often cited by those who reject simple equipment malfunction [explanations]({{ 'explanations/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">No squawk, no IFF [Identification Friend or Foe].”.Read more</span><span class="citation-popover-snippet">Popular MechanicsThe Truth About the Navy&#x27;s Nimitz Encounter UFO Sightings13 Feb 2025 — Their radar cross sections didn&#x27;t match any known...</span></span></span>
+Several operators associated with the Princeton have stated that unusual tracks appeared repeatedly over a period of days. According to these accounts, the objects sometimes appeared at very high altitudes before descending rapidly and then lingering at lower altitudes. Witnesses have also claimed that the contacts became clearer after radar calibration work, a detail often cited by those who reject simple equipment malfunction [explanations]({{ 'explanations/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">No squawk, no IFF [Identification Friend or Foe].”.Read more</span><span class="citation-popover-snippet">Popular MechanicsThe Truth About the Navy&#x27;s Nimitz Encounter UFO Sightings13 Feb 2025 — Their radar cross sections didn&#x27;t match any known...</span></span></span>
 
-Another frequently repeated claim is that, after Fravor's visual encounter, the target appeared near a predetermined combat air patrol point some distance away. In the popular retelling, this movement implied extremely high speed. However, the public record contains no released radar file showing the timing, track continuity, sensor confidence levels or processing history needed to evaluate that claim rigorously. What exists are witness descriptions of what operators believed they were seeing on their displays. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marcellocatalano.com/nimitz.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcellocatalano.com">[Marcello Catalano]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcellocatalano.com</span><span class="citation-popover-title">Marcello Catalano UFOs</span><span class="citation-popover-snippet">Marcello CatalanoUFOs - The Nimitz incident - Marcello CatalanoAfter about ten seconds, Day contacts the two jets to say that the object...</span></span></span>
+Another frequently repeated claim is that, after Fravor's visual encounter, the target appeared near a predetermined combat air patrol point some distance away. In the popular retelling, this movement implied extremely high speed. However, the public record contains no released radar file showing the timing, track continuity, sensor confidence levels or processing history needed to evaluate that claim rigorously. What exists are witness descriptions of what operators believed they were seeing on their displays.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marcellocatalano.com/nimitz.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcellocatalano.com">[Marcello Catalano]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcellocatalano.com</span><span class="citation-popover-title">Marcello Catalano UFOs</span><span class="citation-popover-snippet">Marcello CatalanoUFOs - The Nimitz incident - Marcello CatalanoAfter about ten seconds, Day contacts the two jets to say that the object...</span></span></span>
 
 This distinction is crucial. Radar operators may accurately report what appeared on their consoles, yet analysts still need the underlying data stream to determine whether the displayed track represented a physical object, a sensor artefact, a track-association problem or something else entirely.
 
@@ -297,13 +297,13 @@ This distinction is crucial. Radar operators may accurately report what appeared
 
 The most important evidential gap in the Tic Tac case is that the public does not possess the raw radar data.
 
-[Researchers]({{ 'researchers/' | relative_url }}) who have examined the incident repeatedly note that available material consists largely of witness testimony, a small number of official documents and later video footage rather than complete sensor archives. Academic discussions of the case similarly acknowledge that the available evidence is indirect and incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Estimating Flight Characteristics of Anomalous Unidentified...by KH Knuth · 2019 · Cited by 57 — The available data consists of eyewi...</span></span></span>
+[Researchers]({{ 'researchers/' | relative_url }}) who have examined the incident repeatedly note that available material consists largely of witness testimony, a small number of official documents and later video footage rather than complete sensor archives. Academic discussions of the case similarly acknowledge that the available evidence is indirect and incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Estimating Flight Characteristics of Anomalous Unidentified...by KH Knuth · 2019 · Cited by 57 — The available data consists of eyewi...</span></span></span>
 
 The absence of radar files has generated two competing narratives.
 
-One narrative holds that the data once existed but are no longer available publicly because of classification, retention practices or later collection by government personnel. Some witnesses have claimed that recordings were removed after the incident, and these accounts have become a recurring theme in disclosure discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/navy-witnesses-nimitz-encounter.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">navy witnesses nimitz encounter</span><span class="citation-popover-snippet">Live ScienceNavy Officers Say &#x27;Unknown Individuals&#x27; Made Them Erase...Nov 14, 2019 — Several Navy officers who witnessed the now-famous...</span></span></span>
+One narrative holds that the data once existed but are no longer available publicly because of classification, retention practices or later collection by government personnel. Some witnesses have claimed that recordings were removed after the incident, and these accounts have become a recurring theme in disclosure discussions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/navy-witnesses-nimitz-encounter.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">navy witnesses nimitz encounter</span><span class="citation-popover-snippet">Live ScienceNavy Officers Say &#x27;Unknown Individuals&#x27; Made Them Erase...Nov 14, 2019 — Several Navy officers who witnessed the now-famous...</span></span></span>
 
-The other narrative is more cautious. Critics point out that extraordinary radar claims remain unverified until the original records can be inspected. They argue that second-hand descriptions, however sincere, cannot substitute for actual track data. Without the files, it is impossible to independently confirm reported altitudes, velocities, acceleration rates or track continuity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navalgazing.net/Navy-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navalgazing.net">[Naval Gazing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navalgazing.net</span><span class="citation-popover-title">Navy UFOs</span><span class="citation-popover-snippet">Naval GazingThe Navy UFO Incident10 May 2020 — In at least one case, a Super Hornet&#x27;s radar was unable to find something the cruiser Prin...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+The other narrative is more cautious. Critics point out that extraordinary radar claims remain unverified until the original records can be inspected. They argue that second-hand descriptions, however sincere, cannot substitute for actual track data. Without the files, it is impossible to independently confirm reported altitudes, velocities, acceleration rates or track continuity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navalgazing.net/Navy-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navalgazing.net">[Naval Gazing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navalgazing.net</span><span class="citation-popover-title">Navy UFOs</span><span class="citation-popover-snippet">Naval GazingThe Navy UFO Incident10 May 2020 — In at least one case, a Super Hornet&#x27;s radar was unable to find something the cruiser Prin...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 As a result, the strongest claimed evidence and the largest evidential gap are effectively the same thing.
 
@@ -332,203 +332,203 @@ Without these elements, analysts are left comparing competing recollections rath
 
 The Princeton radar reports occupy an unusual position in the Tic Tac case. They are too significant to ignore, because multiple witnesses have consistently described unusual tracks detected by advanced military systems. Yet they are also too incomplete to settle the matter.
 
-For disclosure advocates, the radar accounts suggest that the encounter involved more than pilot perception and that important government-held data may remain unavailable. For sceptics, the lack of raw tracks means the strongest claims cannot be independently tested and therefore cannot be treated as established fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/navy-witnesses-nimitz-encounter.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">navy witnesses nimitz encounter</span><span class="citation-popover-snippet">Live ScienceNavy Officers Say &#x27;Unknown Individuals&#x27; Made Them Erase...Nov 14, 2019 — Several Navy officers who witnessed the now-famous...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">No squawk, no IFF [Identification Friend or Foe].”.Read more</span><span class="citation-popover-snippet">Popular MechanicsThe Truth About the Navy&#x27;s Nimitz Encounter UFO Sightings13 Feb 2025 — Their radar cross sections didn&#x27;t match any known...</span></span></span>
+For disclosure advocates, the radar accounts suggest that the encounter involved more than pilot perception and that important government-held data may remain unavailable. For sceptics, the lack of raw tracks means the strongest claims cannot be independently tested and therefore cannot be treated as established fact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/navy-witnesses-nimitz-encounter.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">navy witnesses nimitz encounter</span><span class="citation-popover-snippet">Live ScienceNavy Officers Say &#x27;Unknown Individuals&#x27; Made Them Erase...Nov 14, 2019 — Several Navy officers who witnessed the now-famous...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">No squawk, no IFF [Identification Friend or Foe].”.Read more</span><span class="citation-popover-snippet">Popular MechanicsThe Truth About the Navy&#x27;s Nimitz Encounter UFO Sightings13 Feb 2025 — Their radar cross sections didn&#x27;t match any known...</span></span></span>
 
-That tension explains why the USS Princeton remains central to discussions of the Tic Tac incident. The case is not simply about what pilots said they saw. It is about a dataset that is frequently cited, rarely examined and still largely absent from the public record. Until the underlying radar evidence becomes available—or is conclusively shown not to exist—the radar story will remain one of the most important unresolved elements of the entire encounter. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndupress.ndu.edu">[NDU Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndupress.ndu.edu</span><span class="citation-popover-title">cutting the chaff overlooked lessons of military uap sightings for joint force</span><span class="citation-popover-snippet">The military&#x27;s Aegis SPY-1 radar system can reportedly track an object as small as a golf...Read more...</span></span></span>
+That tension explains why the USS Princeton remains central to discussions of the Tic Tac incident. The case is not simply about what pilots said they saw. It is about a dataset that is frequently cited, rarely examined and still largely absent from the public record. Until the underlying radar evidence becomes available—or is conclusively shown not to exist—the radar story will remain one of the most important unresolved elements of the entire encounter. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndupress.ndu.edu">[NDU Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndupress.ndu.edu</span><span class="citation-popover-title">cutting the chaff overlooked lessons of military uap sightings for joint force</span><span class="citation-popover-snippet">The military&#x27;s Aegis SPY-1 radar system can reportedly track an object as small as a golf...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/85OhTbTtK_I" title="The 2004 USS Nimitz UFO Incident | Contact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=85OhTbTtK_I" target="_blank" rel="noopener noreferrer">The 2004 USS Nimitz UFO Incident | Contact</a></p><p class="youtube-embed-meta">Channel: Discovery &middot; Views: 1.3M &middot; Uploaded: August 2019 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=85OhTbTtK_I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=85OhTbTtK_I">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Princeton Radar Gap 9 B2 Df 2. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Princeton Radar Gap 9 B2 Df 2. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="princeton-radar-gap-9-b2-df-2-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ That tension explains why the USS Princeton remains central to discussions of th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ That tension explains why the USS Princeton remains central to discussions of th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ That tension explains why the USS Princeton remains central to discussions of th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ That tension explains why the USS Princeton remains central to discussions of th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ That tension explains why the USS Princeton remains central to discussions of th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,129 +734,129 @@ That tension explains why the USS Princeton remains central to discussions of th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.com  
    Title: uss nimitz 2004 tic tac ufo encounter  
-   Link: <a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the USS Nimitz descri...</p></details>
+   Link:<a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the USS Nimitz descri...</p></details>
    Published: May 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/AN/SPY-1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SPY-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SPY-1December 17, 2025 — The AN/SPY-1 is a United States Navy passive electronically scanned array (PESA) 3D radar system manufactured...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/AN/SPY-1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SPY-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SPY-1December 17, 2025 — The AN/SPY-1 is a United States Navy passive electronically scanned array (PESA) 3D radar system manufactured...</p></details>
    Published: December 17, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ndupress.ndu.edu  
    Title: cutting the chaff overlooked lessons of military uap sightings for joint force  
-   Link: <a href="https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The military&#x27;s Aegis SPY-1 radar system can reportedly track an object as small as a golf...Read more...</p></details>
+   Link:<a href="https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-110/Article/Article/3447233/cutting-the-chaff-overlooked-lessons-of-military-uap-sightings-for-joint-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The military&#x27;s Aegis SPY-1 radar system can reportedly track an object as small as a golf...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating Flight Characteristics of Anomalous Unidentified...by KH Knuth · 2019 · Cited by 57 — The available data consists of eyewi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating Flight Characteristics of Anomalous Unidentified...by KH Knuth · 2019 · Cited by 57 — The available data consists of eyewi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: United States Ship  
-   Link: <a href="https://en.wikipedia.org/wiki/United_States_Ship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_Ship</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>United States ShipUnited States Ship (abbreviated as USS or USS) is a ship prefix used to identify a commissioned ship of the United S...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/United_States_Ship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_Ship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States ShipUnited States Ship (abbreviated as USS or USS) is a ship prefix used to identify a commissioned ship of the United S...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: missiledefenseadvocacy.org  
-   Link: <a href="https://www.missiledefenseadvocacy.org/defense-systems/anspy-1-radar/" target="_blank" rel="noopener noreferrer nofollow">https://www.missiledefenseadvocacy.org/defense-systems/anspy-1-radar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missile Defense Advocacy AllianceAN/SPY-1 RadarRole, Primary radar for Aegis BMD; Deployment, Deployed on all 85 U.S. Navy vessels equip...</p></details>
+   Link:<a href="https://www.missiledefenseadvocacy.org/defense-systems/anspy-1-radar/" target="_blank" rel="noopener noreferrer nofollow">https://www.missiledefenseadvocacy.org/defense-systems/anspy-1-radar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missile Defense Advocacy AllianceAN/SPY-1 RadarRole, Primary radar for Aegis BMD; Deployment, Deployed on all 85 U.S. Navy vessels equip...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: navalgazing.net  
    Title: Navy UFOs  
-   Link: <a href="https://www.navalgazing.net/Navy-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.navalgazing.net/Navy-UFOs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval GazingThe Navy UFO Incident10 May 2020 — In at least one case, a Super Hornet&#x27;s radar was unable to find something the cruiser Prin...</p></details>
+   Link:<a href="https://www.navalgazing.net/Navy-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.navalgazing.net/Navy-UFOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval GazingThe Navy UFO Incident10 May 2020 — In at least one case, a Super Hornet&#x27;s radar was unable to find something the cruiser Prin...</p></details>
    Published: May 2020  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: popularmechanics.com  
    Title: No squawk, no IFF [Identification Friend or Foe].”.Read more  
-   Link: <a href="https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsThe Truth About the Navy&#x27;s Nimitz Encounter UFO Sightings13 Feb 2025 — Their radar cross sections didn&#x27;t match any known...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsThe Truth About the Navy&#x27;s Nimitz Encounter UFO Sightings13 Feb 2025 — Their radar cross sections didn&#x27;t match any known...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: marcellocatalano.com  
    Title: Marcello Catalano UFOs  
-   Link: <a href="https://www.marcellocatalano.com/nimitz.html" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/nimitz.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello CatalanoUFOs - The Nimitz incident - Marcello CatalanoAfter about ten seconds, Day contacts the two jets to say that the object...</p></details>
+   Link:<a href="https://www.marcellocatalano.com/nimitz.html" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/nimitz.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello CatalanoUFOs - The Nimitz incident - Marcello CatalanoAfter about ten seconds, Day contacts the two jets to say that the object...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: livescience.com  
    Title: navy witnesses nimitz encounter  
-   Link: <a href="https://www.livescience.com/navy-witnesses-nimitz-encounter.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/navy-witnesses-nimitz-encounter.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceNavy Officers Say &#x27;Unknown Individuals&#x27; Made Them Erase...Nov 14, 2019 — Several Navy officers who witnessed the now-famous...</p></details>
+   Link:<a href="https://www.livescience.com/navy-witnesses-nimitz-encounter.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/navy-witnesses-nimitz-encounter.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceNavy Officers Say &#x27;Unknown Individuals&#x27; Made Them Erase...Nov 14, 2019 — Several Navy officers who witnessed the now-famous...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: Nimitz Encounter  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/lkfoou/nimitz_encounter_new_kevin_day_interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/lkfoou/nimitz_encounter_new_kevin_day_interview/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Kevin Day Interview: r/ufoHe&#x27;s most likely the highest ranking enlisted guy running the radar on the USS Princeton at the time of th...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/lkfoou/nimitz_encounter_new_kevin_day_interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/lkfoou/nimitz_encounter_new_kevin_day_interview/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Kevin Day Interview: r/ufoHe&#x27;s most likely the highest ranking enlisted guy running the radar on the USS Princeton at the time of th...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/155wtz4/mick_west_believe_the_tic_tac_uap_sightings_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/155wtz4/mick_west_believe_the_tic_tac_uap_sightings_was/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West believe the Tic Tac UAP sightings was just a &quot;...The TicTac had a radar return. They knew where it was, roughly how big, and h...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/155wtz4/mick_west_believe_the_tic_tac_uap_sightings_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/155wtz4/mick_west_believe_the_tic_tac_uap_sightings_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West believe the Tic Tac UAP sightings was just a &quot;...The TicTac had a radar return. They knew where it was, roughly how big, and h...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40our1truegod/the-one-uap-case-the-pentagon-still-cant-explain-45458e33a989" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40our1truegod/the-one-uap-case-the-pentagon-still-cant-explain-45458e33a989</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The One UAP Case the Pentagon Still Can&#x27;t ExplainThe Princeton was equipped with the AN/SPY-1 radar, part of the Aegis combat system, one...</p></details>
+   Link:<a href="https://medium.com/%40our1truegod/the-one-uap-case-the-pentagon-still-cant-explain-45458e33a989" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40our1truegod/the-one-uap-case-the-pentagon-still-cant-explain-45458e33a989</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The One UAP Case the Pentagon Still Can&#x27;t ExplainThe Princeton was equipped with the AN/SPY-1 radar, part of the Aegis combat system, one...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bom4e9/uss_princetons_radar_and_telemetry_systems_during/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bom4e9/uss_princetons_radar_and_telemetry_systems_during/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Princeton&#x27;s Radar and Telemetry Systems During...All of this is from public records. Sean Kirkpatrick, his successor, and AARO claim...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bom4e9/uss_princetons_radar_and_telemetry_systems_during/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bom4e9/uss_princetons_radar_and_telemetry_systems_during/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Princeton&#x27;s Radar and Telemetry Systems During...All of this is from public records. Sean Kirkpatrick, his successor, and AARO claim...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: handprint.com  
-   Link: <a href="https://www.handprint.com/UFO/2004Nimitz_AATIP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/2004Nimitz_AATIP.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ↆ AATIP USS NimitzSince the radar was in the mode to handle Air Intercept of conventional aircraft it never obtained an accurate track of...</p></details>
+   Link:<a href="https://www.handprint.com/UFO/2004Nimitz_AATIP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/2004Nimitz_AATIP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ↆ AATIP USS NimitzSince the radar was in the mode to handle Air Intercept of conventional aircraft it never obtained an accurate track of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...Jul 26, 2023 — A retired Navy fighter pilot testified about his experience...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...Jul 26, 2023 — A retired Navy fighter pilot testified about his experience...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vocal.[media](&#123;&#123; 'media/' | relative_url &#125;&#125;)  
-   Link: <a href="https://vocal.media/futurism/the-nimitz-ufo-incident-and-the-navy-sailors-who-witnessed-the-mysterious-tic-tac-craft" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/the-nimitz-ufo-incident-and-the-navy-sailors-who-witnessed-the-mysterious-tic-tac-craft</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nimitz UFO Incident and the Navy Sailors Who Witnessed...4 May 2026 — The Princeton possessed some of the Navy&#x27;s most advanced radar...</p></details>
+   Link:<a href="https://vocal.media/futurism/the-nimitz-ufo-incident-and-the-navy-sailors-who-witnessed-the-mysterious-tic-tac-craft" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/the-nimitz-ufo-incident-and-the-navy-sailors-who-witnessed-the-mysterious-tic-tac-craft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Nimitz UFO Incident and the Navy Sailors Who Witnessed...4 May 2026 — The Princeton possessed some of the Navy&#x27;s most advanced radar...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: in november 2004 during naval training exercises off the coast of southern calif  
-   Link: <a href="https://www.facebook.com/100090372200308/posts/in-november-2004-during-naval-training-exercises-off-the-coast-of-southern-calif/861434093545656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090372200308/posts/in-november-2004-during-naval-training-exercises-off-the-coast-of-southern-calif/861434093545656/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In November 2004, during naval training exercises off...In November 2004, during naval training exercises off the coast of Southern Cali...</p></details>
+   Link:<a href="https://www.facebook.com/100090372200308/posts/in-november-2004-during-naval-training-exercises-off-the-coast-of-southern-calif/861434093545656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090372200308/posts/in-november-2004-during-naval-training-exercises-off-the-coast-of-southern-calif/861434093545656/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In November 2004, during naval training exercises off...In November 2004, during naval training exercises off the coast of Southern Cali...</p></details>
    Published: november 2004  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert AnalysisOn his Week in Space, skeptical investigator Mick West breaks down recent UFO videos, in...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert AnalysisOn his Week in Space, skeptical investigator Mick West breaks down recent UFO videos, in...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zlrz84nEXtk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped...WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped unidentified f...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zlrz84nEXtk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped...WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped unidentified f...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: documentcloud.org  
    Title: Document Cloud USS Nimitz UFO / UAP Tic Tac Executive  
-   Link: <a href="https://www.documentcloud.org/documents/20743466-nimitz-unredacted/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/20743466-nimitz-unredacted/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Nimitz UFO / UAP Tic Tac Executive SummaryUSS Nimitz UFO / UAP Tic Tac Executive Summary. File. File Text Pages Notes Results. Search...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/20743466-nimitz-unredacted/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/20743466-nimitz-unredacted/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Nimitz UFO / UAP Tic Tac Executive SummaryUSS Nimitz UFO / UAP Tic Tac Executive Summary. File. File Text Pages Notes Results. Search...</p></details>

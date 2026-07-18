@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-cia-ufo/
 description: Focused pages that expand on CIA Files.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0
 parent_title: CIA Files
@@ -16,7 +16,7 @@ parent_permalink: /cia-files/
 
 # Explore Topics in CIA Files
 
-The following pages expand on the main **[CIA Files]({{ '/cia-files/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[CIA Files]({{ '/cia-files/' | relative_url }})** page and cover its key branches in.
 
 - [Cia Files Not Proof 156 B8 F]({{ '/cia-files-not-proof-156-b8-f/' | relative_url }})
 - [Crest Release Transp Ef 3 B5 F]({{ '/crest-release-transp-ef-3-b5-f/' | relative_url }})

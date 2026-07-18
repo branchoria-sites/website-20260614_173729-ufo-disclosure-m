@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-david/
 description: Focused pages that expand on Grusch Claims.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_david_grusch_claims_ead3db
 parent_title: Grusch Claims
@@ -16,7 +16,7 @@ parent_permalink: /grusch-claims/
 
 # Explore Topics in Grusch Claims
 
-The following pages expand on the main **[Grusch Claims]({{ '/grusch-claims/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Grusch Claims]({{ '/grusch-claims/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Report Rebuttal 11 Fc 11]({{ '/aaro-report-rebuttal-11-fc-11/' | relative_url }})
 - [Biologics Evidence P A9 Cc 4 D]({{ '/biologics-evidence-p-a9-cc-4-d/' | relative_url }})

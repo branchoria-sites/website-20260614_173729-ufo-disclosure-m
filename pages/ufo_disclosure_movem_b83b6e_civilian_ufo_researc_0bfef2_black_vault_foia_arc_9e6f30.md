@@ -259,7 +259,7 @@ image: /assets/images/ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2_bl
 
 ## Introduction
 
-Within the [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}), few projects have had a greater practical impact on public verification than the Black Vault. Founded by researcher John Greenewald Jr., the archive did not emerge from a government programme or academic institution. Instead, it grew through decades of Freedom of Information Act (FOIA) requests, appeals, document scanning, indexing, and publication. What makes the Black Vault important is not that it claims to solve UFO mysteries. Its significance lies in creating a searchable evidence trail where official records can be inspected, compared, challenged, and revisited by anyone. Today the archive contains more than 3.8 million pages of government documents, making it one of the largest private repositories of declassified records available online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+Within the [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}), few projects have had a greater practical impact on public verification than the Black Vault. Founded by researcher John Greenewald Jr., the archive did not emerge from a government programme or academic institution. Instead, it grew through decades of Freedom of Information Act (FOIA) requests, appeals, document scanning, indexing, and publication. What makes the Black Vault important is not that it claims to solve UFO mysteries. Its significance lies in creating a searchable evidence trail where official records can be inspected, compared, challenged, and revisited by anyone. Today the archive contains more than 3.8 million pages of government documents, making it one of the largest private repositories of declassified records available online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2_black_vault_foia_arc_9e6f30-Illustration-1-dark.svg" | relative_url }}" alt="Black Vault Foia Arc 9 E6 F30 illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2_black_vault_foia_arc_9e6f30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2_black_vault_foia_arc_9e6f30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -269,9 +269,9 @@ For a subject often dominated by rumours, anonymous claims, and second-hand stor
 
 UFO-related records have long been scattered across military branches, intelligence agencies, aviation authorities, presidential libraries, and national archives. Even when records were technically public, they were frequently difficult to locate, available only on microfilm, or distributed across multiple repositories.
 
-Greenewald began filing FOIA requests as a teenager in the mid-1990s after discovering references to government UFO documents online. Rather than treating each release as a one-off acquisition, he built a system for preserving and publishing the material. Over time, the project expanded far beyond UFOs, but unidentified aerial phenomena remained one of its most visible collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cjr.org/special_report/black-vault-foia-john-greenewald.php/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">Columbia Journalism Review Inside the Black Vault</span><span class="citation-popover-snippet">Columbia Journalism ReviewInside the Black VaultMay 6, 2020 — For twenty-four years, Greenewald, now thirty-nine, has been the proprietor...</span><span class="citation-popover-meta">Published: May 6, 2020</span></span></span>
+Greenewald began filing FOIA requests as a teenager in the mid-1990s after discovering references to government UFO documents online. Rather than treating each release as a one-off acquisition, he built a system for preserving and publishing the material. Over time, the project expanded far beyond UFOs, but unidentified aerial phenomena remained one of its most visible collections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cjr.org/special_report/black-vault-foia-john-greenewald.php/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">Columbia Journalism Review Inside the Black Vault</span><span class="citation-popover-snippet">Columbia Journalism ReviewInside the Black VaultMay 6, 2020 — For twenty-four years, Greenewald, now thirty-nine, has been the proprietor...</span><span class="citation-popover-meta">Published: May 6, 2020</span></span></span>
 
-The archive's importance comes from aggregation. A single government release may contain only a few pages. A decades-long archive of releases, however, allows [researchers]({{ 'researchers/' | relative_url }}) to compare versions of documents, identify missing pages, trace agency responses, and see how official narratives changed over time. That function became especially valuable before agencies began creating dedicated UAP repositories of their own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cjr.org/special_report/black-vault-foia-john-greenewald.php/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">Columbia Journalism Review Inside the Black Vault</span><span class="citation-popover-snippet">Columbia Journalism ReviewInside the Black VaultMay 6, 2020 — For twenty-four years, Greenewald, now thirty-nine, has been the proprietor...</span><span class="citation-popover-meta">Published: May 6, 2020</span></span></span>
+The archive's importance comes from aggregation. A single government release may contain only a few pages. A decades-long archive of releases, however, allows [researchers]({{ 'researchers/' | relative_url }}) to compare versions of documents, identify missing pages, trace agency responses, and see how official narratives changed over time. That function became especially valuable before agencies began creating dedicated UAP repositories of their own.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cjr.org/special_report/black-vault-foia-john-greenewald.php/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjr.org">[Columbia Journalism Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjr.org</span><span class="citation-popover-title">Columbia Journalism Review Inside the Black Vault</span><span class="citation-popover-snippet">Columbia Journalism ReviewInside the Black VaultMay 6, 2020 — For twenty-four years, Greenewald, now thirty-nine, has been the proprietor...</span><span class="citation-popover-meta">Published: May 6, 2020</span></span></span>
 
 The Black Vault effectively acted as an intermediary layer between government record systems and the public. Instead of forcing readers to navigate numerous agencies separately, it collected documents into a single searchable environment.
 
@@ -297,15 +297,15 @@ FOIA releases often arrive in formats that are difficult to use: scanned images,
 
 </div>
 
-This process creates an audit trail. Readers can see not only the document itself but often the circumstances under which it was released. That makes it easier to evaluate authenticity and provenance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+This process creates an audit trail. Readers can see not only the document itself but often the circumstances under which it was released. That makes it easier to evaluate authenticity and provenance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-The archive also preserves negative evidence. FOIA denials, heavily redacted releases, and records withheld under national security exemptions can reveal as much about government handling of a subject as fully released documents. The Black Vault regularly publishes both successful and unsuccessful requests, allowing observers to track what agencies acknowledge, what they deny possessing, and what they continue to withhold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The archive also preserves negative evidence. FOIA denials, heavily redacted releases, and records withheld under national security exemptions can reveal as much about government handling of a subject as fully released documents. The Black Vault regularly publishes both successful and unsuccessful requests, allowing observers to track what agencies acknowledge, what they deny possessing, and what they continue to withhold.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 ## Project Blue Book as a Verification Case Study
 
 One of the clearest examples of the archive's impact was the digitisation of Project [Blue Book]({{ 'blue-book/' | relative_url }}) records.
 
-Project Blue Book was the US Air Force programme that investigated UFO reports from 1947 to 1969. Although the records had been declassified for years, much of the collection remained cumbersome to access through archival formats. Greenewald digitised and organised roughly 130,000 pages covering more than 10,000 cases, making them available online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-snippet">ABC7 San FranciscoUFO enthusiast releases 130K pages of Air Force docs...Jan 20, 2015 — Project Blue Book&#x27;s files were declassified afte...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.10tv.com/article/news/thousands-government-files-ufos-released-online/530-8598fbf4-bc1e-4ae3-914c-f4c3725b2054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 10tv.com">[210tv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">10tv.com</span><span class="citation-popover-snippet">Thousands Of Government Files On UFOs Released OnlineJan 19, 2015 — The Black Vault houses almost 130,000 of pages, which comprise of mor...</span></span></span>
+Project Blue Book was the US Air Force programme that investigated UFO reports from 1947 to 1969. Although the records had been declassified for years, much of the collection remained cumbersome to access through archival formats. Greenewald digitised and organised roughly 130,000 pages covering more than 10,000 cases, making them available online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-snippet">ABC7 San FranciscoUFO enthusiast releases 130K pages of Air Force docs...Jan 20, 2015 — Project Blue Book&#x27;s files were declassified afte...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.10tv.com/article/news/thousands-government-files-ufos-released-online/530-8598fbf4-bc1e-4ae3-914c-f4c3725b2054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 10tv.com">[210tv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">10tv.com</span><span class="citation-popover-snippet">Thousands Of Government Files On UFOs Released OnlineJan 19, 2015 — The Black Vault houses almost 130,000 of pages, which comprise of mor...</span></span></span>
 
 The practical effect was significant. Researchers no longer needed to rely on summaries, secondary books, or selective quotations. Original witness statements, investigative reports, photographs, correspondence, and case evaluations could be examined directly.
 
@@ -319,9 +319,9 @@ The value was not proving or disproving any single sighting. The value was allow
 
 The Black Vault's handling of CIA UFO files illustrates both the strengths and limitations of FOIA-driven transparency.
 
-In 2021, the archive published a large collection of CIA-related UFO records after years of requests and negotiations. The material was presented as a substantial release of agency files, but Greenewald also cautioned that no outside researcher could independently verify whether every relevant document had been provided. He explicitly treated the collection as a major disclosure while continuing to question whether additional records might still exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black Vault</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-cia-documents-black-vault-how-download-1560830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">ufo cia documents black vault how download 1560830</span><span class="citation-popover-snippet">How to Download the CIA&#x27;s &#x27;Entire&#x27; Collection of UFO...12 Jan 2021 — It is now possible for members of the public to download the docume...</span></span></span> This episode demonstrates an important principle of public verification: document releases can be authenticated, catalogued, and analysed, but completeness is often harder to establish.
+In 2021, the archive published a large collection of CIA-related UFO records after years of requests and negotiations. The material was presented as a substantial release of agency files, but Greenewald also cautioned that no outside researcher could independently verify whether every relevant document had been provided. He explicitly treated the collection as a major disclosure while continuing to question whether additional records might still exist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black Vault</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-cia-documents-black-vault-how-download-1560830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">ufo cia documents black vault how download 1560830</span><span class="citation-popover-snippet">How to Download the CIA&#x27;s &#x27;Entire&#x27; Collection of UFO...12 Jan 2021 — It is now possible for members of the public to download the docume...</span></span></span> This episode demonstrates an important principle of public verification: document releases can be authenticated, catalogued, and analysed, but completeness is often harder to establish.
 
-The Black Vault(#endnote-1 "Endnote 1") therefore serves two functions simultaneously: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Black Vault</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The Black Vault(#endnote-1 "Endnote 1") therefore serves two functions simultaneously:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Black Vault</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 * It increases access to records that were previously difficult to obtain.
 * It documents the boundaries of that access, including uncertainties and unresolved questions.
@@ -333,7 +333,7 @@ That distinction is crucial. Access to documents is not the same as proof that a
 
 ## What Access Improves and What It Cannot Prove
 
-The Black Vault has undeniably improved transparency. It lowers the cost of verification by making records easier to find, search, download, and compare. Journalists, researchers, sceptics, believers, and casual readers can inspect the same underlying material rather than depending solely on intermediaries. Major [media]({{ 'media/' | relative_url }}) organisations have described the archive as a substantial civilian repository of government records, reflecting its role as a public reference point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Black Vault</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The Black Vault has undeniably improved transparency. It lowers the cost of verification by making records easier to find, search, download, and compare. Journalists, researchers, sceptics, believers, and casual readers can inspect the same underlying material rather than depending solely on intermediaries. Major [media]({{ 'media/' | relative_url }}) organisations have described the archive as a substantial civilian repository of government records, reflecting its role as a public reference point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Black Vault</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 However, access has limits.
 
@@ -369,7 +369,7 @@ This distinction is one reason the Black Vault occupies a unique position within
 
 The long-term significance of the Black Vault is less about any single document than about institutional memory.
 
-FOIA releases often appear briefly in news cycles before disappearing into obscurity. By collecting millions of pages in one place and maintaining searchable access over decades, the archive preserves a documentary record that remains available long after headlines fade. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+FOIA releases often appear briefly in news cycles before disappearing into obscurity. By collecting millions of pages in one place and maintaining searchable access over decades, the archive preserves a documentary record that remains available long after headlines fade.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 Within the broader ecosystem of civilian researchers and archive campaigns, the Black Vault demonstrates how persistence can turn scattered government records into a public research infrastructure. Its greatest contribution is not a revelation about UFOs themselves. It is the creation of a system through which claims about UFOs can be checked against original documents, making public verification possible on a scale that was previously difficult to achieve.
 
@@ -378,194 +378,194 @@ Within the broader ecosystem of civilian researchers and archive campaigns, the 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Black Vault Foia Arc 9 E6 F30. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Black Vault Foia Arc 9 E6 F30. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="black-vault-foia-arc-9-e6-f30-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ Within the broader ecosystem of civilian researchers and archive campaigns, the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ Within the broader ecosystem of civilian researchers and archive campaigns, the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ Within the broader ecosystem of civilian researchers and archive campaigns, the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ Within the broader ecosystem of civilian researchers and archive campaigns, the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ Within the broader ecosystem of civilian researchers and archive campaigns, the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,188 +771,188 @@ Within the broader ecosystem of civilian researchers and archive campaigns, the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The Black Vault  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Black_Vault</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Black_Vault" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Black_Vault</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: 10tv.com  
-   Link: <a href="https://www.10tv.com/article/news/thousands-government-files-ufos-released-online/530-8598fbf4-bc1e-4ae3-914c-f4c3725b2054" target="_blank" rel="noopener noreferrer nofollow">https://www.10tv.com/article/news/thousands-government-files-ufos-released-online/530-8598fbf4-bc1e-4ae3-914c-f4c3725b2054</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands Of Government Files On UFOs Released OnlineJan 19, 2015 — The Black Vault houses almost 130,000 of pages, which comprise of mor...</p></details>
+   Link:<a href="https://www.10tv.com/article/news/thousands-government-files-ufos-released-online/530-8598fbf4-bc1e-4ae3-914c-f4c3725b2054" target="_blank" rel="noopener noreferrer nofollow">https://www.10tv.com/article/news/thousands-government-files-ufos-released-online/530-8598fbf4-bc1e-4ae3-914c-f4c3725b2054</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands Of Government Files On UFOs Released OnlineJan 19, 2015 — The Black Vault houses almost 130,000 of pages, which comprise of mor...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: newsweek.com  
    Title: ufo cia documents black vault how download 1560830  
-   Link: <a href="https://www.newsweek.com/ufo-cia-documents-black-vault-how-download-1560830" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-cia-documents-black-vault-how-download-1560830</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Download the CIA&#x27;s &#x27;Entire&#x27; Collection of UFO...12 Jan 2021 — It is now possible for members of the public to download the docume...</p></details>
+   Link:<a href="https://www.newsweek.com/ufo-cia-documents-black-vault-how-download-1560830" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-cia-documents-black-vault-how-download-1560830</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Download the CIA&#x27;s &#x27;Entire&#x27; Collection of UFO...12 Jan 2021 — It is now possible for members of the public to download the docume...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology - WikipediaThe Black Vault - Wikipedia...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology - WikipediaThe Black Vault - Wikipedia...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recovered near Rosw...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recovered near Rosw...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/documentarchive/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>With more than 3 MILLION pages of documents to read...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With more than 3 MILLION pages of documents to read...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cjr.org  
    Title: Columbia Journalism Review Inside the Black Vault  
-   Link: <a href="https://www.cjr.org/special_report/black-vault-foia-john-greenewald.php/" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/special_report/black-vault-foia-john-greenewald.php/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewInside the Black VaultMay 6, 2020 — For twenty-four years, Greenewald, now thirty-nine, has been the proprietor...</p></details>
+   Link:<a href="https://www.cjr.org/special_report/black-vault-foia-john-greenewald.php/" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/special_report/black-vault-foia-john-greenewald.php/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Journalism ReviewInside the Black VaultMay 6, 2020 — For twenty-four years, Greenewald, now thirty-nine, has been the proprietor...</p></details>
    Published: May 6, 2020  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/documentarchive/author/administrator/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/author/administrator/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultJohn GreenewaldThe material stems from a targeted Freedom of Information Act (FOIA) request seeking insight into how UAP-r...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/author/administrator/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/author/administrator/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultJohn GreenewaldThe material stems from a targeted Freedom of Information Act (FOIA) request seeking insight into how UAP-r...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault20-F-1095 June 18, 2025 Mr. John Greenewald The...Jun 18, 2025 — This is a final response to your May 16, 2020 Freedom of...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault20-F-1095 June 18, 2025 Mr. John Greenewald The...Jun 18, 2025 — This is a final response to your May 16, 2020 Freedom of...</p></details>
    Published: June 18, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc7news.com  
-   Link: <a href="https://abc7news.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 San FranciscoUFO enthusiast releases 130K pages of Air Force docs...Jan 20, 2015 — Project Blue Book&#x27;s files were declassified afte...</p></details>
+   Link:<a href="https://abc7news.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 San FranciscoUFO enthusiast releases 130K pages of Air Force docs...Jan 20, 2015 — Project Blue Book&#x27;s files were declassified afte...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theblackvault.com  
    Title: ufos the central intelligence agency cia collection  
-   Link: <a href="https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault&#x27;s connection to the CIA in getting some of these UFO documents released goes back...Read more...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault&#x27;s connection to the CIA in getting some of these UFO documents released goes back...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/casefiles/author/administrator/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/author/administrator/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Greenewald - The Black Vault Case FilesThese visuals are intended to illustrate the incident, not to serve as exact photographic rec...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/author/administrator/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/author/administrator/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Greenewald - The Black Vault Case FilesThese visuals are intended to illustrate the incident, not to serve as exact photographic rec...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theblackvault.com  
    Title: UAP New Documents Highlight Drone Sightings Near Nuclear Facilities  
-   Link: <a href="https://www.theblackvault.com/documentarchive/tag/uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/tag/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPNew Documents Highlight Drone Sightings Near Nuclear Facilities. January 8, 2025. A Freedom of Information Act (FOIA) request filed by...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/tag/uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/tag/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAPNew Documents Highlight Drone Sightings Near Nuclear Facilities. January 8, 2025. A Freedom of Information Act (FOIA) request filed by...</p></details>
    Published: January 8, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/fbifiles/bluebook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/fbifiles/bluebook.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1experience gained from investigating. UFO reports since. 1948, the conclusions of Project. Blue Book are: l! n...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/fbifiles/bluebook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/fbifiles/bluebook.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1experience gained from investigating. UFO reports since. 1948, the conclusions of Project. Blue Book are: l! n...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/casefiles/category/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/category/ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - The Black Vault Case FilesBrowsing: UFOs · The Vault Files: 2006 O&#x27;Hare International Airport UFO Sighting · The Vault Files: The...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/category/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/category/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - The Black Vault Case FilesBrowsing: UFOs · The Vault Files: 2006 O&#x27;Hare International Airport UFO Sighting · The Vault Files: The...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theblackvault.com  
    Title: all ufo documents from  
-   Link: <a href="https://www.theblackvault.com/documentarchive/all-ufo-documents-from/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/all-ufo-documents-from/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>…Nov 13, 2015 — All UFO Documents From…... This section contains batches of documents that have been received from multiple agencies. Th...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/all-ufo-documents-from/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/all-ufo-documents-from/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>…Nov 13, 2015 — All UFO Documents From…... This section contains batches of documents that have been received from multiple agencies. Th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/casefiles/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: documents.theblackvault.com  
    Title: F16 0010 Greenewald  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comF16-0010_Greenewald.pdfIf you have any questions, please call the Requester Service Center at (703) 227-9326, or email F...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comF16-0010_Greenewald.pdfIf you have any questions, please call the Requester Service Center at (703) 227-9326, or email F...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/documentarchive/ufo-files-search-engine/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/ufo-files-search-engine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files Search EngineSearch The Black Vault&#x27;s enhanced archive of the Department of War&#x27;s UFO/UAP Files Release #1, including processed...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/ufo-files-search-engine/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/ufo-files-search-engine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files Search EngineSearch The Black Vault&#x27;s enhanced archive of the Department of War&#x27;s UFO/UAP Files Release #1, including processed...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: jeffcolibrary.bibliocommons.com  
-   Link: <a href="https://jeffcolibrary.bibliocommons.com/v2/record/S132C2437744" target="_blank" rel="noopener noreferrer nofollow">https://jeffcolibrary.bibliocommons.com/v2/record/S132C2437744</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Black Vault | Jefferson County Public LibraryInside The Black Vault: The Government&#x27;s UFO Secrets Revealed takes you on a journey wit...</p></details>
+   Link:<a href="https://jeffcolibrary.bibliocommons.com/v2/record/S132C2437744" target="_blank" rel="noopener noreferrer nofollow">https://jeffcolibrary.bibliocommons.com/v2/record/S132C2437744</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Black Vault | Jefferson County Public LibraryInside The Black Vault: The Government&#x27;s UFO Secrets Revealed takes you on a journey wit...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/UFO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part 01 · UFO Part 02 · UFO Part 03 · UFO Part 04 · UFO Part 05 · UFO Part 06 · UFO Part 07.Read more...</p></details>
+   Link:<a href="https://vault.fbi.gov/UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part 01 · UFO Part 02 · UFO Part 03 · UFO Part 04 · UFO Part 05 · UFO Part 06 · UFO Part 07.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: books.google.com  
    Title: This archive includes  
-   Link: <a href="https://books.google.com/books/about/Inside_The_Black_Vault.html?id=ctaFDwAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Inside_The_Black_Vault.html?id=ctaFDwAAQBAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault: The Government&#x27;s UFO Secrets...Apr 8, 2019 — Greenewald utilized the Freedom of Information Act (FOIA) to gain access t...</p></details>
+   Link:<a href="https://books.google.com/books/about/Inside_The_Black_Vault.html?id=ctaFDwAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Inside_The_Black_Vault.html?id=ctaFDwAAQBAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault: The Government&#x27;s UFO Secrets...Apr 8, 2019 — Greenewald utilized the Freedom of Information Act (FOIA) to gain access t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ohdbks.overdrive.com  
-   Link: <a href="https://ohdbks.overdrive.com/ohdbks-160/content/media/4555625" target="_blank" rel="noopener noreferrer nofollow">https://ohdbks.overdrive.com/ohdbks-160/content/media/4555625</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Black Vault - The Ohio Digital Library - OverDriveInside The Black Vault: The Government&#x27;s UFO Secrets Revealed takes you on a journe...</p></details>
+   Link:<a href="https://ohdbks.overdrive.com/ohdbks-160/content/media/4555625" target="_blank" rel="noopener noreferrer nofollow">https://ohdbks.overdrive.com/ohdbks-160/content/media/4555625</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Black Vault - The Ohio Digital Library - OverDriveInside The Black Vault: The Government&#x27;s UFO Secrets Revealed takes you on a journe...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: freebeacon.com  
-   Link: <a href="https://freebeacon.com/national-security/air-force-releases-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://freebeacon.com/national-security/air-force-releases-ufo-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Releases UFO FilesAir Force Releases UFO Files. The truth is out there. Aliens / AP. Stephen Gutowski. January 21, 2015. image/...</p></details>
+   Link:<a href="https://freebeacon.com/national-security/air-force-releases-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://freebeacon.com/national-security/air-force-releases-ufo-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Releases UFO FilesAir Force Releases UFO Files. The truth is out there. Aliens / AP. Stephen Gutowski. January 21, 2015. image/...</p></details>
    Published: January 21, 2015  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Inside-Black-Vault-Governments-Revealed/dp/1538118378" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Inside-Black-Vault-Governments-Revealed/dp/1538118378</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside The Black Vault: Greenewald Jr., JohnGreenewald utilized the Freedom of Information Act (FOIA) to gain access to more than two mil...</p></details>
+   Link:<a href="https://www.amazon.com/Inside-Black-Vault-Governments-Revealed/dp/1538118378" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Inside-Black-Vault-Governments-Revealed/dp/1538118378</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside The Black Vault: Greenewald Jr., JohnGreenewald utilized the Freedom of Information Act (FOIA) to gain access to more than two mil...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/realamericasvoice/posts/3145534722322902/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/realamericasvoice/posts/3145534722322902/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW UFO FILES MAY LINK TO PROJECT BLUE BOOK?...The Air Force stated that: No investigated UFO posed a direct threat No evidence proved a...</p></details>
+   Link:<a href="https://www.facebook.com/groups/realamericasvoice/posts/3145534722322902/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/realamericasvoice/posts/3145534722322902/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEW UFO FILES MAY LINK TO PROJECT BLUE BOOK?...The Air Force stated that: No investigated UFO posed a direct threat No evidence proved a...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/raymorcvs/posts/us-released-the-largest-declassified-ufouap-files-in-the-history-letmeexplainsom/988485526893630/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/raymorcvs/posts/us-released-the-largest-declassified-ufouap-files-in-the-history-letmeexplainsom/988485526893630/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US released the largest declassified UFO/UAP files in...An alien is a living being from another planet. UFOs might carry aliens, but mos...</p></details>
+   Link:<a href="https://www.facebook.com/raymorcvs/posts/us-released-the-largest-declassified-ufouap-files-in-the-history-letmeexplainsom/988485526893630/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/raymorcvs/posts/us-released-the-largest-declassified-ufouap-files-in-the-history-letmeexplainsom/988485526893630/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US released the largest declassified UFO/UAP files in...An alien is a living being from another planet. UFOs might carry aliens, but mos...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/techexplorerzone/posts/1487494396126374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/techexplorerzone/posts/1487494396126374/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files deleted from Black Vault archiveNavy releases UFO videos to the general public. John Greenewald ▻ Alien Contact Organization. 6...</p></details>
+   Link:<a href="https://www.facebook.com/groups/techexplorerzone/posts/1487494396126374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/techexplorerzone/posts/1487494396126374/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files deleted from Black Vault archiveNavy releases UFO videos to the general public. John Greenewald ▻ Alien Contact Organization. 6...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
    Title: nearly 3800000 files were removed from the black vault hours after president don  
-   Link: <a href="https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly 3800000 files were removed from The Black Vault...The Black Vault is a privately run archive created by researcher John Greenewal...</p></details>
+   Link:<a href="https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/nearly-3800000-files-were-removed-from-the-black-vault-hours-after-president-don/1363993529102021/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly 3800000 files were removed from The Black Vault...The Black Vault is a privately run archive created by researcher John Greenewal...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
    Title: the pentagon has launched a new public archive containing government records rel  
-   Link: <a href="https://www.facebook.com/thebaynet/posts/the-pentagon-has-launched-a-new-public-archive-containing-government-records-rel/1308069531516231/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebaynet/posts/the-pentagon-has-launched-a-new-public-archive-containing-government-records-rel/1308069531516231/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon has launched a new public archive...A 2020 Freedom of Information Act (FOIA) request filed by a UFO disclosure organization...</p></details>
+   Link:<a href="https://www.facebook.com/thebaynet/posts/the-pentagon-has-launched-a-new-public-archive-containing-government-records-rel/1308069531516231/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebaynet/posts/the-pentagon-has-launched-a-new-public-archive-containing-government-records-rel/1308069531516231/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon has launched a new public archive...A 2020 Freedom of Information Act (FOIA) request filed by a UFO disclosure organization...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A CIA report about a UAP sighting in the USSR. A first-hand...Read more...</p></details>
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A CIA report about a UAP sighting in the USSR. A first-hand...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
    Title: 130000 pages of 10000 project blue book case  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>130000 Pages of 10000+ Project Blue Book case files now...So, thanks to all of you for spreading the word, The Black Vault... Project B...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>130000 Pages of 10000+ Project Blue Book case files now...So, thanks to all of you for spreading the word, The Black Vault... Project B...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3.8 million files were backed up in secure locations and the site...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3.8 million files were backed up in secure locations and the site...</p></details>

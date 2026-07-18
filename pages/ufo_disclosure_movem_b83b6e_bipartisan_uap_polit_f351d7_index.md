@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-bipartisan/
 description: Focused pages that expand on Bipartisan.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7
 parent_title: Bipartisan
@@ -16,7 +16,7 @@ parent_permalink: /bipartisan/
 
 # Explore Topics in Bipartisan
 
-The following pages expand on the main **[Bipartisan]({{ '/bipartisan/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Bipartisan]({{ '/bipartisan/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Funding Comprom 3 B51 D6]({{ '/aaro-funding-comprom-3-b51-d6/' | relative_url }})
 - [Aviation Safety Brid 7 D0 Ae 8]({{ '/aviation-safety-brid-7-d0-ae-8/' | relative_url }})

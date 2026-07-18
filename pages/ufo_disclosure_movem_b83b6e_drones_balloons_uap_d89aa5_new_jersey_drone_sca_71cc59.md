@@ -268,11 +268,11 @@ One reason the New Jersey case became so controversial is that two facts were tr
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5_new_jersey_drone_sca_71cc59-Illustration-1-dark.svg" | relative_url }}" alt="New Jersey Drone Sca 71 Cc 59 illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5_new_jersey_drone_sca_71cc59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5_new_jersey_drone_sca_71cc59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The FBI and Department of Homeland Security issued a joint statement in December 2024 saying they had no evidence that the reported sightings posed a public-safety or national-security threat and no evidence of a foreign connection. At that stage investigators were still collecting reports, but they were already cautioning against assumptions about what witnesses had observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">Joint DHS/FBI Statement on Reports of Drones in New Jersey</span><span class="citation-popover-snippet">Joint DHS/FBI Statement on Reports of Drones in New Jersey...</span></span></span>
+The FBI and Department of Homeland Security issued a joint statement in December 2024 saying they had no evidence that the reported sightings posed a public-safety or national-security threat and no evidence of a foreign connection. At that stage investigators were still collecting reports, but they were already cautioning against assumptions about what witnesses had observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">Joint DHS/FBI Statement on Reports of Drones in New Jersey</span><span class="citation-popover-snippet">Joint DHS/FBI Statement on Reports of Drones in New Jersey...</span></span></span>
 
-As the investigation expanded, federal agencies reviewed thousands of reports, photographs, videos and sensor records. A subsequent joint statement from the Department of Defense, DHS, FAA and FBI reported that investigators had not identified anything anomalous. Their assessment was that reported objects included lawful commercial [drones]({{ 'drones/' | relative_url }}), hobbyist drones, law-enforcement drones and conventional aircraft operating legally in civilian airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</span></span></span>
+As the investigation expanded, federal agencies reviewed thousands of reports, photographs, videos and sensor records. A subsequent joint statement from the Department of Defense, DHS, FAA and FBI reported that investigators had not identified anything anomalous. Their assessment was that reported objects included lawful commercial [drones]({{ 'drones/' | relative_url }}), hobbyist drones, law-enforcement drones and conventional aircraft operating legally in civilian airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</span></span></span>
 
-White House officials went further, stating that many reported “drone” sightings were actually manned aircraft. Officials also noted that some reports appeared to involve stars or other ordinary celestial objects being misidentified under nighttime viewing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/12/new-jersey-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">He confirmed that there were no sightings in restricted airspaces and no evidence suggesting a national security threat or foreign involv...</span></span></span> Reuters That conclusion disappointed many observers because it did not provide a dramatic answer. Instead <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The FBI and DHS clarified that many of the reported sightings were manned aircraft operating lawfully, with no drones confirmed in restri...</span></span></span>, investigators argued that the available evidence pointed toward a mixture of ordinary [explanations]({{ 'explanations/' | relative_url }}) rather than a single mysterious cause. The resulting public reaction highlighted a recurring problem in UAP debates: a large number of reports does not automatically translate into strong evidence.
+White House officials went further, stating that many reported “drone” sightings were actually manned aircraft. Officials also noted that some reports appeared to involve stars or other ordinary celestial objects being misidentified under nighttime viewing conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/12/new-jersey-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">He confirmed that there were no sightings in restricted airspaces and no evidence suggesting a national security threat or foreign involv...</span></span></span> Reuters That conclusion disappointed many observers because it did not provide a dramatic answer. Instead<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The FBI and DHS clarified that many of the reported sightings were manned aircraft operating lawfully, with no drones confirmed in restri...</span></span></span>, investigators argued that the available evidence pointed toward a mixture of ordinary [explanations]({{ 'explanations/' | relative_url }}) rather than a single mysterious cause. The resulting public reaction highlighted a recurring problem in UAP debates: a large number of reports does not automatically translate into strong evidence.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zkIV9e2ebDo" title="White House reveals mystery behind drone sightings over New Jersey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zkIV9e2ebDo" target="_blank" rel="noopener noreferrer">White House reveals mystery behind drone sightings over New Jersey</a></p><p class="youtube-embed-meta">Channel: FOX 5 New York &middot; Views: 104.5K &middot; Uploaded: January 2025 &middot; Length: 1 minute 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zkIV9e2ebDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zkIV9e2ebDo">Open on YouTube</a></p></div></div></div>
@@ -281,9 +281,9 @@ White House officials went further, stating that many reported “drone” sight
 
 The New Jersey scare was notable not only for what was reportedly seen but for how rapidly the story expanded.
 
-Early reports focused on apparent drone activity over parts of northern New Jersey, including areas near military facilities and critical infrastructure. Local officials demanded answers, media attention intensified and social-media discussions spread the story far beyond the original locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/12/new-jersey-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">He confirmed that there were no sightings in restricted airspaces and no evidence suggesting a national security threat or foreign involv...</span></span></span>
+Early reports focused on apparent drone activity over parts of northern New Jersey, including areas near military facilities and critical infrastructure. Local officials demanded answers, media attention intensified and social-media discussions spread the story far beyond the original locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/dec/12/new-jersey-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">He confirmed that there were no sightings in restricted airspaces and no evidence suggesting a national security threat or foreign involv...</span></span></span>
 
-Once public attention became focused on the skies, the number of reported sightings surged. Investigators eventually reviewed thousands of tips. Federal officials indicated that many reports were duplicates, while others appeared to describe aircraft that were operating legally. The sheer volume of submissions made it difficult to separate potentially significant incidents from routine aerial traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Drones over New Jersey are all &#x27;lawful&#x27; aircraft</span><span class="citation-popover-snippet">The sightings, reported since mid-November across various counties, have led to a public frenzy, prompting federal authorities to establi...</span></span></span>
+Once public attention became focused on the skies, the number of reported sightings surged. Investigators eventually reviewed thousands of tips. Federal officials indicated that many reports were duplicates, while others appeared to describe aircraft that were operating legally. The sheer volume of submissions made it difficult to separate potentially significant incidents from routine aerial traffic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Drones over New Jersey are all &#x27;lawful&#x27; aircraft</span><span class="citation-popover-snippet">The sightings, reported since mid-November across various counties, have led to a public frenzy, prompting federal authorities to establi...</span></span></span>
 
 Several mechanisms likely amplified the reporting cycle:
 
@@ -293,7 +293,7 @@ Several mechanisms likely amplified the reporting cycle:
 * **Expectation effects.** After news coverage highlighted “mystery drones”, people were more likely to scrutinise ordinary lights in the sky.
 * **Night-time observation.** Most reports occurred after dark, when judging distance, size and speed becomes difficult.
 * **Multiple observers.** A single aircraft could generate reports from many different locations, creating the appearance of numerous separate incidents.
-* **Online reinforcement.** Videos, rumours and speculative explanations circulated faster than verified information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politico.com">[Politico]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politico.com</span><span class="citation-popover-title">Officials downplay NJ drone concerns as online suspicion builds</span><span class="citation-popover-snippet">Despite social media speculation and calls for action, including suggestions from prominent figures to shoot down the drones, authorities...</span></span></span>
+* **Online reinforcement.** Videos, rumours and speculative explanations circulated faster than verified information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politico.com">[Politico]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politico.com</span><span class="citation-popover-title">Officials downplay NJ drone concerns as online suspicion builds</span><span class="citation-popover-snippet">Despite social media speculation and calls for action, including suggestions from prominent figures to shoot down the drones, authorities...</span></span></span>
 
 </div>
 
@@ -306,9 +306,9 @@ The result was a feedback loop. More reports produced more headlines, more headl
 
 A striking feature of the episode was the contrast between local alarm and federal assessments.
 
-Some state and local officials described briefings that suggested unusual drone activity deserved serious attention. Public discussions included claims about large drones, coordinated movements and operations near sensitive locations. These accounts attracted substantial media coverage and encouraged theories ranging from foreign surveillance to secret government programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
+Some state and local officials described briefings that suggested unusual drone activity deserved serious attention. Public discussions included claims about large drones, coordinated movements and operations near sensitive locations. These accounts attracted substantial media coverage and encouraged theories ranging from foreign surveillance to secret government programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
 
-Federal agencies, however, repeatedly emphasised that they lacked evidence supporting those more dramatic interpretations. Officials argued that the available imagery and technical data did not establish the existence of a coordinated hostile operation. This difference between reported observations and verified evidence became one of the central controversies of the entire affair. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</span></span></span>
+Federal agencies, however, repeatedly emphasised that they lacked evidence supporting those more dramatic interpretations. Officials argued that the available imagery and technical data did not establish the existence of a coordinated hostile operation. This difference between reported observations and verified evidence became one of the central controversies of the entire affair. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5_new_jersey_drone_sca_71cc59-Illustration-2-dark.svg" | relative_url }}" alt="New Jersey Drone Sca 71 Cc 59 illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5_new_jersey_drone_sca_71cc59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5_new_jersey_drone_sca_71cc59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,7 +318,7 @@ The New Jersey case generated enormous attention but surprisingly little publicl
 
 Most publicly circulated material consisted of distant lights, short videos, eyewitness accounts and descriptions of aircraft seen at night. Such evidence can demonstrate that people observed something, but it often cannot reliably determine size, distance, altitude or identity. A bright aircraft approaching an observer, for example, can appear to hover or move unpredictably because of perspective effects.
 
-Another problem was the lack of corroborating data. Claims about large formations, unusual manoeuvres or coordinated activity rarely came with publicly released radar tracks, high-resolution imagery or verified sensor records that independent analysts could examine. Without those forms of evidence, many reports remained difficult to evaluate. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</span></span></span>
+Another problem was the lack of corroborating data. Claims about large formations, unusual manoeuvres or coordinated activity rarely came with publicly released radar tracks, high-resolution imagery or verified sensor records that independent analysts could examine. Without those forms of evidence, many reports remained difficult to evaluate. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</span></span></span>
 
 This distinction is crucial in disclosure debates. Large numbers of witnesses can indicate that an event deserves investigation, but they do not by themselves establish what was seen. The New Jersey episode produced abundant testimony but comparatively little publicly accessible evidence that could discriminate between ordinary drones, conventional aircraft and more exotic explanations.
 
@@ -331,204 +331,204 @@ For investigators interested in unidentified aerial phenomena, the New Jersey sc
 
 First, **report volume is not evidence quality**. Thousands of sightings may reflect a genuine social event without proving a single extraordinary object exists. The strength of a case depends on the quality of the underlying data, not the number of reports.
 
-Second, **public uncertainty creates space for competing narratives**. When authorities cannot immediately explain sightings, speculation tends to fill the gap. In New Jersey, theories involving foreign adversaries, secret programmes and other extraordinary possibilities spread long before investigators reached firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politico.com">[Politico]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politico.com</span><span class="citation-popover-title">Officials downplay NJ drone concerns as online suspicion builds</span><span class="citation-popover-snippet">Despite social media speculation and calls for action, including suggestions from prominent figures to shoot down the drones, authorities...</span></span></span>
+Second, **public uncertainty creates space for competing narratives**. When authorities cannot immediately explain sightings, speculation tends to fill the gap. In New Jersey, theories involving foreign adversaries, secret programmes and other extraordinary possibilities spread long before investigators reached firm conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politico.com">[Politico]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politico.com</span><span class="citation-popover-title">Officials downplay NJ drone concerns as online suspicion builds</span><span class="citation-popover-snippet">Despite social media speculation and calls for action, including suggestions from prominent figures to shoot down the drones, authorities...</span></span></span>
 
-Third, **communication matters as much as investigation**. Federal agencies repeatedly said they had found no evidence of a threat, but many residents interpreted the absence of a clear explanation as evidence that information was being withheld. The difference between “we do not know everything” and “something extraordinary is happening” proved difficult to communicate publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">Joint DHS/FBI Statement on Reports of Drones in New Jersey</span><span class="citation-popover-snippet">Joint DHS/FBI Statement on Reports of Drones in New Jersey...</span></span></span>
+Third, **communication matters as much as investigation**. Federal agencies repeatedly said they had found no evidence of a threat, but many residents interpreted the absence of a clear explanation as evidence that information was being withheld. The difference between “we do not know everything” and “something extraordinary is happening” proved difficult to communicate publicly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">Joint DHS/FBI Statement on Reports of Drones in New Jersey</span><span class="citation-popover-snippet">Joint DHS/FBI Statement on Reports of Drones in New Jersey...</span></span></span>
 
-Finally, the New Jersey case illustrates a broader challenge within the [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}). Advocates often argue for better transparency, better [sensor data]({{ 'sensor-data/' | relative_url }}) and more systematic investigation of unusual aerial reports. The drone scare showed why those demands can be reasonable. At the same time, it demonstrated why weak evidence should not automatically be treated as support for extraordinary conclusions. By the end of the official investigations, agencies reported no anomalous activity and no confirmed hostile operation, despite months of public concern and intense speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">Joint DHS/FBI Statement on Reports of Drones in New Jersey</span><span class="citation-popover-snippet">Joint DHS/FBI Statement on Reports of Drones in New Jersey...</span></span></span>
+Finally, the New Jersey case illustrates a broader challenge within the [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}). Advocates often argue for better transparency, better [sensor data]({{ 'sensor-data/' | relative_url }}) and more systematic investigation of unusual aerial reports. The drone scare showed why those demands can be reasonable. At the same time, it demonstrated why weak evidence should not automatically be treated as support for extraordinary conclusions. By the end of the official investigations, agencies reported no anomalous activity and no confirmed hostile operation, despite months of public concern and intense speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">Joint DHS/FBI Statement on Reports of Drones in New Jersey</span><span class="citation-popover-snippet">Joint DHS/FBI Statement on Reports of Drones in New Jersey...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5_new_jersey_drone_sca_71cc59-Illustration-3-dark.svg" | relative_url }}" alt="New Jersey Drone Sca 71 Cc 59 illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5_new_jersey_drone_sca_71cc59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_drones_balloons_uap_d89aa5_new_jersey_drone_sca_71cc59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to New Jersey Drone Sca 71 Cc 59. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to New Jersey Drone Sca 71 Cc 59. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="new-jersey-drone-sca-71-cc-59-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ Finally, the New Jersey case illustrates a broader challenge within the [UFO dis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ Finally, the New Jersey case illustrates a broader challenge within the [UFO dis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ Finally, the New Jersey case illustrates a broader challenge within the [UFO dis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ Finally, the New Jersey case illustrates a broader challenge within the [UFO dis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ Finally, the New Jersey case illustrates a broader challenge within the [UFO dis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,152 +734,152 @@ Finally, the New Jersey case illustrates a broader challenge within the [UFO dis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fbi.gov  
    Title: Joint DHS/FBI Statement on Reports of Drones in New Jersey  
-   Link: <a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint DHS/FBI Statement on Reports of Drones in New Jersey...</p></details>
+   Link:<a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint DHS/FBI Statement on Reports of Drones in New Jersey...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The FBI and DHS clarified that many of the reported sightings were manned aircraft operating lawfully, with no drones confirmed in restri...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FBI and DHS clarified that many of the reported sightings were manned aircraft operating lawfully, with no drones confirmed in restri...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
    Title: dhs fbi faa dod joint statement ongoing response reported drone sightings  
-   Link: <a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...Dec 17, 2024 — We have not identified anything anomalous...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 2024 United States drone sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: people.com  
-   Link: <a href="https://people.com/nj-naval-station-reports-drones-entered-airspace-as-officials-say-theres-no-evidence-they-pose-threat-8761188" target="_blank" rel="noopener noreferrer nofollow">https://people.com/nj-naval-station-reports-drones-entered-airspace-as-officials-say-theres-no-evidence-they-pose-threat-8761188</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Station Reports Drones Entered Airspace as Officials Say There&#x27;s &#x27;No Evidence&#x27; They Pose a ThreatA naval station in Colts Neck, New...</p></details>
+   Link:<a href="https://people.com/nj-naval-station-reports-drones-entered-airspace-as-officials-say-theres-no-evidence-they-pose-threat-8761188" target="_blank" rel="noopener noreferrer nofollow">https://people.com/nj-naval-station-reports-drones-entered-airspace-as-officials-say-theres-no-evidence-they-pose-threat-8761188</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Station Reports Drones Entered Airspace as Officials Say There&#x27;s &#x27;No Evidence&#x27; They Pose a ThreatA naval station in Colts Neck, New...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: politico.com  
    Title: Officials downplay NJ drone concerns as online suspicion builds  
-   Link: <a href="https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395" target="_blank" rel="noopener noreferrer nofollow">https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite social media speculation and calls for action, including suggestions from prominent figures to shoot down the drones, authorities...</p></details>
+   Link:<a href="https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395" target="_blank" rel="noopener noreferrer nofollow">https://www.politico.com/news/2024/12/14/officials-downplay-nj-drone-concerns-as-online-suspicion-builds-00194395</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite social media speculation and calls for action, including suggestions from prominent figures to shoot down the drones, authorities...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/White" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/White</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WhiteWhite is the lightest color [2] and is achromatic (having no chroma). It is the color of objects such as snow, chalk, and milk, a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/White" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/White</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WhiteWhite is the lightest color [2] and is achromatic (having no chroma). It is the color of objects such as snow, chalk, and milk, a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dhs.gov  
    Title: joint statement No information is available for this page  
-   Link: <a href="https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey</a>  
+   Link:<a href="https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/archive/news/2024/12/12/joint-dhsfbi-statement-reports-drones-new-jersey</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: what we know about us drone sightings causing an online frenzy 2024 12 16  
-   Link: <a href="https://www.reuters.com/world/us/what-we-know-about-us-drone-sightings-causing-an-online-frenzy-2024-12-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/what-we-know-about-us-drone-sightings-causing-an-online-frenzy-2024-12-16/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>officials have said that most of the sightings involve manned aircraft and that there is no evidence of any threat to public safety or...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/what-we-know-about-us-drone-sightings-causing-an-online-frenzy-2024-12-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/what-we-know-about-us-drone-sightings-causing-an-online-frenzy-2024-12-16/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>officials have said that most of the sightings involve manned aircraft and that there is no evidence of any threat to public safety or...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reason.com  
    Title: what the feds knew about the new jersey drone scare  
-   Link: <a href="https://reason.com/2025/05/09/what-the-feds-knew-about-the-new-jersey-drone-scare/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2025/05/09/what-the-feds-knew-about-the-new-jersey-drone-scare/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey drone scare: Newly released documents...9 May 2025 — Throughout December 2024, local citizens, police departments, and even a...</p></details>
+   Link:<a href="https://reason.com/2025/05/09/what-the-feds-knew-about-the-new-jersey-drone-scare/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2025/05/09/what-the-feds-knew-about-the-new-jersey-drone-scare/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey drone scare: Newly released documents...9 May 2025 — Throughout December 2024, local citizens, police departments, and even a...</p></details>
    Published: May 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: upi.com  
    Title: Officials: No evidence drone sightings pose U.S  
-   Link: <a href="https://www.upi.com/Top_News/US/2024/12/13/New-Jersey-drone-sightings-update/7801734072129/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Top_News/US/2024/12/13/New-Jersey-drone-sightings-update/7801734072129/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>threat - UPIDec 13, 2024 — There is no evidence to show that recent drone sightings over New Jersey pose a national security or public sa...</p></details>
+   Link:<a href="https://www.upi.com/Top_News/US/2024/12/13/New-Jersey-drone-sightings-update/7801734072129/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Top_News/US/2024/12/13/New-Jersey-drone-sightings-update/7801734072129/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>threat - UPIDec 13, 2024 — There is no evidence to show that recent drone sightings over New Jersey pose a national security or public sa...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2024/dec/12/new-jersey-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/12/new-jersey-drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He confirmed that there were no sightings in restricted airspaces and no evidence suggesting a national security threat or foreign involv...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/dec/12/new-jersey-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/12/new-jersey-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He confirmed that there were no sightings in restricted airspaces and no evidence suggesting a national security threat or foreign involv...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nypost.com  
    Title: New York Post Drones over New Jersey are all 'lawful' aircraft  
-   Link: <a href="https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The sightings, reported since mid-November across various counties, have led to a public frenzy, prompting federal authorities to establi...</p></details>
+   Link:<a href="https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/16/us-news/drones-over-new-jersey-are-all-lawful-aircraft-or-stars-white-house-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The sightings, reported since mid-November across various counties, have led to a public frenzy, prompting federal authorities to establi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: new jersey drone sightings state of emergency  
-   Link: <a href="https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNew Jersey drone cluster sightings prompt call for &#x27;state of...December 12, 2024 — 11 Dec 2024 — Lawmaker called for a &#x27;limi...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNew Jersey drone cluster sightings prompt call for &#x27;state of...December 12, 2024 — 11 Dec 2024 — Lawmaker called for a &#x27;limi...</p></details>
    Published: December 12, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/new-jersey-drone-mystery/story?id=116719847" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/new-jersey-drone-mystery/story?id=116719847</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey drone mystery: What to know and what can be...13 Dec 2024 — &quot;At this time, according to the FBI, there are no known specific...</p></details>
+   Link:<a href="https://abcnews.com/US/new-jersey-drone-mystery/story?id=116719847" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/new-jersey-drone-mystery/story?id=116719847</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey drone mystery: What to know and what can be...13 Dec 2024 — &quot;At this time, according to the FBI, there are no known specific...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone updates: No national security risk found after...17 Dec 2024 — The FBI has received more than 5,000 tips in the last few weeks abo...</p></details>
+   Link:<a href="https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/east-coast-drones-latest-fbi-dod-statement/story?id=116855247</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone updates: No national security risk found after...17 Dec 2024 — The FBI has received more than 5,000 tips in the last few weeks abo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: karoline leavitt new jersey drones  
-   Link: <a href="https://www.theguardian.com/us-news/2025/jan/28/karoline-leavitt-new-jersey-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2025/jan/28/karoline-leavitt-new-jersey-drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White House says New Jersey drones &#x27;authorized to be...28 Jan 2025 — &#x27;This was not the enemy,&#x27; says press secretary on flurry of drones...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2025/jan/28/karoline-leavitt-new-jersey-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2025/jan/28/karoline-leavitt-new-jersey-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White House says New Jersey drones &#x27;authorized to be...28 Jan 2025 — &#x27;This was not the enemy,&#x27; says press secretary on flurry of drones...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abc30.com  
-   Link: <a href="https://abc30.com/post/new-jersey-drones-flying-pentagon-says-is-not-any-truth-iranian-mothership-claim-amid-mysterious-nj-drone-sightings/15646989/" target="_blank" rel="noopener noreferrer nofollow">https://abc30.com/post/new-jersey-drones-flying-pentagon-says-is-not-any-truth-iranian-mothership-claim-amid-mysterious-nj-drone-sightings/15646989/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones over US: Pentagon shoots down Iran &#x27;mothership...Dec 12, 2024 — The Pentagon says there is &quot;not any truth&quot; to an Iranian &quot;mothers...</p></details>
+   Link:<a href="https://abc30.com/post/new-jersey-drones-flying-pentagon-says-is-not-any-truth-iranian-mothership-claim-amid-mysterious-nj-drone-sightings/15646989/" target="_blank" rel="noopener noreferrer nofollow">https://abc30.com/post/new-jersey-drones-flying-pentagon-says-is-not-any-truth-iranian-mothership-claim-amid-mysterious-nj-drone-sightings/15646989/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones over US: Pentagon shoots down Iran &#x27;mothership...Dec 12, 2024 — The Pentagon says there is &quot;not any truth&quot; to an Iranian &quot;mothers...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/12/12/us-news/white-house-security-advisor-dismisses-nj-drone-sightings-heres-what-he-claims-they-really-are/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/12/us-news/white-house-security-advisor-dismisses-nj-drone-sightings-heres-what-he-claims-they-really-are/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White House security official dismisses NJ drone sightings12 Dec 2024 — The Biden administration suggested that there may be no drones ov...</p></details>
+   Link:<a href="https://nypost.com/2024/12/12/us-news/white-house-security-advisor-dismisses-nj-drone-sightings-heres-what-he-claims-they-really-are/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/12/us-news/white-house-security-advisor-dismisses-nj-drone-sightings-heres-what-he-claims-they-really-are/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White House security official dismisses NJ drone sightings12 Dec 2024 — The Biden administration suggested that there may be no drones ov...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abc11.com  
-   Link: <a href="https://abc11.com/post/drone-updates-national-security-risk-found-after-5k-tips-fbi-other-federal-agencies-say/15666671/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/drone-updates-national-security-risk-found-after-5k-tips-fbi-other-federal-agencies-say/15666671/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone updates: No national security risk found after 5K tips...17 Dec 2024 — The FBI has received more than 5000 tips in the last few w...</p></details>
+   Link:<a href="https://abc11.com/post/drone-updates-national-security-risk-found-after-5k-tips-fbi-other-federal-agencies-say/15666671/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/drone-updates-national-security-risk-found-after-5k-tips-fbi-other-federal-agencies-say/15666671/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone updates: No national security risk found after 5K tips...17 Dec 2024 — The FBI has received more than 5000 tips in the last few w...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: abc7ny.com  
-   Link: <a href="https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White House says NJ drones &#x27;authorized&#x27; by the FAA28 Jan 2025 — White House press secretary Karoline Leavitt said the mystery drones flow...</p></details>
+   Link:<a href="https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/white-house-says-many-drones-spotted-new-jersey-east-coast-were-flown-faa-was-not-enemy/15844019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White House says NJ drones &#x27;authorized&#x27; by the FAA28 Jan 2025 — White House press secretary Karoline Leavitt said the mystery drones flow...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2025/01/28/us-news/white-house-says-nj-drones-were-not-the-enemy-heres-what-they-were-actually-doing/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/01/28/us-news/white-house-says-nj-drones-were-not-the-enemy-heres-what-they-were-actually-doing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White House reveals Trump explanation for NJ dronesJan 28, 2025 — White House press secretary Karoline Leavitt said Tuesday that the dron...</p></details>
+   Link:<a href="https://nypost.com/2025/01/28/us-news/white-house-says-nj-drones-were-not-the-enemy-heres-what-they-were-actually-doing/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/01/28/us-news/white-house-says-nj-drones-were-not-the-enemy-heres-what-they-were-actually-doing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White House reveals Trump explanation for NJ dronesJan 28, 2025 — White House press secretary Karoline Leavitt said Tuesday that the dron...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pbs.org  
    Title: news wrap white house says mysterious drones over new jersey not a safety threat  
-   Link: <a href="https://www.pbs.org/newshour/show/news-wrap-white-house-says-mysterious-drones-over-new-jersey-not-a-safety-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/show/news-wrap-white-house-says-mysterious-drones-over-new-jersey-not-a-safety-threat</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News Wrap: White House says mysterious drones over...12 Dec 2024 — The White House says mysterious drones reported over New Jersey and o...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/show/news-wrap-white-house-says-mysterious-drones-over-new-jersey-not-a-safety-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/show/news-wrap-white-house-says-mysterious-drones-over-new-jersey-not-a-safety-threat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News Wrap: White House says mysterious drones over...12 Dec 2024 — The White House says mysterious drones reported over New Jersey and o...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: the white house on tuesday clarified that many of the drones sighted over new je  
-   Link: <a href="https://www.facebook.com/NewportBuzz/posts/the-white-house-on-tuesday-clarified-that-many-of-the-drones-sighted-over-new-je/1160425312750324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewportBuzz/posts/the-white-house-on-tuesday-clarified-that-many-of-the-drones-sighted-over-new-je/1160425312750324/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Newport Buzz&#x27;s post28 Jan 2025 — The White House on Tuesday clarified that many of the drones sighted over New Jersey and other parts of...</p></details>
+   Link:<a href="https://www.facebook.com/NewportBuzz/posts/the-white-house-on-tuesday-clarified-that-many-of-the-drones-sighted-over-new-je/1160425312750324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewportBuzz/posts/the-white-house-on-tuesday-clarified-that-many-of-the-drones-sighted-over-new-je/1160425312750324/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Newport Buzz&#x27;s post28 Jan 2025 — The White House on Tuesday clarified that many of the drones sighted over New Jersey and other parts of...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aljazeera.com  
    Title: no security threat from reported drone sightings us federal agencies state  
-   Link: <a href="https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No security threat from reported drone sightings, US...17 Dec 2024 — The United States government says there is no threat to national se...</p></details>
+   Link:<a href="https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No security threat from reported drone sightings, US...17 Dec 2024 — The United States government says there is no threat to national se...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nynq2_aWxv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nynq2_aWxv8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the New Jersey Drones: What We Know So FarMysterious drone sightings over New Jersey and the United States have sparked wi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nynq2_aWxv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nynq2_aWxv8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the New Jersey Drones: What We Know So FarMysterious drone sightings over New Jersey and the United States have sparked wi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gmpyCbk_6bY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gmpyCbk_6bY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=gmpyCbk_6bY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gmpyCbk_6bY</a>  

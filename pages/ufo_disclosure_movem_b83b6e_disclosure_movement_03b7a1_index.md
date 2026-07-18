@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-disclosure/
 description: Focused pages that expand on Factions.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_disclosure_movement_03b7a1
 parent_title: Factions
@@ -16,7 +16,7 @@ parent_permalink: /factions/
 
 # Explore Topics in Factions
 
-The following pages expand on the main **[Factions]({{ '/factions/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Factions]({{ '/factions/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Evidence Standa 5699 C6]({{ '/aaro-evidence-standa-5699-c6/' | relative_url }})
 - [Disclosure Meanings 00 E894]({{ '/disclosure-meanings-00-e894/' | relative_url }})

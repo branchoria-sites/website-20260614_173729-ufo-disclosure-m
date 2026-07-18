@@ -264,19 +264,19 @@ image: /assets/images/ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb_starli
 
 ## Introduction
 
-Within the [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}), Ryan Graves’s [pilot-safety]({{ 'pilot-safety/' | relative_url }}) argument depends on a difficult balance: encouraging pilots to report unusual observations while also subjecting those reports to rigorous verification. A notable Starlink case illustrates why both steps are necessary. In 2024, researchers reconstructed a commercial aviation sighting that had generated multiple pilot reports, photographs, and video evidence, and concluded that the observed phenomenon was consistent with a newly launched train of SpaceX Starlink satellites seen under unusual lighting conditions. The episode did not undermine the value of pilot testimony. Instead, it demonstrated a central principle of aviation safety: credible witnesses can accurately report what they saw while still being mistaken about what caused it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Within the [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}), Ryan Graves’s [pilot-safety]({{ 'pilot-safety/' | relative_url }}) argument depends on a difficult balance: encouraging pilots to report unusual observations while also subjecting those reports to rigorous verification. A notable Starlink case illustrates why both steps are necessary. In 2024, researchers reconstructed a commercial aviation sighting that had generated multiple pilot reports, photographs, and video evidence, and concluded that the observed phenomenon was consistent with a newly launched train of SpaceX Starlink satellites seen under unusual lighting conditions. The episode did not undermine the value of pilot testimony. Instead, it demonstrated a central principle of aviation safety: credible witnesses can accurately report what they saw while still being mistaken about what caused it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb_starlink_pilot_verif_aecaea-Illustration-1-dark.svg" | relative_url }}" alt="Starlink Pilot Verif illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb_starlink_pilot_verif_aecaea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb_starlink_pilot_verif_aecaea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For discussions of unidentified anomalous phenomena (UAP), this is an important test case. It shows how serious investigators can respect pilot observations, preserve reporting channels, and then compare those reports against ordinary but often unfamiliar sky activity before concluding that something remains unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+For discussions of unidentified anomalous phenomena (UAP), this is an important test case. It shows how serious investigators can respect pilot observations, preserve reporting channels, and then compare those reports against ordinary but often unfamiliar sky activity before concluding that something remains unexplained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 ## How satellite trains can mimic anomalous motion
 
-The Starlink constellation has introduced visual effects that many pilots and members of the public had never previously encountered. Shortly after launch, groups of satellites can travel in closely spaced formations known as satellite trains. Depending on orbital geometry, observer position, and the angle of sunlight, these satellites can brighten dramatically, fade, reappear, or seem to move in unusual patterns. Sky & Telescope <span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">a lot of people are mistaking elon musks starlink satellites for uaps</span><span class="citation-popover-snippet">A lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — SpaceX&#x27;s Starlink Internet satellites are responsible for...</span></span></span>
+The Starlink constellation has introduced visual effects that many pilots and members of the public had never previously encountered. Shortly after launch, groups of satellites can travel in closely spaced formations known as satellite trains. Depending on orbital geometry, observer position, and the angle of sunlight, these satellites can brighten dramatically, fade, reappear, or seem to move in unusual patterns. Sky & Telescope<span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">a lot of people are mistaking elon musks starlink satellites for uaps</span><span class="citation-popover-snippet">A lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — SpaceX&#x27;s Starlink Internet satellites are responsible for...</span></span></span>
 
-A particularly influential example involved an August 2022 sighting over the Pacific Ocean. Five pilots aboard two commercial flights reported an unusual luminous phenomenon. The event included photographs and video, making it more substantial than a simple verbal account. [Researchers]({{ 'researchers/' | relative_url }}) later combined flight-tracking information, cockpit viewing geometry, satellite orbital data, and launch information to reconstruct what the crews would have seen. Their analysis found that a Starlink launch on the same day produced a satellite train whose appearance matched the reported observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+A particularly influential example involved an August 2022 sighting over the Pacific Ocean. Five pilots aboard two commercial flights reported an unusual luminous phenomenon. The event included photographs and video, making it more substantial than a simple verbal account. [Researchers]({{ 'researchers/' | relative_url }}) later combined flight-tracking information, cockpit viewing geometry, satellite orbital data, and launch information to reconstruct what the crews would have seen. Their analysis found that a Starlink launch on the same day produced a satellite train whose appearance matched the reported observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
-What makes these cases persuasive to witnesses is that the satellites do not always resemble familiar points of light. Researchers studying Starlink flaring have shown that sunlight can reflect from satellite surfaces in ways that produce unexpectedly bright flashes. Under some conditions, the brightness can change rapidly enough to create the impression of manoeuvring objects or lights appearing and disappearing without obvious explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span> ResearchGate Commercial pilots have also reported so-called <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/380821064_Extreme_Flaring_of_Starlink_Satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">380821064 Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">PDF) Extreme Flaring of Starlink Satellites20 May 2024 — These findings are applied to the case of an extreme flare that was reported as...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>“racetrack” lights that seemed to follow repeating patterns across the sky. Investigators examining several of these reports have argued that changing brightness among multiple satellites can create the illusion of motion patterns that are not actually occurring. The observer is seeing different satellites flare at different times rather than a single object executing extraordinary manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">the great starlink racetrack ufo flap of 2022</span><span class="citation-popover-snippet">Skeptical InquirerThe Great Starlink Racetrack UFO Flap of 2022A new flap began. Commercial airline pilots flying at night started seeing...</span></span></span>
+What makes these cases persuasive to witnesses is that the satellites do not always resemble familiar points of light. Researchers studying Starlink flaring have shown that sunlight can reflect from satellite surfaces in ways that produce unexpectedly bright flashes. Under some conditions, the brightness can change rapidly enough to create the impression of manoeuvring objects or lights appearing and disappearing without obvious explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span> ResearchGate Commercial pilots have also reported so-called<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/380821064_Extreme_Flaring_of_Starlink_Satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">380821064 Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">PDF) Extreme Flaring of Starlink Satellites20 May 2024 — These findings are applied to the case of an extreme flare that was reported as...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>“racetrack” lights that seemed to follow repeating patterns across the sky. Investigators examining several of these reports have argued that changing brightness among multiple satellites can create the illusion of motion patterns that are not actually occurring. The observer is seeing different satellites flare at different times rather than a single object executing extraordinary manoeuvres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">the great starlink racetrack ufo flap of 2022</span><span class="citation-popover-snippet">Skeptical InquirerThe Great Starlink Racetrack UFO Flap of 2022A new flap began. Commercial airline pilots flying at night started seeing...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qjWMSIpCfUk" title="Are Navy pilots destroying UAP evidence to avoid backlash? | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qjWMSIpCfUk" target="_blank" rel="noopener noreferrer">Are Navy pilots destroying UAP evidence to avoid backlash? | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 25.2K &middot; Uploaded: July 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qjWMSIpCfUk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qjWMSIpCfUk">Open on YouTube</a></p></div></div></div>
@@ -285,7 +285,7 @@ What makes these cases persuasive to witnesses is that the satellites do not alw
 
 One reason pilot testimony carries weight in UAP discussions is that pilots are trained observers operating in demanding environments. When several pilots independently report the same event, many people assume that misidentification becomes unlikely.
 
-The Starlink case demonstrates why that assumption can be misleading. The Pacific sighting involved multiple experienced pilots on separate aircraft. The reports were broadly consistent. Yet the subsequent reconstruction suggested that all of them were observing the same ordinary astronomical phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+The Starlink case demonstrates why that assumption can be misleading. The Pacific sighting involved multiple experienced pilots on separate aircraft. The reports were broadly consistent. Yet the subsequent reconstruction suggested that all of them were observing the same ordinary astronomical phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 This distinction matters because witness agreement and object identification are different questions.
 
@@ -295,11 +295,11 @@ This distinction matters because witness agreement and object identification are
 * Multiple witnesses can strongly support the claim that something unusual was genuinely observed.
 * Multiple witnesses do not automatically establish what the object was.
 * If all observers share a similar viewing angle, lighting environment, and expectations, they may reach similar interpretations of the same visual stimulus.
-* Independent corroboration increases confidence that an event occurred, but not necessarily confidence in the explanation initially offered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+* Independent corroboration increases confidence that an event occurred, but not necessarily confidence in the explanation initially offered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 </div>
 
-This is precisely why Graves’s safety-focused approach remains compatible with sceptical investigation. A pilot report should not be dismissed because it might later prove mistaken. At the same time, a report should not be treated as proof of an extraordinary object simply because the witness is highly trained. The reporting process and the identification process are separate stages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The stigma attached to UAP is real and powerful and challenges national security. It s...</span></span></span>
+This is precisely why Graves’s safety-focused approach remains compatible with sceptical investigation. A pilot report should not be dismissed because it might later prove mistaken. At the same time, a report should not be treated as proof of an extraordinary object simply because the witness is highly trained. The reporting process and the identification process are separate stages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The stigma attached to UAP is real and powerful and challenges national security. It s...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb_starlink_pilot_verif_aecaea-Illustration-2-dark.svg" | relative_url }}" alt="Starlink Pilot Verif illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb_starlink_pilot_verif_aecaea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb_starlink_pilot_verif_aecaea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -320,7 +320,7 @@ The test asks a sequence of practical questions:
 
 </div>
 
-The 2022 commercial aviation case is notable because it passed the early stages of this process. The sighting was real, documented, and reported by multiple professionals. Yet it ultimately failed the final step because a plausible and data-supported conventional explanation emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+The 2022 commercial aviation case is notable because it passed the early stages of this process. The sighting was real, documented, and reported by multiple professionals. Yet it ultimately failed the final step because a plausible and data-supported conventional explanation emerged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 From a scientific perspective, this is not a failure. It is a successful investigation. The same verification framework that identifies satellites also helps isolate the smaller number of cases that genuinely resist explanation.
 
@@ -329,7 +329,7 @@ From a scientific perspective, this is not a failure. It is a successful investi
 
 ## What advance space-traffic data could change
 
-The researchers who analysed the Starlink sighting argued that better space-situational-awareness tools could reduce confusion before it occurs. Their proposal was not to discourage reporting but to improve the information available to pilots and investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+The researchers who analysed the Starlink sighting argued that better space-situational-awareness tools could reduce confusion before it occurs. Their proposal was not to discourage reporting but to improve the information available to pilots and investigators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 Several possibilities have been discussed:
 
@@ -339,13 +339,13 @@ Several possibilities have been discussed:
 * Near-real-time alerts about recently launched satellite trains.
 * Forecasts showing where intense satellite flares are likely to occur.
 * Better integration of orbital data into aviation systems.
-* Automated comparison tools that check pilot reports against known satellite positions and lighting conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+* Automated comparison tools that check pilot reports against known satellite positions and lighting conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 </div>
 
-The value of such systems extends beyond UFO debates. Researchers have argued that unusual satellite reflections can create confusion and unnecessary operational concern for flight crews. Better awareness could reduce misidentifications while preserving the reporting culture needed for genuine hazards. Sky & Telescope <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2024-05-starlinks-bright-flares.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2024 05 starlinks bright flares</span><span class="citation-popover-snippet">Starlinks can produce surprisingly bright flares for pilots27 May 2024 — The study also discussed how reflectivity from Starlink satellit...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The value of such systems extends beyond UFO debates. Researchers have argued that unusual satellite reflections can create confusion and unnecessary operational concern for flight crews. Better awareness could reduce misidentifications while preserving the reporting culture needed for genuine hazards. Sky & Telescope<span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2024-05-starlinks-bright-flares.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2024 05 starlinks bright flares</span><span class="citation-popover-snippet">Starlinks can produce surprisingly bright flares for pilots27 May 2024 — The study also discussed how reflectivity from Starlink satellit...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-Recent UAP assessments have also highlighted cases in which reported flashing lights were later correlated with Starlink launches and known orbital paths. These findings suggest that satellite-related confusion is no longer a rare edge case but an increasingly important part of modern airspace awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyingmag.com">[FLYING Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyingmag.com</span><span class="citation-popover-title">dod nearly 800 uap reports received in past year</span><span class="citation-popover-snippet">FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO assessed that this sighting of flashing lights correl...</span></span></span>
+Recent UAP assessments have also highlighted cases in which reported flashing lights were later correlated with Starlink launches and known orbital paths. These findings suggest that satellite-related confusion is no longer a rare edge case but an increasingly important part of modern airspace awareness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyingmag.com">[FLYING Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyingmag.com</span><span class="citation-popover-title">dod nearly 800 uap reports received in past year</span><span class="citation-popover-snippet">FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO assessed that this sighting of flashing lights correl...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb_starlink_pilot_verif_aecaea-Illustration-3-dark.svg" | relative_url }}" alt="Starlink Pilot Verif illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb_starlink_pilot_verif_aecaea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_pilot_safety_uap_0719bb_starlink_pilot_verif_aecaea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -353,203 +353,203 @@ Recent UAP assessments have also highlighted cases in which reported flashing li
 
 For supporters of greater UAP transparency, the Starlink case can appear inconvenient because it explains a striking pilot sighting without invoking anything exotic. Yet it arguably strengthens the most durable version of the disclosure argument.
 
-Ryan Graves and other aviation-focused advocates have repeatedly emphasised that pilots need safe reporting channels and serious investigation, not automatic validation of extraordinary interpretations. The Starlink reconstruction shows how that principle works in practice. A report can be treated respectfully, investigated thoroughly, and ultimately explained through ordinary aerospace activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The stigma attached to UAP is real and powerful and challenges national security. It s...</span></span></span>
+Ryan Graves and other aviation-focused advocates have repeatedly emphasised that pilots need safe reporting channels and serious investigation, not automatic validation of extraordinary interpretations. The Starlink reconstruction shows how that principle works in practice. A report can be treated respectfully, investigated thoroughly, and ultimately explained through ordinary aerospace activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The stigma attached to UAP is real and powerful and challenges national security. It s...</span></span></span>
 
-The result is a useful benchmark for future cases. If a sighting can survive comparison with satellite launches, orbital data, lighting geometry, aircraft traffic, and other known phenomena, it becomes more worthy of further attention. If it cannot, the investigation has still improved aviation knowledge and reduced uncertainty. In that sense, Starlink confusion is not a distraction from pilot reporting. It is one of the clearest demonstrations of how a credible UAP verification process should work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2024arXiv240308155B/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Absorption]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsorptionEnhancing Space Situational Awareness to Mitigate Riskby DJ Buettner · 2024 — In this paper we present a case analysis of a...</span></span></span>
+The result is a useful benchmark for future cases. If a sighting can survive comparison with satellite launches, orbital data, lighting geometry, aircraft traffic, and other known phenomena, it becomes more worthy of further attention. If it cannot, the investigation has still improved aviation knowledge and reduced uncertainty. In that sense, Starlink confusion is not a distraction from pilot reporting. It is one of the clearest demonstrations of how a credible UAP verification process should work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2024arXiv240308155B/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Absorption]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsorptionEnhancing Space Situational Awareness to Mitigate Riskby DJ Buettner · 2024 — In this paper we present a case analysis of a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o3S47ljSLCU" title="Starlink Just Made a Decision That’s Going to Piss Off a LOT of Pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o3S47ljSLCU" target="_blank" rel="noopener noreferrer">Starlink Just Made a Decision That’s Going to Piss Off a LOT of Pilots</a></p><p class="youtube-embed-meta">Channel: Captain Ethan &middot; Views: 602 &middot; Uploaded: March 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o3S47ljSLCU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o3S47ljSLCU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Starlink Pilot Verif. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Starlink Pilot Verif. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="starlink-pilot-verif-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="starlink-confusion-and-the-pilot-report-verification-test-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ The result is a useful benchmark for future cases. If a sighting can survive com
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ The result is a useful benchmark for future cases. If a sighting can survive com
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ The result is a useful benchmark for future cases. If a sighting can survive com
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ The result is a useful benchmark for future cases. If a sighting can survive com
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ The result is a useful benchmark for future cases. If a sighting can survive com
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,135 +755,135 @@ The result is a useful benchmark for future cases. If a sighting can survive com
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2405.13091] Extreme Flaring of Starlink SatellitesMay 21, 2024 — by A Mallama · 2024 · Cited by 2 — These findings are applied to t...</p></details>
+   Link:<a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2405.13091] Extreme Flaring of Starlink SatellitesMay 21, 2024 — by A Mallama · 2024 · Cited by 2 — These findings are applied to t...</p></details>
    Published: May 21, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: 380821064 Extreme Flaring of Starlink Satellites  
-   Link: <a href="https://www.researchgate.net/publication/380821064_Extreme_Flaring_of_Starlink_Satellites" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380821064_Extreme_Flaring_of_Starlink_Satellites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Extreme Flaring of Starlink Satellites20 May 2024 — These findings are applied to the case of an extreme flare that was reported as...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/380821064_Extreme_Flaring_of_Starlink_Satellites" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380821064_Extreme_Flaring_of_Starlink_Satellites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Extreme Flaring of Starlink Satellites20 May 2024 — These findings are applied to the case of an extreme flare that was reported as...</p></details>
    Published: May 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: phys.org  
    Title: 2024 05 starlinks bright flares  
-   Link: <a href="https://phys.org/news/2024-05-starlinks-bright-flares.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2024-05-starlinks-bright-flares.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlinks can produce surprisingly bright flares for pilots27 May 2024 — The study also discussed how reflectivity from Starlink satellit...</p></details>
+   Link:<a href="https://phys.org/news/2024-05-starlinks-bright-flares.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2024-05-starlinks-bright-flares.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlinks can produce surprisingly bright flares for pilots27 May 2024 — The study also discussed how reflectivity from Starlink satellit...</p></details>
    Published: May 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Over the past several years, the misidentification of some SpaceX/Starlink satellites as Unidentified Aerospace Phenomena (UAP) by...Rea...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over the past several years, the misidentification of some SpaceX/Starlink satellites as Unidentified Aerospace Phenomena (UAP) by...Rea...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing space situational awareness to mitigate risk: a case study in the misidentification of Starlink Satellites as UAP in...Read more...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing space situational awareness to mitigate risk: a case study in the misidentification of Starlink Satellites as UAP in...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government &#x27;hiding crucial information&#x27; about UFOs...26 Jul 2023 — A former US Navy pilot who claims to have experienced UFOs &quot;first-han...</p></details>
+   Link:<a href="https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government &#x27;hiding crucial information&#x27; about UFOs...26 Jul 2023 — A former US Navy pilot who claims to have experienced UFOs &quot;first-han...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240308155B/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2024arXiv240308155B/abstract</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsorptionEnhancing Space Situational Awareness to Mitigate Riskby DJ Buettner · 2024 — In this paper we present a case analysis of a...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240308155B/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2024arXiv240308155B/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsorptionEnhancing Space Situational Awareness to Mitigate Riskby DJ Buettner · 2024 — In this paper we present a case analysis of a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arstechnica.com  
    Title: a lot of people are mistaking elon musks starlink satellites for uaps  
-   Link: <a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — SpaceX&#x27;s Starlink Internet satellites are responsible for...</p></details>
+   Link:<a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — SpaceX&#x27;s Starlink Internet satellites are responsible for...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skepticalinquirer.org  
    Title: the great starlink racetrack ufo flap of 2022  
-   Link: <a href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Great Starlink Racetrack UFO Flap of 2022A new flap began. Commercial airline pilots flying at night started seeing...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Great Starlink Racetrack UFO Flap of 2022A new flap began. Commercial airline pilots flying at night started seeing...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oversight.house.gov  
    Title: Ryan HOC Testimony  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) attached to UAP is real and powerful and challenges national security. It s...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The [stigma](&amp;#123;&amp;#123; &#x27;stigma/&#x27; | relative_url &amp;#125;&amp;#125;) attached to UAP is real and powerful and challenges national security. It s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: Satellite Flaring Paper  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites in orbit. Figure 2 illustrates the concepts of diffuse and specular...Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites in orbit. Figure 2 illustrates the concepts of diffuse and specular...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: flyingmag.com  
    Title: dod nearly 800 uap reports received in past year  
-   Link: <a href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO assessed that this sighting of flashing lights correl...</p></details>
+   Link:<a href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO assessed that this sighting of flashing lights correl...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theverticalspace.net  
    Title: 98 ryan graves asa uaps as a wake up call for airspace safety and innovation  
-   Link: <a href="https://theverticalspace.net/episode/98-ryan-graves-asa-uaps-as-a-wake-up-call-for-airspace-safety-and-innovation" target="_blank" rel="noopener noreferrer nofollow">https://theverticalspace.net/episode/98-ryan-graves-asa-uaps-as-a-wake-up-call-for-airspace-safety-and-innovation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#98 Ryan Graves, ASA: UAPs as a wake-up call for...6 Aug 2025 — Ryan Graves is a former U.S. Navy F/A-18F pilot and the first active-dut...</p></details>
+   Link:<a href="https://theverticalspace.net/episode/98-ryan-graves-asa-uaps-as-a-wake-up-call-for-airspace-safety-and-innovation" target="_blank" rel="noopener noreferrer nofollow">https://theverticalspace.net/episode/98-ryan-graves-asa-uaps-as-a-wake-up-call-for-airspace-safety-and-innovation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#98 Ryan Graves, ASA: UAPs as a wake-up call for...6 Aug 2025 — Ryan Graves is a former U.S. Navy F/A-18F pilot and the first active-dut...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: newspaceeconomy.ca  
    Title: New Space Economy Are We Chasing Aliens or Just Starlink?  
-   Link: <a href="https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Satellite...6 Feb 2025 — Satellite flares can create visual effects that might be mistaken for UAPs. Multiple satellites in...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/06/are-we-chasing-aliens-or-just-starlink-the-role-of-satellite-flares-in-uap-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Satellite...6 Feb 2025 — Satellite flares can create visual effects that might be mistaken for UAPs. Multiple satellites in...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fox13news.com  
    Title: ex navy pilot ufos calls investigations aerial phenomena  
-   Link: <a href="https://www.fox13news.com/news/ex-navy-pilot-ufos-calls-investigations-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/ex-navy-pilot-ufos-calls-investigations-aerial-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Navy pilot who&#x27;s seen UFOs in flight calls for...14 Mar 2023 — Former Navy pilot Ryan Graves is calling on government agencies to inv...</p></details>
+   Link:<a href="https://www.fox13news.com/news/ex-navy-pilot-ufos-calls-investigations-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/ex-navy-pilot-ufos-calls-investigations-aerial-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Navy pilot who&#x27;s seen UFOs in flight calls for...14 Mar 2023 — Former Navy pilot Ryan Graves is calling on government agencies to inv...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skyandtelescope.org  
    Title: starlink flares can fool anyone even airline pilots  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h9bmzo/american_airlines_pilots_perplexed_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h9bmzo/american_airlines_pilots_perplexed_after/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nomy software with NORAD satellite data to confirm that they were...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1h9bmzo/american_airlines_pilots_perplexed_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h9bmzo/american_airlines_pilots_perplexed_after/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nomy software with NORAD satellite data to confirm that they were...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hijke8/ryan_graves_presents_another_dud_uap_photo_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hijke8/ryan_graves_presents_another_dud_uap_photo_from/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unfortunately, the image was little more than a blurry cloud in...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hijke8/ryan_graves_presents_another_dud_uap_photo_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hijke8/ryan_graves_presents_another_dud_uap_photo_from/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unfortunately, the image was little more than a blurry cloud in...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: supercarblondie.com  
    Title: airline pilots ufo sightings mistaken identity  
-   Link: <a href="https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/" target="_blank" rel="noopener noreferrer nofollow">https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airline pilots&#x27; UFO sightings demystified in case of mistaken...22 Mar 2024 — Many airline pilots claim to have seen unidentified flying...</p></details>
+   Link:<a href="https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/" target="_blank" rel="noopener noreferrer nofollow">https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airline pilots&#x27; UFO sightings demystified in case of mistaken...22 Mar 2024 — Many airline pilots claim to have seen unidentified flying...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Enhancing-Space-Situational-Awareness-to-Mitigate-A-Buettner-Griffiths/47cdf10c7960076bd433f135c8bd2b55ac0e7b7a" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Enhancing-Space-Situational-Awareness-to-Mitigate-A-Buettner-Griffiths/47cdf10c7960076bd433f135c8bd2b55ac0e7b7a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk...13 Mar 2024 — Over the past several years, the misidentification of SpaceX Star...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Enhancing-Space-Situational-Awareness-to-Mitigate-A-Buettner-Griffiths/47cdf10c7960076bd433f135c8bd2b55ac0e7b7a" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Enhancing-Space-Situational-Awareness-to-Mitigate-A-Buettner-Griffiths/47cdf10c7960076bd433f135c8bd2b55ac0e7b7a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk...13 Mar 2024 — Over the past several years, the misidentification of SpaceX Star...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: popularmechanics.com  
    Title: Airline Pilots Couldn't Stop Seeing UFOs  
-   Link: <a href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</p></details>
+   Link:<a href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: x.com  
-   Link: <a href="https://x.com/uncertainvector/status/1766275080751882656" target="_blank" rel="noopener noreferrer nofollow">https://x.com/uncertainvector/status/1766275080751882656</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>couraged and disappointed by the Pentagon&#x27;s...Read more...</p></details>
+   Link:<a href="https://x.com/uncertainvector/status/1766275080751882656" target="_blank" rel="noopener noreferrer nofollow">https://x.com/uncertainvector/status/1766275080751882656</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>couraged and disappointed by the Pentagon&#x27;s...Read more...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-uap/
 description: Focused pages that expand on Whistleblowers.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b
 parent_title: Whistleblowers
@@ -16,7 +16,7 @@ parent_permalink: /whistleblowers/
 
 # Explore Topics in Whistleblowers
 
-The following pages expand on the main **[Whistleblowers]({{ '/whistleblowers/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Whistleblowers]({{ '/whistleblowers/' | relative_url }})** page and cover its key branches in.
 
 - [Clearance Retaliatio 3 Dd 515]({{ '/clearance-retaliatio-3-dd-515/' | relative_url }})
 - [NASA UAP Data Gap 1 A7797]({{ '/nasa-uap-data-gap-1-a7797-eda38b/' | relative_url }})

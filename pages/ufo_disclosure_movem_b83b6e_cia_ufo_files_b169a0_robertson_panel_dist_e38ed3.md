@@ -259,23 +259,23 @@ image: /assets/images/ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_robertson
 
 ## Introduction
 
-The Robertson Panel occupies a unique place in the history of the [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}) because it sits at the intersection of science, intelligence policy, public communication and [secrecy]({{ 'secrecy/' | relative_url }}). Convened by the CIA in January 1953, the panel was intended to assess whether the growing wave of UFO reports posed a national-security concern. Its conclusions were largely sceptical: the panel found no evidence that UFOs represented hostile foreign technology or extraterrestrial craft. Yet the controversy surrounding the panel was never primarily about those conclusions. Instead, it emerged from how the panel framed the problem, how it recommended addressing public interest, and how its existence remained largely hidden from public view for years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The Robertson Panel occupies a unique place in the history of the [UFO disclosure movement]({{ 'ufo-disclosure-movement/' | relative_url }}) because it sits at the intersection of science, intelligence policy, public communication and [secrecy]({{ 'secrecy/' | relative_url }}). Convened by the CIA in January 1953, the panel was intended to assess whether the growing wave of UFO reports posed a national-security concern. Its conclusions were largely sceptical: the panel found no evidence that UFOs represented hostile foreign technology or extraterrestrial craft. Yet the controversy surrounding the panel was never primarily about those conclusions. Instead, it emerged from how the panel framed the problem, how it recommended addressing public interest, and how its existence remained largely hidden from public view for years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_robertson_panel_dist_e38ed3-Illustration-1-dark.svg" | relative_url }}" alt="Robertson Panel Dist E38 Ed 3 illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_robertson_panel_dist_e38ed3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_robertson_panel_dist_e38ed3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For many later UFO [researchers]({{ 'researchers/' | relative_url }}), the Robertson Panel became the moment when official investigation shifted from examining unusual reports to actively managing public perception. For defenders of the panel, it represented a rational Cold War response to a genuine intelligence problem. The resulting disagreement has endured for more than seventy years and remains one of the central reasons that official scepticism toward UFO claims is often met with suspicion inside the disclosure movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">n solving this problem of signal identification before service...Read more...</span></span></span>
+For many later UFO [researchers]({{ 'researchers/' | relative_url }}), the Robertson Panel became the moment when official investigation shifted from examining unusual reports to actively managing public perception. For defenders of the panel, it represented a rational Cold War response to a genuine intelligence problem. The resulting disagreement has endured for more than seventy years and remains one of the central reasons that official scepticism toward UFO claims is often met with suspicion inside the disclosure movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">n solving this problem of signal identification before service...Read more...</span></span></span>
 
 ## What the panel was actually created to do
 
-The Robertson Panel emerged during a period of intense concern within the American intelligence community. The summer of 1952 had produced a surge of UFO reports, including the famous Washington, DC radar and visual incidents. Intelligence officials worried less about alien visitors than about the possibility that unidentified aerial reports could interfere with air-defence operations during the Cold War. The Soviet Union had recently demonstrated nuclear capabilities, and American military planners were increasingly focused on early-warning systems and the danger of surprise attack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The Robertson Panel emerged during a period of intense concern within the American intelligence community. The summer of 1952 had produced a surge of UFO reports, including the famous Washington, DC radar and visual incidents. Intelligence officials worried less about alien visitors than about the possibility that unidentified aerial reports could interfere with air-defence operations during the Cold War. The Soviet Union had recently demonstrated nuclear capabilities, and American military planners were increasingly focused on early-warning systems and the danger of surprise attack.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-In December 1952, the Intelligence Advisory Committee agreed that scientists should review the available UFO evidence. The CIA's Office of Scientific Intelligence organised a panel chaired by physicist Howard P. Robertson. Other members included prominent scientists such as Luis Alvarez, Samuel Goudsmit and Thornton Page, all individuals with experience in military or classified research. The panel met from 14 to 18 January 1953 and reviewed selected UFO cases presented by Air Force investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+In December 1952, the Intelligence Advisory Committee agreed that scientists should review the available UFO evidence. The CIA's Office of Scientific Intelligence organised a panel chaired by physicist Howard P. Robertson. Other members included prominent scientists such as Luis Alvarez, Samuel Goudsmit and Thornton Page, all individuals with experience in military or classified research. The panel met from 14 to 18 January 1953 and reviewed selected UFO cases presented by Air Force investigators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-Importantly, the panel was never established as an open-ended scientific inquiry into the possibility of extraterrestrial life. Its mandate was tied directly to national-security concerns. Intelligence officials wanted to know whether UFO reports represented hostile technology, weaknesses in American defence systems, or vulnerabilities that adversaries could exploit. This framing would later become important because critics argued that the panel was designed to solve a security problem rather than investigate a mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">CIA&#x27;s Involvement in UFO Studies: A Historical Overview (...The CIA Study Group also searched the Soviet press for UFO reports, but...</span></span></span>
+Importantly, the panel was never established as an open-ended scientific inquiry into the possibility of extraterrestrial life. Its mandate was tied directly to national-security concerns. Intelligence officials wanted to know whether UFO reports represented hostile technology, weaknesses in American defence systems, or vulnerabilities that adversaries could exploit. This framing would later become important because critics argued that the panel was designed to solve a security problem rather than investigate a mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">CIA&#x27;s Involvement in UFO Studies: A Historical Overview (...The CIA Study Group also searched the Soviet press for UFO reports, but...</span></span></span>
 
 ## What the panel concluded
 
-After reviewing the evidence, the panel concluded that UFO reports showed no indication of a direct threat to national security. It further stated that there was no evidence requiring a revision of existing scientific knowledge and no convincing indication that the phenomena represented hostile foreign technology. Most sightings, the panel believed, were likely attributable to ordinary causes such as aircraft, balloons, astronomical objects or observational errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">role study UFOs</span><span class="citation-popover-snippet">CIA&#x27;s Role in the Study of UFOs, 1947-90issuance of the panels report has CIA engaged in the study of the UFO phe somehow involved in...</span></span></span>
+After reviewing the evidence, the panel concluded that UFO reports showed no indication of a direct threat to national security. It further stated that there was no evidence requiring a revision of existing scientific knowledge and no convincing indication that the phenomena represented hostile foreign technology. Most sightings, the panel believed, were likely attributable to ordinary causes such as aircraft, balloons, astronomical objects or observational errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">role study UFOs</span><span class="citation-popover-snippet">CIA&#x27;s Role in the Study of UFOs, 1947-90issuance of the panels report has CIA engaged in the study of the UFO phe somehow involved in...</span></span></span>
 
 However, the panel did not regard the UFO issue as harmless. Instead, it identified several indirect risks:
 
@@ -285,11 +285,11 @@ However, the panel did not regard the UFO issue as harmless. Instead, it identif
 * Defence personnel might misidentify genuine enemy aircraft.
 * Military communications channels could become overloaded with mistaken reports.
 * Public fascination with UFOs could contribute to mass hysteria.
-* Foreign adversaries might exploit UFO excitement for psychological warfare purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+* Foreign adversaries might exploit UFO excitement for psychological warfare purposes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 </div>
 
-These concerns reflected a distinctly Cold War mindset. Intelligence officials were thinking about radar networks, strategic warning systems and information warfare. In their view, even if UFOs themselves were mundane, the social effects of UFO belief could create real security problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">CIA&#x27;s Involvement in UFO Studies: A Historical Overview (...The CIA Study Group also searched the Soviet press for UFO reports, but...</span></span></span>
+These concerns reflected a distinctly Cold War mindset. Intelligence officials were thinking about radar networks, strategic warning systems and information warfare. In their view, even if UFOs themselves were mundane, the social effects of UFO belief could create real security problems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">CIA&#x27;s Involvement in UFO Studies: A Historical Overview (...The CIA Study Group also searched the Soviet press for UFO reports, but...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G-4oolp_7qI" title="Project Blue Book: HYNEK BETRAYED DURING ROBERTSON PANEL (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G-4oolp_7qI" target="_blank" rel="noopener noreferrer">Project Blue Book: HYNEK BETRAYED DURING ROBERTSON PANEL (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 78.9K &middot; Uploaded: February 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G-4oolp_7qI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G-4oolp_7qI">Open on YouTube</a></p></div></div></div>
@@ -298,23 +298,23 @@ These concerns reflected a distinctly Cold War mindset. Intelligence officials w
 
 The most consequential recommendation of the Robertson Panel was not its scientific conclusion but its proposed response.
 
-The panel argued that public interest in flying saucers should be reduced through a broad educational effort. It recommended the use of television, films, newspapers and other mass-[media]({{ 'media/' | relative_url }}) channels to explain sightings and familiarise the public with common misidentifications. The report explicitly described one objective as “debunking” the flying-saucer phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">The Black Vaultrobertsonpanelreport.pdf</span><span class="citation-popover-snippet">May 30, 2018 — &quot;flying saucers&quot; had been pop!llar in 1943 - 1945, these objects would... The Panel&#x27;s concept of aborad educational progr...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufxufo.org/robertson/durantrept.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufxufo.org">[UFXUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufxufo.org</span><span class="citation-popover-title">The Durant Report</span><span class="citation-popover-snippet">The Durant Report - UFXIn this briefing he pointed out the many problems of setting up and manning 24-hour instrumentation watches...</span></span></span> From the panel's perspective, this recommendation was practical. If fewer people misunderstood ordinary phenomena as UFOs, military reporting systems would receive less noise and be better able to identify genuine threats. The panel compared the process to revealing a magician's trick: once the mechanism was understood, the mystery would lose its power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">The Black Vaultrobertsonpanelreport.pdf</span><span class="citation-popover-snippet">May 30, 2018 — &quot;flying saucers&quot; had been pop!llar in 1943 - 1945, these objects would... The Panel&#x27;s concept of aborad educational progr...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span>
+The panel argued that public interest in flying saucers should be reduced through a broad educational effort. It recommended the use of television, films, newspapers and other mass-[media]({{ 'media/' | relative_url }}) channels to explain sightings and familiarise the public with common misidentifications. The report explicitly described one objective as “debunking” the flying-saucer phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">The Black Vaultrobertsonpanelreport.pdf</span><span class="citation-popover-snippet">May 30, 2018 — &quot;flying saucers&quot; had been pop!llar in 1943 - 1945, these objects would... The Panel&#x27;s concept of aborad educational progr...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ufxufo.org/robertson/durantrept.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufxufo.org">[UFXUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufxufo.org</span><span class="citation-popover-title">The Durant Report</span><span class="citation-popover-snippet">The Durant Report - UFXIn this briefing he pointed out the many problems of setting up and manning 24-hour instrumentation watches...</span></span></span> From the panel's perspective, this recommendation was practical. If fewer people misunderstood ordinary phenomena as UFOs, military reporting systems would receive less noise and be better able to identify genuine threats. The panel compared the process to revealing a magician's trick: once the mechanism was understood, the mystery would lose its power.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">The Black Vaultrobertsonpanelreport.pdf</span><span class="citation-popover-snippet">May 30, 2018 — &quot;flying saucers&quot; had been pop!llar in 1943 - 1945, these objects would... The Panel&#x27;s concept of aborad educational progr...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span>
 
-Yet this recommendation became the foundation of later distrust. Critics argued that a scientific review panel should assess evidence, not advocate campaigns intended to shape public attitudes. The use of the word “debunking” suggested that the desired outcome had already been decided. To sceptics of official UFO investigations, the recommendation looked less like public education and more like perception management. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/2701260" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Epiphany and Conspiracy: The UFO ControversyMarch 13, 1976 — by R Tobey · 1976 · Cited by 1 — It recommended a program of public edu...</span><span class="citation-popover-meta">Published: March 13, 1976</span></span></span>
+Yet this recommendation became the foundation of later distrust. Critics argued that a scientific review panel should assess evidence, not advocate campaigns intended to shape public attitudes. The use of the word “debunking” suggested that the desired outcome had already been decided. To sceptics of official UFO investigations, the recommendation looked less like public education and more like perception management.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/2701260" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Epiphany and Conspiracy: The UFO ControversyMarch 13, 1976 — by R Tobey · 1976 · Cited by 1 — It recommended a program of public edu...</span><span class="citation-popover-meta">Published: March 13, 1976</span></span></span>
 
-This distinction remains important. Many mainstream historians view the recommendation as a straightforward response to Cold War security concerns. Many disclosure advocates interpret it as the beginning of an institutional effort to discourage serious public interest in anomalous reports. The same document therefore became evidence for two very different narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+This distinction remains important. Many mainstream historians view the recommendation as a straightforward response to Cold War security concerns. Many disclosure advocates interpret it as the beginning of an institutional effort to discourage serious public interest in anomalous reports. The same document therefore became evidence for two very different narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 ## Why the monitoring of civilian groups became controversial
 
 The panel's recommendations extended beyond public education. It also discussed civilian UFO organisations and their influence on public opinion.
 
-The report specifically noted groups such as the Civilian Flying Saucer Investigators and the Aerial Phenomena Research Organization. Panel members suggested these organisations should be watched because of their potential influence on mass thinking during periods of widespread sightings. They also raised the possibility that such groups could be exploited for subversive purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The report specifically noted groups such as the Civilian Flying Saucer Investigators and the Aerial Phenomena Research Organization. Panel members suggested these organisations should be watched because of their potential influence on mass thinking during periods of widespread sightings. They also raised the possibility that such groups could be exploited for subversive purposes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-In 1953 this recommendation fit comfortably within broader Cold War practices. American intelligence agencies routinely monitored organisations they believed might influence public behaviour during crises. To contemporary intelligence officials, this was a matter of security planning rather than suppression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">CIA&#x27;s Involvement in UFO Studies: A Historical Overview (...The CIA Study Group also searched the Soviet press for UFO reports, but...</span></span></span>
+In 1953 this recommendation fit comfortably within broader Cold War practices. American intelligence agencies routinely monitored organisations they believed might influence public behaviour during crises. To contemporary intelligence officials, this was a matter of security planning rather than suppression.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">CIA&#x27;s Involvement in UFO Studies: A Historical Overview (...The CIA Study Group also searched the Soviet press for UFO reports, but...</span></span></span>
 
-Later generations viewed the recommendation differently. UFO researchers often interpreted it as evidence that authorities regarded independent investigators as a problem rather than as partners in understanding unusual phenomena. Once the recommendation became public, it reinforced suspicions that official agencies were interested in controlling the UFO narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufxufo.org/robertson/durantrept.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufxufo.org">[UFXUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufxufo.org</span><span class="citation-popover-title">The Durant Report</span><span class="citation-popover-snippet">The Durant Report - UFXIn this briefing he pointed out the many problems of setting up and manning 24-hour instrumentation watches...</span></span></span>
+Later generations viewed the recommendation differently. UFO researchers often interpreted it as evidence that authorities regarded independent investigators as a problem rather than as partners in understanding unusual phenomena. Once the recommendation became public, it reinforced suspicions that official agencies were interested in controlling the UFO narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufxufo.org/robertson/durantrept.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufxufo.org">[UFXUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufxufo.org</span><span class="citation-popover-title">The Durant Report</span><span class="citation-popover-snippet">The Durant Report - UFXIn this briefing he pointed out the many problems of setting up and manning 24-hour instrumentation watches...</span></span></span>
 
-The significance of this issue should not be underestimated. [Trust]({{ 'trust/' | relative_url }}) is often damaged less by what governments investigate than by whom they choose to monitor. For many disclosure advocates, the recommendation transformed the Robertson Panel from a scientific review into an example of bureaucratic management of dissenting viewpoints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufxufo.org/robertson/durantrept.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufxufo.org">[UFXUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufxufo.org</span><span class="citation-popover-title">The Durant Report</span><span class="citation-popover-snippet">The Durant Report - UFXIn this briefing he pointed out the many problems of setting up and manning 24-hour instrumentation watches...</span></span></span>
+The significance of this issue should not be underestimated. [Trust]({{ 'trust/' | relative_url }}) is often damaged less by what governments investigate than by whom they choose to monitor. For many disclosure advocates, the recommendation transformed the Robertson Panel from a scientific review into an example of bureaucratic management of dissenting viewpoints.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufxufo.org/robertson/durantrept.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufxufo.org">[UFXUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufxufo.org</span><span class="citation-popover-title">The Durant Report</span><span class="citation-popover-snippet">The Durant Report - UFXIn this briefing he pointed out the many problems of setting up and manning 24-hour instrumentation watches...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_robertson_panel_dist_e38ed3-Illustration-2-dark.svg" | relative_url }}" alt="Robertson Panel Dist E38 Ed 3 illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_robertson_panel_dist_e38ed3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_robertson_panel_dist_e38ed3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,11 +322,11 @@ The significance of this issue should not be underestimated. [Trust]({{ 'trust/'
 
 The Robertson Panel's recommendations might have generated only limited controversy had they been openly discussed in 1953. Instead, secrecy became a major factor in how the panel was later perceived.
 
-The proceedings were classified, and CIA sponsorship was deliberately kept out of public discussion. Internal CIA correspondence later revealed a desire to restrict knowledge of the agency's involvement. According to CIA historian Gerald Haines, officials specifically noted that mention of CIA sponsorship of the panel was forbidden and that agency interest in the subject should remain carefully restricted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The proceedings were classified, and CIA sponsorship was deliberately kept out of public discussion. Internal CIA correspondence later revealed a desire to restrict knowledge of the agency's involvement. According to CIA historian Gerald Haines, officials specifically noted that mention of CIA sponsorship of the panel was forbidden and that agency interest in the subject should remain carefully restricted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-This decision had long-term consequences. When researchers eventually learned about the panel through later disclosures and Freedom of Information Act requests, many concluded that secrecy itself indicated hidden motives. Even if the report's conclusions were ordinary, the fact that they had been concealed encouraged speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cias role in the study of ufos 1947 1990</span><span class="citation-popover-snippet">CIA&#x27;s Role in the Study of UFOs, 1947-1990 - CSIThis study traces CIA interest and involvement in the UFO controversy from the late 19...</span></span></span>
+This decision had long-term consequences. When researchers eventually learned about the panel through later disclosures and Freedom of Information Act requests, many concluded that secrecy itself indicated hidden motives. Even if the report's conclusions were ordinary, the fact that they had been concealed encouraged speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cias role in the study of ufos</span><span class="citation-popover-snippet">CIA&#x27;s Role in the Study of UFOs, 1947-1990 - CSIThis study traces CIA interest and involvement in the UFO controversy from the late 19...</span></span></span>
 
-The pattern repeated itself throughout the following decades. Requests for UFO-related records often encountered delays, redactions or disputes about what documents existed. Although released records generally failed to reveal evidence of extraterrestrial technology, they repeatedly revealed institutional secrecy. That distinction became central to disclosure arguments. Researchers increasingly claimed that the issue was not merely whether UFOs were real but whether the government had honestly represented its activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">REPORT OF THE SCIENTIFIC PANEL ON UNIDENTIFIED...That the evidence presssted on Unidentified Flying. Objects shova no indication that...</span></span></span>
+The pattern repeated itself throughout the following decades. Requests for UFO-related records often encountered delays, redactions or disputes about what documents existed. Although released records generally failed to reveal evidence of extraterrestrial technology, they repeatedly revealed institutional secrecy. That distinction became central to disclosure arguments. Researchers increasingly claimed that the issue was not merely whether UFOs were real but whether the government had honestly represented its activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">REPORT OF THE SCIENTIFIC PANEL ON UNIDENTIFIED...That the evidence presssted on Unidentified Flying. Objects shova no indication that...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_robertson_panel_dist_e38ed3-Illustration-3-dark.svg" | relative_url }}" alt="Robertson Panel Dist E38 Ed 3 illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_robertson_panel_dist_e38ed3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_cia_ufo_files_b169a0_robertson_panel_dist_e38ed3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,9 +334,9 @@ The pattern repeated itself throughout the following decades. Requests for UFO-r
 
 The Robertson Panel's reputation was shaped not only by its original recommendations but also by how later researchers interpreted them.
 
-Atmospheric physicist J. Allen Hynek, who had originally worked with Air Force investigations, later argued that the panel contributed to a culture in which serious UFO research became professionally risky. Other researchers contended that the panel effectively established a framework that encouraged dismissal rather than investigation of anomalous cases. These criticisms became especially influential during the 1960s and 1970s as public interest in government secrecy increased following controversies unrelated to UFOs, including intelligence scandals and political cover-ups. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">CIA&#x27;s Involvement in UFO Studies: A Historical Overview (...The CIA Study Group also searched the Soviet press for UFO reports, but...</span></span></span>
+Atmospheric physicist J. Allen Hynek, who had originally worked with Air Force investigations, later argued that the panel contributed to a culture in which serious UFO research became professionally risky. Other researchers contended that the panel effectively established a framework that encouraged dismissal rather than investigation of anomalous cases. These criticisms became especially influential during the 1960s and 1970s as public interest in government secrecy increased following controversies unrelated to UFOs, including intelligence scandals and political cover-ups.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">CIA&#x27;s Involvement in UFO Studies: A Historical Overview (...The CIA Study Group also searched the Soviet press for UFO reports, but...</span></span></span>
 
-By the time the CIA released additional records in response to Freedom of Information Act litigation during the 1970s, the Robertson Panel had already become a symbol. Researchers such as William Spaulding interpreted the existence of previously hidden documents as evidence that official statements about UFO investigations had been incomplete. The documents themselves contained little support for extraterrestrial claims, but they reinforced the perception that important decisions had been made behind closed doors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP69B00369R000200240055-8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">CIA RDP69B00369R000200240055 8</span><span class="citation-popover-snippet">SCIENTISTS DEBATE THE QUESTION OF UFO&#x27;Sthe UFO&#x27;s was the Robertson. Panel of 1953 five well- known scientists assembled by the Air Force...</span></span></span>
+By the time the CIA released additional records in response to Freedom of Information Act litigation during the 1970s, the Robertson Panel had already become a symbol. Researchers such as William Spaulding interpreted the existence of previously hidden documents as evidence that official statements about UFO investigations had been incomplete. The documents themselves contained little support for extraterrestrial claims, but they reinforced the perception that important decisions had been made behind closed doors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP69B00369R000200240055-8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">CIA RDP69B00369R000200240055 8</span><span class="citation-popover-snippet">SCIENTISTS DEBATE THE QUESTION OF UFO&#x27;Sthe UFO&#x27;s was the Robertson. Panel of 1953 five well- known scientists assembled by the Air Force...</span></span></span>
 
 This is one reason the panel continues to occupy such a prominent place in disclosure debates. Its symbolic importance greatly exceeds its direct scientific findings.
 
@@ -345,205 +345,205 @@ This is one reason the panel continues to occupy such a prominent place in discl
 
 ## Why the Robertson Panel still fuels distrust
 
-The Robertson Panel did not uncover evidence of alien spacecraft, and no declassified version of its report demonstrates knowledge of non-human technology. Its formal conclusions were sceptical, and many historians consider those conclusions broadly consistent with the evidence reviewed at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">n solving this problem of signal identification before service...Read more...</span></span></span>
+The Robertson Panel did not uncover evidence of alien spacecraft, and no declassified version of its report demonstrates knowledge of non-human technology. Its formal conclusions were sceptical, and many historians consider those conclusions broadly consistent with the evidence reviewed at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">n solving this problem of signal identification before service...Read more...</span></span></span>
 
-Nevertheless, the panel became a lasting flashpoint because it combined three elements that are particularly corrosive to public trust: classified decision-making, explicit recommendations to reduce public interest, and concern about influential civilian groups. Each element can be explained within the Cold War security environment. Together, however, they created a framework that many later researchers interpreted as institutionalised debunking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufxufo.org/robertson/durantrept.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufxufo.org">[UFXUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufxufo.org</span><span class="citation-popover-title">The Durant Report</span><span class="citation-popover-snippet">The Durant Report - UFXIn this briefing he pointed out the many problems of setting up and manning 24-hour instrumentation watches...</span></span></span>
+Nevertheless, the panel became a lasting flashpoint because it combined three elements that are particularly corrosive to public trust: classified decision-making, explicit recommendations to reduce public interest, and concern about influential civilian groups. Each element can be explained within the Cold War security environment. Together, however, they created a framework that many later researchers interpreted as institutionalised debunking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufxufo.org/robertson/durantrept.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufxufo.org">[UFXUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufxufo.org</span><span class="citation-popover-title">The Durant Report</span><span class="citation-popover-snippet">The Durant Report - UFXIn this briefing he pointed out the many problems of setting up and manning 24-hour instrumentation watches...</span></span></span>
 
-The enduring legacy of the Robertson Panel is therefore not proof of a UFO cover-up. Its lasting importance lies in demonstrating how official scepticism can become difficult to separate from official information management. Within the broader history of CIA UFO files and Cold War trust gaps, the panel became the archetypal case through which disclosure advocates learned to question not only what government agencies concluded, but how and why they reached those conclusions in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">role study UFOs</span><span class="citation-popover-snippet">CIA&#x27;s Role in the Study of UFOs, 1947-90issuance of the panels report has CIA engaged in the study of the UFO phe somehow involved in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cias role in the study of ufos 1947 1990</span><span class="citation-popover-snippet">CIA&#x27;s Role in the Study of UFOs, 1947-1990 - CSIThis study traces CIA interest and involvement in the UFO controversy from the late 19...</span></span></span>
+The enduring legacy of the Robertson Panel is therefore not proof of a UFO cover-up. Its lasting importance lies in demonstrating how official scepticism can become difficult to separate from official information management. Within the broader history of CIA UFO files and Cold War trust gaps, the panel became the archetypal case through which disclosure advocates learned to question not only what government agencies concluded, but how and why they reached those conclusions in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">role study UFOs</span><span class="citation-popover-snippet">CIA&#x27;s Role in the Study of UFOs, 1947-90issuance of the panels report has CIA engaged in the study of the UFO phe somehow involved in...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cias role in the study of ufos</span><span class="citation-popover-snippet">CIA&#x27;s Role in the Study of UFOs, 1947-1990 - CSIThis study traces CIA interest and involvement in the UFO controversy from the late 19...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y-lCFQea_Ng" title="The Robertson Panel: UFO’s, Science and Lies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y-lCFQea_Ng" target="_blank" rel="noopener noreferrer">The Robertson Panel: UFO’s, Science and Lies</a></p><p class="youtube-embed-meta">Channel: Larry Charles Projects &middot; Views: 114 &middot; Uploaded: April 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y-lCFQea_Ng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y-lCFQea_Ng">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Robertson Panel Dist E38 Ed 3. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Robertson Panel Dist E38 Ed 3. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="robertson-panel-dist-e38-ed-3-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ The enduring legacy of the Robertson Panel is therefore not proof of a UFO cover
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ The enduring legacy of the Robertson Panel is therefore not proof of a UFO cover
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ The enduring legacy of the Robertson Panel is therefore not proof of a UFO cover
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ The enduring legacy of the Robertson Panel is therefore not proof of a UFO cover
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ The enduring legacy of the Robertson Panel is therefore not proof of a UFO cover
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,133 +749,133 @@ The enduring legacy of the Robertson Panel is therefore not proof of a UFO cover
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n solving this problem of signal identification before service...Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n solving this problem of signal identification before service...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
    Title: role study UFOs  
-   Link: <a href="https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-90issuance of the panels report has CIA engaged in the study of the UFO phe somehow involved in...</p></details>
+   Link:<a href="https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-90issuance of the panels report has CIA engaged in the study of the UFO phe somehow involved in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
    Title: cias role in the study of ufos 1947 1990  
-   Link: <a href="https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-1990 - CSIThis study traces CIA interest and involvement in the UFO controversy from the late 19...</p></details>
+   Link:<a href="https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-1990 - CSIThis study traces CIA interest and involvement in the UFO controversy from the late 19...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Involvement in UFO Studies: A Historical Overview (...The CIA Study Group also searched the Soviet press for UFO reports, but...</p></details>
+   Link:<a href="https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/in/document/university-of-kerala/kerala-university-plus-one/cia-role-study-ufos-umb/47812083</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Involvement in UFO Studies: A Historical Overview (...The CIA Study Group also searched the Soviet press for UFO reports, but...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF THE SCIENTIFIC PANEL ON UNIDENTIFIED...That the evidence presssted on Unidentified Flying. Objects shova no indication that...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF THE SCIENTIFIC PANEL ON UNIDENTIFIED...That the evidence presssted on Unidentified Flying. Objects shova no indication that...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufxufo.org  
    Title: The Durant Report  
-   Link: <a href="https://ufxufo.org/robertson/durantrept.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufxufo.org/robertson/durantrept.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Durant Report - UFXIn this briefing he pointed out the many problems of setting up and manning 24-hour instrumentation watches...</p></details>
+   Link:<a href="https://ufxufo.org/robertson/durantrept.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufxufo.org/robertson/durantrept.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Durant Report - UFXIn this briefing he pointed out the many problems of setting up and manning 24-hour instrumentation watches...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/2701260" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2701260</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Epiphany and Conspiracy: The UFO ControversyMarch 13, 1976 — by R Tobey · 1976 · Cited by 1 — It recommended a program of public edu...</p></details>
+   Link:<a href="https://www.jstor.org/stable/2701260" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2701260</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epiphany and Conspiracy: The UFO ControversyMarch 13, 1976 — by R Tobey · 1976 · Cited by 1 — It recommended a program of public edu...</p></details>
    Published: March 13, 1976  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/articles/ufo-sightings-cia-robertson-condon" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-sightings-cia-robertson-condon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the CIA Tried to Quell UFO Panic During the Cold War6 Jan 2020 — &#x27;” Just as the panel had suggested, the program focused on de...</p></details>
+   Link:<a href="https://www.history.com/articles/ufo-sightings-cia-robertson-condon" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-sightings-cia-robertson-condon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the CIA Tried to Quell UFO Panic During the Cold War6 Jan 2020 — &#x27;” Just as the panel had suggested, the program focused on de...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
    Title: CIA RDP69B00369R000200240055 8  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP69B00369R000200240055-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP69B00369R000200240055-8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENTISTS DEBATE THE QUESTION OF UFO&#x27;Sthe UFO&#x27;s was the Robertson. Panel of 1953 five well- known scientists assembled by the Air Force...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP69B00369R000200240055-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP69B00369R000200240055-8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENTISTS DEBATE THE QUESTION OF UFO&#x27;Sthe UFO&#x27;s was the Robertson. Panel of 1953 five well- known scientists assembled by the Air Force...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o.•a (notwithstanding A1r...Read more...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o.•a (notwithstanding A1r...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vaultrobertsonpanelreport.pdf  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2018 — &quot;flying saucers&quot; had been pop!llar in 1943 - 1945, these objects would... The Panel&#x27;s concept of aborad educational progr...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2018 — &quot;flying saucers&quot; had been pop!llar in 1943 - 1945, these objects would... The Panel&#x27;s concept of aborad educational progr...</p></details>
    Published: May 30, 2018  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-1987-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-1987-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comdefe-24-1987-1.pdfCIA&#x27;s Role in the Study of UFOs,1947-90. Gerald K. Ilaines. An... l3-year-old Robertson panel report...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-1987-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-1987-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comdefe-24-1987-1.pdfCIA&#x27;s Role in the Study of UFOs,1947-90. Gerald K. Ilaines. An... l3-year-old Robertson panel report...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: socialecologies.wordpress.com  
    Title: the robertson panel cold war era perception management  
-   Link: <a href="https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robertson Panel: COLD War Era Perception Management21 Nov 2025 — The Truman administration was less afraid of aliens than of Soviet exper...</p></details>
+   Link:<a href="https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robertson Panel: COLD War Era Perception Management21 Nov 2025 — The Truman administration was less afraid of aliens than of Soviet exper...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: cias role in the study of ufos 194790 by gerald k  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;S ROLE IN THE STUDY OF UFO&#x27;S, 1947-90, BY...The CIA&#x27;s claim that &quot;half of UFOs&quot; in the 50s and 60s were secret aircraft has already...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;S ROLE IN THE STUDY OF UFO&#x27;S, 1947-90, BY...The CIA&#x27;s claim that &quot;half of UFOs&quot; in the 50s and 60s were secret aircraft has already...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1k6hdsj/the_robertson_panel_was_a_committee_established/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1k6hdsj/the_robertson_panel_was_a_committee_established/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to reassure the public of the lack of evidence behind UFOs...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1k6hdsj/the_robertson_panel_was_a_committee_established/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1k6hdsj/the_robertson_panel_was_a_committee_established/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to reassure the public of the lack of evidence behind UFOs...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
    Title: Secret UFO programs CIA declassified doc  
-   Link: <a href="https://www.scribd.com/doc/43544462/Secret-UFO-programs-CIA-declassified-doc" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/43544462/Secret-UFO-programs-CIA-declassified-doc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s UFO Investigations, 1947-1990 | PDFThis document discusses the CIA&#x27;s role in studying UFOs from 1947 to 1990. It begins by providin...</p></details>
+   Link:<a href="https://www.scribd.com/doc/43544462/Secret-UFO-programs-CIA-declassified-doc" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/43544462/Secret-UFO-programs-CIA-declassified-doc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s UFO Investigations, 1947-1990 | PDFThis document discusses the CIA&#x27;s role in studying UFOs from 1947 to 1990. It begins by providin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Project [Blue Book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;): HYNEK BETRAYED DURING ROBERTSON PANEL (Season 2) | History  
-   Link: <a href="https://www.youtube.com/watch?v=G-4oolp_7qI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G-4oolp_7qI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The Government&#x27;s Failed War on Flying Saucers | Curious History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G-4oolp_7qI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G-4oolp_7qI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The Government&#x27;s Failed War on Flying Saucers | Curious History...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oL3hwFyXm20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Robertson Panel: UFO&#x27;s, Science and Lies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oL3hwFyXm20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Robertson Panel: UFO&#x27;s, Science and Lies...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: home.ifa.hawaii.edu  
    Title: Ast281 UFO  
-   Link: <a href="https://home.ifa.hawaii.edu/users/meech/a281/handouts/Ast281_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://home.ifa.hawaii.edu/users/meech/a281/handouts/Ast281_UFO.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[UFO] groups... &quot;The briefer cited one UFO group which he said &quot;has substantial funds, strongly influences the editorial policy of a numb...</p></details>
+   Link:<a href="https://home.ifa.hawaii.edu/users/meech/a281/handouts/Ast281_UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://home.ifa.hawaii.edu/users/meech/a281/handouts/Ast281_UFO.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[UFO] groups... &quot;The briefer cited one UFO group which he said &quot;has substantial funds, strongly influences the editorial policy of a numb...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/-/en/Gerald-K-Haines-ebook/dp/B00B6QQGOG" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Gerald-K-Haines-ebook/dp/B00B6QQGOG</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA&#x27;s Role in the Study of UFOs, 1947-90...This is a fascinating, formally classified CIA research document on the subject of UFO&#x27;s...</p></details>
+   Link:<a href="https://www.amazon.nl/-/en/Gerald-K-Haines-ebook/dp/B00B6QQGOG" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Gerald-K-Haines-ebook/dp/B00B6QQGOG</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA&#x27;s Role in the Study of UFOs, 1947-90...This is a fascinating, formally classified CIA research document on the subject of UFO&#x27;s...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: en.wikisource.org  
    Title: Section 4  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...10 May 2024 — Background: Following high-level White House discussions on what to do if alie...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...10 May 2024 — Background: Following high-level White House discussions on what to do if alie...</p></details>
    Published: May 2024  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fas.orgCIA&#x27;s Role in the Study of UFOs, 1947-90During the late 1970s and 1980s, the Agency continued its low-key interest in UFOs and UFO...</p></details>
+   Link:<a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fas.orgCIA&#x27;s Role in the Study of UFOs, 1947-90During the late 1970s and 1980s, the Agency continued its low-key interest in UFOs and UFO...</p></details>

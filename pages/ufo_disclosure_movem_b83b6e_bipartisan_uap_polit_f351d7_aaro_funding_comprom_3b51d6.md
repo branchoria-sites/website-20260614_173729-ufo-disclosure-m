@@ -259,13 +259,13 @@ image: /assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7_aa
 
 ## Why lawmakers wanted a formal investigative body
 
-The political logic behind AARO was rooted in congressional frustration with fragmented UAP investigations. For years, responsibility for investigating unusual sightings moved between temporary programmes and task forces, creating recurring complaints that data collection was inconsistent, reporting channels were unclear, and Congress lacked a reliable institution to oversee. The National Defense Authorization Act (NDAA) for Fiscal Year 2022 directed the Department of Defense and the intelligence community to establish a more durable structure with specific reporting obligations to Congress. In July 2022, the Pentagon formally established AARO to carry out those duties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod announces the establishment of the all domain anomaly resolution office</span><span class="citation-popover-snippet">Department of WarDoD Announces the Establishment of the All-domain...20 Jul 2022 — Today, USD(I&amp;S) Hon. Ronald S. Moultrie informed the...</span></span></span>
+The political logic behind AARO was rooted in congressional frustration with fragmented UAP investigations. For years, responsibility for investigating unusual sightings moved between temporary programmes and task forces, creating recurring complaints that data collection was inconsistent, reporting channels were unclear, and Congress lacked a reliable institution to oversee. The National Defense Authorization Act (NDAA) for Fiscal Year 2022 directed the Department of Defense and the intelligence community to establish a more durable structure with specific reporting obligations to Congress. In July 2022, the Pentagon formally established AARO to carry out those duties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod announces the establishment of the all domain anomaly resolution office</span><span class="citation-popover-snippet">Department of WarDoD Announces the Establishment of the All-domain...20 Jul 2022 — Today, USD(I&amp;S) Hon. Ronald S. Moultrie informed the...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7_aaro_funding_comprom_3b51d6-Illustration-1-dark.svg" | relative_url }}" alt="AARO Funding Comprom 3 B51 D6 illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7_aaro_funding_comprom_3b51d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7_aaro_funding_comprom_3b51d6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Importantly, lawmakers supporting the office did not necessarily share the same beliefs about UAPs. Some viewed the issue primarily through a national-security lens after incidents involving unidentified objects near military facilities. Others were concerned about aviation safety, sensor performance, intelligence gaps, or classification practices. A third group focused on allegations that Congress itself might not be receiving complete information about highly restricted programmes. AARO allowed these different concerns to converge around a common institutional solution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">ESTABLISHMENT OF THE ALL DOMAIN ANOMALY RESOLUTION OFFICE</span><span class="citation-popover-snippet">Department of WarEstablishment of the All-domain Anomaly Resolution Office20 Jul 2022 — section 1683 ofthe NDAA for FY 2022: • The All-do...</span></span></span>
+Importantly, lawmakers supporting the office did not necessarily share the same beliefs about UAPs. Some viewed the issue primarily through a national-security lens after incidents involving unidentified objects near military facilities. Others were concerned about aviation safety, sensor performance, intelligence gaps, or classification practices. A third group focused on allegations that Congress itself might not be receiving complete information about highly restricted programmes. AARO allowed these different concerns to converge around a common institutional solution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">ESTABLISHMENT OF THE ALL DOMAIN ANOMALY RESOLUTION OFFICE</span><span class="citation-popover-snippet">Department of WarEstablishment of the All-domain Anomaly Resolution Office20 Jul 2022 — section 1683 ofthe NDAA for FY 2022: • The All-do...</span></span></span>
 
-The office's mandate reflected this compromise. Rather than focusing solely on traditional "flying saucer" reports, AARO was tasked with investigating anomalous objects across multiple domains: air, space, maritime environments, and so-called "transmedium" cases involving movement between domains. Its responsibilities included surveillance, intelligence analysis, scientific evaluation, threat assessment, and policy recommendations. This framing positioned UAPs as an oversight and security issue rather than a question about extraterrestrial visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of defense releases the annual report on unidentified anomalous phen</span><span class="citation-popover-snippet">Department of WarDepartment of Defense Releases the Annual Report on...14 Nov 2024 —... All-domain Anomaly Resolution Office&#x27;s Annual R...</span></span></span>
+The office's mandate reflected this compromise. Rather than focusing solely on traditional "flying saucer" reports, AARO was tasked with investigating anomalous objects across multiple domains: air, space, maritime environments, and so-called "transmedium" cases involving movement between domains. Its responsibilities included surveillance, intelligence analysis, scientific evaluation, threat assessment, and policy recommendations. This framing positioned UAPs as an oversight and security issue rather than a question about extraterrestrial visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of defense releases the annual report on unidentified anomalous phen</span><span class="citation-popover-snippet">Department of WarDepartment of Defense Releases the Annual Report on...14 Nov 2024 —... All-domain Anomaly Resolution Office&#x27;s Annual R...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eoPeh03hLPI" title="🌎 Pentagon&#x27;s AARO Testifies To Senate | National Security Concerns!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eoPeh03hLPI" target="_blank" rel="noopener noreferrer">🌎 Pentagon&#x27;s AARO Testifies To Senate | National Security Concerns!</a></p><p class="youtube-embed-meta">Channel: WorldCam &middot; Views: 3.9K &middot; Uploaded: November 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eoPeh03hLPI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eoPeh03hLPI">Open on YouTube</a></p></div></div></div>
@@ -274,13 +274,13 @@ The office's mandate reflected this compromise. Rather than focusing solely on t
 
 The creation of AARO did not automatically guarantee credibility. Almost immediately, funding became a central political battle.
 
-Senator Kirsten Gillibrand, who played a major role in writing the office into legislation, repeatedly argued that Congress had created a significant oversight mechanism but failed to provide the resources necessary for it to succeed. In early 2023, Gillibrand and Senator Marco Rubio led a bipartisan group of sixteen senators urging the administration to fully fund the office. They argued that inadequate funding would undermine Congress's own effort to improve UAP reporting, analysis, and oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span>
+Senator Kirsten Gillibrand, who played a major role in writing the office into legislation, repeatedly argued that Congress had created a significant oversight mechanism but failed to provide the resources necessary for it to succeed. In early 2023, Gillibrand and Senator Marco Rubio led a bipartisan group of sixteen senators urging the administration to fully fund the office. They argued that inadequate funding would undermine Congress's own effort to improve UAP reporting, analysis, and oversight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span>
 
-The issue became public during Senate [hearings]({{ 'hearings/' | relative_url }}), where Gillibrand criticised what she viewed as insufficient executive-branch support for the office. By June 2023 she announced that full funding for AARO had been secured in the Senate Armed Services Committee's NDAA markup after a sustained bipartisan push. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rollcall.com/2023/04/19/gillibrand-looks-to-bolster-ufo-office-budget/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollcall.com">[Roll Call]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollcall.com</span><span class="citation-popover-title">Kirsten Gillibrand, D-N.Y., panned the Biden administration</span><span class="citation-popover-snippet">Roll CallGillibrand looks to bolster UFO office budgetApril 19, 2023 — 19 Apr 2023 — In a rare open hearing Wednesday on the Pentagon&#x27;s s...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span>
+The issue became public during Senate [hearings]({{ 'hearings/' | relative_url }}), where Gillibrand criticised what she viewed as insufficient executive-branch support for the office. By June 2023 she announced that full funding for AARO had been secured in the Senate Armed Services Committee's NDAA markup after a sustained bipartisan push.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rollcall.com/2023/04/19/gillibrand-looks-to-bolster-ufo-office-budget/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollcall.com">[Roll Call]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollcall.com</span><span class="citation-popover-title">Kirsten Gillibrand, D-N.Y., panned the Biden administration</span><span class="citation-popover-snippet">Roll CallGillibrand looks to bolster UFO office budgetApril 19, 2023 — 19 Apr 2023 — In a rare open hearing Wednesday on the Pentagon&#x27;s s...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span>
 
-This funding dispute mattered politically because it exposed a deeper question: was Congress creating a genuine oversight institution or merely a symbolic office? Transparency advocates argued that without dedicated analysts, scientists, investigators, reporting systems, and historical research capabilities, AARO would become another under-resourced bureaucracy incapable of resolving major questions. Supporters therefore treated funding levels as a measure of whether the government was genuinely committed to investigating the issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span>
+This funding dispute mattered politically because it exposed a deeper question: was Congress creating a genuine oversight institution or merely a symbolic office? Transparency advocates argued that without dedicated analysts, scientists, investigators, reporting systems, and historical research capabilities, AARO would become another under-resourced bureaucracy incapable of resolving major questions. Supporters therefore treated funding levels as a measure of whether the government was genuinely committed to investigating the issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span>
 
-At the same time, many defence officials preferred a cautious, mission-focused office centred on threat assessment and data collection. Funding decisions therefore became a way of defining AARO's identity. Every budget debate effectively answered a governance question: should AARO operate primarily as a national-security investigative office, a scientific research body, a historical review project, or a disclosure mechanism? Congress never fully resolved those competing expectations, which helped make the office a compromise rather than a consensus solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span>
+At the same time, many defence officials preferred a cautious, mission-focused office centred on threat assessment and data collection. Funding decisions therefore became a way of defining AARO's identity. Every budget debate effectively answered a governance question: should AARO operate primarily as a national-security investigative office, a scientific research body, a historical review project, or a disclosure mechanism? Congress never fully resolved those competing expectations, which helped make the office a compromise rather than a consensus solution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/swxMIQIT4uE" title="LIVE: Senate Armed Services hearing on government office investigating UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=swxMIQIT4uE" target="_blank" rel="noopener noreferrer">LIVE: Senate Armed Services hearing on government office investigating UFOs</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 155.8K &middot; Uploaded: November 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=swxMIQIT4uE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=swxMIQIT4uE">Open on YouTube</a></p></div></div></div>
@@ -289,7 +289,7 @@ At the same time, many defence officials preferred a cautious, mission-focused o
 
 The core political bargain behind AARO can be summarised simply: Congress would provide resources and authority, while the office would provide measurable oversight outputs.
 
-Rather than demanding immediate answers to disputed claims, lawmakers required regular reporting, classified briefings, interagency coordination, and public accountability mechanisms. The office became something Congress could monitor through hearings, appropriations, and statutory reporting requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All...</span></span></span>
+Rather than demanding immediate answers to disputed claims, lawmakers required regular reporting, classified briefings, interagency coordination, and public accountability mechanisms. The office became something Congress could monitor through hearings, appropriations, and statutory reporting requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All...</span></span></span>
 
 This arrangement was attractive because it transformed a debate about belief into a debate about performance. Questions that had long been difficult to evaluate could now be approached through ordinary oversight metrics:
 
@@ -305,15 +305,15 @@ This arrangement was attractive because it transformed a debate about belief int
 
 </div>
 
-These are the kinds of questions congressional committees routinely ask about government programmes. By placing UAP investigations inside a formal bureaucracy, lawmakers created a framework that could survive even if public arguments about UFOs remained unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by pentagon press secretary maj gen pat ryder on the historical recor</span><span class="citation-popover-snippet">Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...Mar 8, 2024 — AARO assesses that all of the named and described a...</span></span></span>
+These are the kinds of questions congressional committees routinely ask about government programmes. By placing UAP investigations inside a formal bureaucracy, lawmakers created a framework that could survive even if public arguments about UFOs remained unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by pentagon press secretary maj gen pat ryder on the historical recor</span><span class="citation-popover-snippet">Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...Mar 8, 2024 — AARO assesses that all of the named and described a...</span></span></span>
 
-This institutionalisation also reduced political risk. A legislator could support AARO without publicly endorsing claims about recovered alien craft or hidden non-human technology. Likewise, a sceptical official could support the office because investigating unusual reports is consistent with intelligence and security responsibilities. The compromise therefore expanded the coalition supporting UAP oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span>
+This institutionalisation also reduced political risk. A legislator could support AARO without publicly endorsing claims about recovered alien craft or hidden non-human technology. Likewise, a sceptical official could support the office because investigating unusual reports is consistent with intelligence and security responsibilities. The compromise therefore expanded the coalition supporting UAP oversight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7_aaro_funding_comprom_3b51d6-Illustration-2-dark.svg" | relative_url }}" alt="AARO Funding Comprom 3 B51 D6 illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7_aaro_funding_comprom_3b51d6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7_aaro_funding_comprom_3b51d6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical review and the limits of disclosure
 
-One reason AARO became controversial within the disclosure movement is that Congress gave it responsibilities extending beyond current sightings. Legislative mandates required the office to review the historical record relating to UAP investigations and allegations that information may have been withheld from Congress or the public. The office's authority extended to examining records reaching back decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">All-domain Anomaly Resolution Office</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office</span></span></span>
+One reason AARO became controversial within the disclosure movement is that Congress gave it responsibilities extending beyond current sightings. Legislative mandates required the office to review the historical record relating to UAP investigations and allegations that information may have been withheld from Congress or the public. The office's authority extended to examining records reaching back decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">All-domain Anomaly Resolution Office</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office</span></span></span>
 
 This historical mission raised expectations among disclosure advocates. Many hoped AARO would either validate or definitively refute long-standing claims involving crash retrieval programmes, reverse-engineering projects, and alleged concealment efforts.
 
@@ -321,213 +321,213 @@ In March 2024, AARO released the first volume of its historical review. The repo
 
 Politically, this outcome highlighted both the strengths and weaknesses of the oversight compromise.
 
-Supporters argued that AARO had fulfilled its mandate by conducting reviews, interviewing witnesses, examining archives, and reporting conclusions publicly. From this perspective, the office demonstrated exactly why Congress created it: to replace speculation with documented investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by pentagon press secretary maj gen pat ryder on the historical recor</span><span class="citation-popover-snippet">Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...Mar 8, 2024 — AARO assesses that all of the named and described a...</span></span></span>
+Supporters argued that AARO had fulfilled its mandate by conducting reviews, interviewing witnesses, examining archives, and reporting conclusions publicly. From this perspective, the office demonstrated exactly why Congress created it: to replace speculation with documented investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by pentagon press secretary maj gen pat ryder on the historical recor</span><span class="citation-popover-snippet">Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...Mar 8, 2024 — AARO assesses that all of the named and described a...</span></span></span>
 
-Critics, however, argued that the office was too closely tied to the institutions it was investigating. Some [researchers]({{ 'researchers/' | relative_url }}) and whistleblower advocates contended that AARO's historical review did not fully address key allegations or relied excessively on existing government records. These criticisms appeared both in congressional discussions and among independent researchers reviewing the report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">but there are a few problems</span><span class="citation-popover-snippet">The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...Mar 14, 2024 — The long-awaited historical report on UAP by the...</span></span></span> Reddit The dispute revealed a central limitation of the compromise: an office created to improve transparency still operates within the national-sec <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">tigate past USG-sponsored UAP investigation efforts and the claims...</span></span></span> urity system. As a result, some observers view AARO as an instrument of accountability, while others see it as part of the bureaucracy whose actions are under scrutiny.
+Critics, however, argued that the office was too closely tied to the institutions it was investigating. Some [researchers]({{ 'researchers/' | relative_url }}) and whistleblower advocates contended that AARO's historical review did not fully address key allegations or relied excessively on existing government records. These criticisms appeared both in congressional discussions and among independent researchers reviewing the report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">but there are a few problems</span><span class="citation-popover-snippet">The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...Mar 14, 2024 — The long-awaited historical report on UAP by the...</span></span></span> Reddit The dispute revealed a central limitation of the compromise: an office created to improve transparency still operates within the national-sec<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">tigate past USG-sponsored UAP investigation efforts and the claims...</span></span></span> urity system. As a result, some observers view AARO as an instrument of accountability, while others see it as part of the bureaucracy whose actions are under scrutiny.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v5unVusIOWQ" title="Sen. Gillibrand Opening Remarks | SASC Hearing on AARO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v5unVusIOWQ" target="_blank" rel="noopener noreferrer">Sen. Gillibrand Opening Remarks | SASC Hearing on AARO</a></p><p class="youtube-embed-meta">Channel: U.S. Senator Kirsten Gillibrand &middot; Views: 4.8K &middot; Uploaded: April 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v5unVusIOWQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v5unVusIOWQ">Open on YouTube</a></p></div></div></div>
 
 ## What AARO can and cannot settle politically
 
-AARO can investigate cases, improve reporting systems, coordinate agencies, analyse [sensor data]({{ 'sensor-data/' | relative_url }}), review historical records, and provide Congress with recurring assessments. It can make the government more accountable in procedural terms. It cannot force political agreement about the meaning of UAPs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.org">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.org</span><span class="citation-popover-snippet">Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</span></span></span>
+AARO can investigate cases, improve reporting systems, coordinate agencies, analyse [sensor data]({{ 'sensor-data/' | relative_url }}), review historical records, and provide Congress with recurring assessments. It can make the government more accountable in procedural terms. It cannot force political agreement about the meaning of UAPs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.org">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.org</span><span class="citation-popover-snippet">Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</span></span></span>
 
-The office's annual reporting illustrates this reality. AARO has processed hundreds of reports and expanded the government's ability to track and analyse unusual observations. Many cases have been attributed to balloons, [drones]({{ 'drones/' | relative_url }}), birds, clutter, sensor effects, or other conventional [explanations]({{ 'explanations/' | relative_url }}). Others remain unresolved because the available data are incomplete or insufficient. AARO itself has repeatedly argued that unresolved status does not automatically imply extraordinary origins. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> For disclosure advocates, unresolved cases can be evidence that further investigation is needed. For sceptics, unresolved cases often demonstrate the limits of available data. AARO cannot eliminate this interpretive divide because its role is investigative rather than philosophical. Its findings can inform the debate, but they cannot compel acceptance of a particular worldview. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</span></span></span>
+The office's annual reporting illustrates this reality. AARO has processed hundreds of reports and expanded the government's ability to track and analyse unusual observations. Many cases have been attributed to balloons, [drones]({{ 'drones/' | relative_url }}), birds, clutter, sensor effects, or other conventional [explanations]({{ 'explanations/' | relative_url }}). Others remain unresolved because the available data are incomplete or insufficient. AARO itself has repeatedly argued that unresolved status does not automatically imply extraordinary origins. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span> For disclosure advocates, unresolved cases can be evidence that further investigation is needed. For sceptics, unresolved cases often demonstrate the limits of available data. AARO cannot eliminate this interpretive divide because its role is investigative rather than philosophical. Its findings can inform the debate, but they cannot compel acceptance of a particular worldview.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</span></span></span>
 
-This explains why AARO remains central to the bipartisan politics of UAP transparency. The office does not require lawmakers to agree on whether UAPs represent advanced foreign technology, intelligence failures, natural phenomena, sensor artefacts, or something more unusual. Instead, it gives Congress a funded institution whose performance can be assessed through hearings, budgets, reports, and oversight. That is the essence of the compromise: transparency pursued through governance mechanisms rather than through prior agreement about the ultimate nature of the phenomenon itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span>
+This explains why AARO remains central to the bipartisan politics of UAP transparency. The office does not require lawmakers to agree on whether UAPs represent advanced foreign technology, intelligence failures, natural phenomena, sensor artefacts, or something more unusual. Instead, it gives Congress a funded institution whose performance can be assessed through hearings, budgets, reports, and oversight. That is the essence of the compromise: transparency pursued through governance mechanisms rather than through prior agreement about the ultimate nature of the phenomenon itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gillibrand.senate.gov">[Kirsten Gillibrand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gillibrand.senate.gov</span><span class="citation-popover-title">gillibrand secures full funding for uap office in senate defense bill markup</span><span class="citation-popover-snippet">Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7_aaro_funding_comprom_3b51d6-Illustration-3-dark.svg" | relative_url }}" alt="AARO Funding Comprom 3 B51 D6 illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7_aaro_funding_comprom_3b51d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_bipartisan_uap_polit_f351d7_aaro_funding_comprom_3b51d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to AARO Funding Comprom 3 B51 D6. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to AARO Funding Comprom 3 B51 D6. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what governments know, disclosure debates, and limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims, institutions, and belief systems intersect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There">UFO: The Inside Story of the US Government&#x27;s Search for Alien...</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%3A+The+Inside+Story+of+the+US+Government%27s+Search+for+Alien+Life+Here%E2%80%94and+Out+There&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-funding-comprom-3-b51-d6-ufo-disclosure-movement-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ This explains why AARO remains central to the bipartisan politics of UAP transpa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ This explains why AARO remains central to the bipartisan politics of UAP transpa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ This explains why AARO remains central to the bipartisan politics of UAP transpa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ This explains why AARO remains central to the bipartisan politics of UAP transpa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ This explains why AARO remains central to the bipartisan politics of UAP transpa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,201 +733,201 @@ This explains why AARO remains central to the bipartisan politics of UAP transpa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: dod announces the establishment of the all domain anomaly resolution office  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDoD Announces the Establishment of the All-domain...20 Jul 2022 — Today, USD(I&amp;S) Hon. Ronald S. Moultrie informed the...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDoD Announces the Establishment of the All-domain...20 Jul 2022 — Today, USD(I&amp;S) Hon. Ronald S. Moultrie informed the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: ESTABLISHMENT OF THE ALL DOMAIN ANOMALY RESOLUTION OFFICE  
-   Link: <a href="https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarEstablishment of the All-domain Anomaly Resolution Office20 Jul 2022 — section 1683 ofthe NDAA for FY 2022: • The All-do...</p></details>
+   Link:<a href="https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarEstablishment of the All-domain Anomaly Resolution Office20 Jul 2022 — section 1683 ofthe NDAA for FY 2022: • The All-do...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gillibrand.senate.gov  
    Title: gillibrand secures full funding for uap office in senate defense bill markup  
-   Link: <a href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow">https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</p></details>
+   Link:<a href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/" target="_blank" rel="noopener noreferrer nofollow">https://www.gillibrand.senate.gov/news/press/release/gillibrand-secures-full-funding-for-uap-office-in-senate-defense-bill-markup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kirsten GillibrandGillibrand Secures Full Funding For UAP Office In Senate...23 Jun 2023 — US Senator Kirsten Gillibrand announced that...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gillibrand.senate.gov  
-   Link: <a href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/" target="_blank" rel="noopener noreferrer nofollow">https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirsten GillibrandGillibrand, Rubio Lead 16 Senators In Bipartisan Push For...16 Feb 2023 — Amid heightened focus on airborne national s...</p></details>
+   Link:<a href="https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/" target="_blank" rel="noopener noreferrer nofollow">https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kirsten GillibrandGillibrand, Rubio Lead 16 Senators In Bipartisan Push For...16 Feb 2023 — Amid heightened focus on airborne national s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Releases the Annual Report on...14 Nov 2024 —... All-domain Anomaly Resolution Office&#x27;s Annual R...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Releases the Annual Report on...14 Nov 2024 —... All-domain Anomaly Resolution Office&#x27;s Annual R...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: armed-services.senate.gov  
    Title: 11 19 24 sub transcript  
-   Link: <a href="https://www.armed-services.senate.gov/download/11-19-24_-sub---transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/11-19-24_-sub---transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>historical record relating. 23 to UAP. We welcome any former or current government. 24 civilian, contractor...Read more...</p></details>
+   Link:<a href="https://www.armed-services.senate.gov/download/11-19-24_-sub---transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/11-19-24_-sub---transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>historical record relating. 23 to UAP. We welcome any former or current government. 24 civilian, contractor...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: statement by pentagon press secretary maj gen pat ryder on the historical recor  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...Mar 8, 2024 — AARO assesses that all of the named and described a...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by Pentagon Press Secretary Maj. Gen. Pat...Mar 8, 2024 — AARO assesses that all of the named and described a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tigate past USG-sponsored UAP investigation efforts and the claims...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tigate past USG-sponsored UAP investigation efforts and the claims...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: war.gov  
    Title: the department of defense launches the all domain anomaly resolution office web  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Defense Launches the All-domain...Aug 31, 2023 — The All-domain Anomaly Resolution Office&#x27;s new website provides the p...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Defense Launches the All-domain...Aug 31, 2023 — The All-domain Anomaly Resolution Office&#x27;s new website provides the p...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.org  
-   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
+   Link:<a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Americans Resident Overseas: AAROThe Association of Americans Resident Overseas (AARO), founded in 1973 is a global, non-p...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gw6nn1/aaro_senate_hearing_a_detailed_overview_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gw6nn1/aaro_senate_hearing_a_detailed_overview_of_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a detailed overview of the hearing and criticisms: r/UFOsThe point of this post is to go over observations, criticisms, and concerns tha...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gw6nn1/aaro_senate_hearing_a_detailed_overview_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gw6nn1/aaro_senate_hearing_a_detailed_overview_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a detailed overview of the hearing and criticisms: r/UFOsThe point of this post is to go over observations, criticisms, and concerns tha...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov. 19, 2024 the head of the Pentagon&#x27;s UFO office AARO said it actually shows an infrared camera&#x27;s inability to tell two objects...Rea...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nov. 19, 2024 the head of the Pentagon&#x27;s UFO office AARO said it actually shows an infrared camera&#x27;s inability to tell two objects...Rea...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.com  
    Title: Your Partner in Group Reporting | CPM software & more  
-   Link: <a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide range of services, online support...Read more...</p></details>
+   Link:<a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide range of services, online support...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
    Title: Resources MEMO S · Deputy Secretary of Defense  
-   Link: <a href="https://www.aaro.mil/Resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Resources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesMEMOS · Deputy Secretary of Defense - Establishment of the All-domain Anomaly Resolution Office: July 15, 2022; MEMOS · USD(I&amp;S...</p></details>
+   Link:<a href="https://www.aaro.mil/Resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Resources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesMEMOS · Deputy Secretary of Defense - Establishment of the All-domain Anomaly Resolution Office: July 15, 2022; MEMOS · USD(I&amp;S...</p></details>
    Published: July 15, 2022  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Investigation of UFO reports by the United States government  
-   Link: <a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of UFO reports by the United States governmentInvestigation of UFO reports by the United States government has taken pla...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of UFO reports by the United States governmentInvestigation of UFO reports by the United States government has taken pla...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rollcall.com  
    Title: Kirsten Gillibrand, D-N.Y., panned the Biden administration  
-   Link: <a href="https://rollcall.com/2023/04/19/gillibrand-looks-to-bolster-ufo-office-budget/" target="_blank" rel="noopener noreferrer nofollow">https://rollcall.com/2023/04/19/gillibrand-looks-to-bolster-ufo-office-budget/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roll CallGillibrand looks to bolster UFO office budgetApril 19, 2023 — 19 Apr 2023 — In a rare open hearing Wednesday on the Pentagon&#x27;s s...</p></details>
+   Link:<a href="https://rollcall.com/2023/04/19/gillibrand-looks-to-bolster-ufo-office-budget/" target="_blank" rel="noopener noreferrer nofollow">https://rollcall.com/2023/04/19/gillibrand-looks-to-bolster-ufo-office-budget/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roll CallGillibrand looks to bolster UFO office budgetApril 19, 2023 — 19 Apr 2023 — In a rare open hearing Wednesday on the Pentagon&#x27;s s...</p></details>
    Published: April 19, 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thedebrief.org  
    Title: but there are a few problems  
-   Link: <a href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...Mar 14, 2024 — The long-awaited historical report on UAP by the...</p></details>
+   Link:<a href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...Mar 14, 2024 — The long-awaited historical report on UAP by the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: depic.ai  
-   Link: <a href="https://depic.ai/entity/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://depic.ai/entity/All-domain_Anomaly_Resolution_Office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office | depic.aiIts primary mission is to standardize and centralize the collection, analysis, and reporti...</p></details>
+   Link:<a href="https://depic.ai/entity/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://depic.ai/entity/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office | depic.aiIts primary mission is to standardize and centralize the collection, analysis, and reporti...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
+   Link:<a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: fedscoop.com  
-   Link: <a href="https://fedscoop.com/radio/the-head-of-the-dods-aaro-office-testified-on-a-handful-of-major-uap-reports-and-how-the-office-was-able-to-disprove-evidence-of-any-transmedium-objects/" target="_blank" rel="noopener noreferrer nofollow">https://fedscoop.com/radio/the-head-of-the-dods-aaro-office-testified-on-a-handful-of-major-uap-reports-and-how-the-office-was-able-to-disprove-evidence-of-any-transmedium-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon reviews findings on major UAP reports in...Nov 20, 2024 — The head of the DOD&#x27;s AARO office testified on a handful of major...</p></details>
+   Link:<a href="https://fedscoop.com/radio/the-head-of-the-dods-aaro-office-testified-on-a-handful-of-major-uap-reports-and-how-the-office-was-able-to-disprove-evidence-of-any-transmedium-objects/" target="_blank" rel="noopener noreferrer nofollow">https://fedscoop.com/radio/the-head-of-the-dods-aaro-office-testified-on-a-handful-of-major-uap-reports-and-how-the-office-was-able-to-disprove-evidence-of-any-transmedium-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon reviews findings on major UAP reports in...Nov 20, 2024 — The head of the DOD&#x27;s AARO office testified on a handful of major...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...18 Oct 2023 — A new Pentagon report confirms that AARO has received a total of 801...</p></details>
+   Link:<a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...18 Oct 2023 — A new Pentagon report confirms that AARO has received a total of 801...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: executivegov.com  
    Title: 16 senators sign letter pushing for full funding of airborne sightings office  
-   Link: <a href="https://www.executivegov.com/articles/16-senators-sign-letter-pushing-for-full-funding-of-airborne-sightings-office" target="_blank" rel="noopener noreferrer nofollow">https://www.executivegov.com/articles/16-senators-sign-letter-pushing-for-full-funding-of-airborne-sightings-office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sens. Kirsten Gillibrand, Marco Rubio Oversee Bipartisan...21 Feb 2023 — 16 Senators Sign Letter Pushing for Full Funding of Airborne Si...</p></details>
+   Link:<a href="https://www.executivegov.com/articles/16-senators-sign-letter-pushing-for-full-funding-of-airborne-sightings-office" target="_blank" rel="noopener noreferrer nofollow">https://www.executivegov.com/articles/16-senators-sign-letter-pushing-for-full-funding-of-airborne-sightings-office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sens. Kirsten Gillibrand, Marco Rubio Oversee Bipartisan...21 Feb 2023 — 16 Senators Sign Letter Pushing for Full Funding of Airborne Si...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;United States Department Of Defense And The...13 Nov 2024 — “AARO&#x27;s Historical Report,” The Debrief, March 14, 2024,[https://thedebrief.o...&quot;](https://thedebrief.o...&quot;)...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;United States Department Of Defense And The...13 Nov 2024 — “AARO&#x27;s Historical Report,” The Debrief, March 14, 2024,[https://thedebrief.o...&quot;](https://thedebrief.o...&quot;)...</p></details>
    Published: March 14, 2024  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 13, 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direc...</p></details>
+   Link:<a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 13, 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direc...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: defensescoop.com  
    Title: uap ufo military intercepts north america fy 2026 ndaa  
-   Link: <a href="https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress wants to know more about the military&#x27;s UAP...10 Dec 2025 — The fiscal 2026 National Defense Authorization Act includes three p...</p></details>
+   Link:<a href="https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congress wants to know more about the military&#x27;s UAP...10 Dec 2025 — The fiscal 2026 National Defense Authorization Act includes three p...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: defensescoop.com  
    Title: uap aaro findings go fast puerto rico mt etna objects  
-   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...Nov 19, 2024 — The head of the Defense Department&#x27;s All-Domain Anomaly Resol...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...Nov 19, 2024 — The head of the Defense Department&#x27;s All-Domain Anomaly Resol...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dvidshub.net  
    Title: pr 007 uap report closed not anomalous europe 2022  
-   Link: <a href="https://www.dvidshub.net/video/977838/pr-007-uap-report-closed-not-anomalous-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977838/pr-007-uap-report-closed-not-anomalous-europe-2022</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-007, UAP Report Closed as Not Anomalous, Europe 2022The United States European Command submitted a report of an unidentified anomalous...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/977838/pr-007-uap-report-closed-not-anomalous-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977838/pr-007-uap-report-closed-not-anomalous-europe-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR-007, UAP Report Closed as Not Anomalous, Europe 2022The United States European Command submitted a report of an unidentified anomalous...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13, 2023 — 8 “Report on the Historical Record... AARO&#x27;s Historical Report,” The Debrief, March...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13, 2023 — 8 “Report on the Historical Record... AARO&#x27;s Historical Report,” The Debrief, March...</p></details>
 
 1
 

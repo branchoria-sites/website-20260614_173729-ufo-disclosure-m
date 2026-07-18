@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-project/
 description: Focused pages that expand on Blue Book.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_project_blue_book_le_e0fb18
 parent_title: Blue Book
@@ -16,7 +16,7 @@ parent_permalink: /blue-book/
 
 # Explore Topics in Blue Book
 
-The following pages expand on the main **[Blue Book]({{ '/blue-book/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Blue Book]({{ '/blue-book/' | relative_url }})** page and cover its key branches in.
 
 - [701 Unidentified]({{ '/701-unidentified/' | relative_url }})
 - [Blue Book Archives 272 E3 D]({{ '/blue-book-archives-272-e3-d/' | relative_url }})

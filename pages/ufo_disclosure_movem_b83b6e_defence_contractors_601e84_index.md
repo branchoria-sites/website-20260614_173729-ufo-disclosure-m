@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-defence/
 description: Focused pages that expand on Contractors.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_defence_contractors_601e84
 parent_title: Contractors
@@ -16,7 +16,7 @@ parent_permalink: /contractors/
 
 # Explore Topics in Contractors
 
-The following pages expand on the main **[Contractors]({{ '/contractors/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Contractors]({{ '/contractors/' | relative_url }})** page and cover its key branches in.
 
 - [Bigelow Aawsap Trail 89986 F]({{ '/bigelow-aawsap-trail-89986-f/' | relative_url }})
 - [Contractor Custody C 850 A19]({{ '/contractor-custody-c-850-a19/' | relative_url }})

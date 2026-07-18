@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-civilian/
 description: Focused pages that expand on Researchers.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_civilian_ufo_researc_0bfef2
 parent_title: Researchers
@@ -16,7 +16,7 @@ parent_permalink: /researchers/
 
 # Explore Topics in Researchers
 
-The following pages expand on the main **[Researchers]({{ '/researchers/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Researchers]({{ '/researchers/' | relative_url }})** page and cover its key branches in.
 
 - [Black Vault Foia Arc 9 E6 F30]({{ '/black-vault-foia-arc-9-e6-f30/' | relative_url }})
 - [Blue Book Indexing 6 C745 D]({{ '/blue-book-indexing-6-c745-d/' | relative_url }})

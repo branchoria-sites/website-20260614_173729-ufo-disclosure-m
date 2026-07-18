@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-index/
 description: Focused pages that expand on UFO Disclosure Movement.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e
 parent_title: UFO Disclosure Movement
@@ -16,7 +16,7 @@ parent_permalink: /ufo-disclosure-movement/
 
 # Explore Topics in UFO Disclosure Movement
 
-The following pages expand on the main **[UFO Disclosure Movement]({{ '/ufo-disclosure-movement/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UFO Disclosure Movement]({{ '/ufo-disclosure-movement/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Reports]({{ '/aaro-reports/' | relative_url }})
 - [Alien Claims]({{ '/alien-claims/' | relative_url }})

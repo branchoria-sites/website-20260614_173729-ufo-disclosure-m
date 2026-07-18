@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-congress/
 description: Focused pages that expand on Hearings.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_congress_uap_hearing_397803
 parent_title: Hearings
@@ -16,7 +16,7 @@ parent_permalink: /hearings/
 
 # Explore Topics in Hearings
 
-The following pages expand on the main **[Hearings]({{ '/hearings/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Hearings]({{ '/hearings/' | relative_url }})** page and cover its key branches in.
 
 - [Fravor Testimony Lim 3 F269 C]({{ '/fravor-testimony-lim-3-f269-c/' | relative_url }})
 - [Grusch Authority Pro 0 C82 A6]({{ '/grusch-authority-pro-0-c82-a6/' | relative_url }})

@@ -444,23 +444,23 @@ The governance issue is straightforward. UAP reports often sit at the intersecti
 
 ## Who disclosure laws are meant to protect
 
-The most important legal anchor is 50 U.S.C. § 3373b, created through the fiscal year 2023 National Defence Authorization Act. It requires the US Secretary of Defense, through the UAP office and in consultation with the Director of National Intelligence, to establish a secure mechanism for authorised reporting of two broad categories: UAP events themselves, and any government or contractor programme related to UAP, including material retrieval, analysis, reverse engineering, research and development, detection and tracking, testing, and security enforcement. The law is aimed not only at pilots who see something unusual, but also at people who may know about programmes, records, funding, or contractor work connected to UAP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most important legal anchor is 50 U.S.C. § 3373b, created through the fiscal year 2023 National Defence Authorization Act. It requires the US Secretary of Defense, through the UAP office and in consultation with the Director of National Intelligence, to establish a secure mechanism for authorised reporting of two broad categories: UAP events themselves, and any government or contractor programme related to UAP, including material retrieval, analysis, reverse engineering, research and development, detection and tracking, testing, and security enforcement. The law is aimed not only at pilots who see something unusual, but also at people who may know about programmes, records, funding, or contractor work connected to UAP.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That matters because many potential UAP witnesses are not ordinary public tipsters. They may be service members, intelligence officials, civilian defence employees, cleared [contractors]({{ 'contractors/' | relative_url }}), subcontractors, or former personnel who signed secrecy agreements. The statute explicitly says an authorised disclosure through the proper mechanism is not subject to a nondisclosure agreement, is treated as complying with classified-information rules under Executive Order 13526 and nuclear secrecy law, and is not a violation of certain laws governing classified disclosures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That matters because many potential UAP witnesses are not ordinary public tipsters. They may be service members, intelligence officials, civilian defence employees, cleared [contractors]({{ 'contractors/' | relative_url }}), subcontractors, or former personnel who signed secrecy agreements. The statute explicitly says an authorised disclosure through the proper mechanism is not subject to a nondisclosure agreement, is treated as complying with classified-information rules under Executive Order 13526 and nuclear secrecy law, and is not a violation of certain laws governing classified disclosures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The law also tries to prevent the most career-damaging forms of retaliation. It prohibits officials with personnel authority from taking, failing to take, or threatening personnel actions — including suspension or revocation of security clearances and termination of employment — as reprisal for an authorised UAP disclosure. For national security workers, clearance retaliation is especially serious: losing access can mean losing the job, future assignments, or professional standing even without a public firing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The law also tries to prevent the most career-damaging forms of retaliation. It prohibits officials with personnel authority from taking, failing to take, or threatening personnel actions — including suspension or revocation of security clearances and termination of employment — as reprisal for an authorised UAP disclosure. For national security workers, clearance retaliation is especially serious: losing access can mean losing the job, future assignments, or professional standing even without a public firing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The House Office of the Whistleblower Ombuds identifies the relevant congressional committees as Intelligence, Armed Services, and Oversight, reflecting the unusual spread of UAP reporting across classified intelligence, defence operations, federal employment, and public-records questions. That committee map shows why UAP whistleblowing is not just a UFO culture issue; it is also a jurisdictional problem about who in Congress is allowed and equipped to hear protected claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whistleblower.house.gov/resources/all-resources/committee-jurisdiction-tool/whistleblowing-executive-branch-employee/unidentified-anomalous-phenomena-uap-whistleblowing-under-james-m-inhofe-national-defense-authorization-act-fiscal-year-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whistleblower.house.gov">[Office of the Whistleblower Ombuds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whistleblower.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The House Office of the Whistleblower Ombuds identifies the relevant congressional committees as Intelligence, Armed Services, and Oversight, reflecting the unusual spread of UAP reporting across classified intelligence, defence operations, federal employment, and public-records questions. That committee map shows why UAP whistleblowing is not just a UFO culture issue; it is also a jurisdictional problem about who in Congress is allowed and equipped to hear protected claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://whistleblower.house.gov/resources/all-resources/committee-jurisdiction-tool/whistleblowing-executive-branch-employee/unidentified-anomalous-phenomena-uap-whistleblowing-under-james-m-inhofe-national-defense-authorization-act-fiscal-year-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whistleblower.house.gov">[Office of the Whistleblower Ombuds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whistleblower.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b-Illustration-1-dark.svg" | relative_url }}" alt="Whistleblowers illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_disclosure_movem_b83b6e_uap_whistleblower_pr_2c496b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What safe reporting is supposed to do
 
-A safe UAP reporting channel has to solve two problems at once. It must let witnesses speak candidly to authorised investigators, while also preventing unauthorised public release of classified military, intelligence, or special access information. Section 3373b therefore requires the reporting mechanism to protect classified systems, programmes, and compartmented activities, and to be administered by appropriately cleared Defence Department, intelligence community, or contractor personnel assigned to the UAP office. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A safe UAP reporting channel has to solve two problems at once. It must let witnesses speak candidly to authorised investigators, while also preventing unauthorised public release of classified military, intelligence, or special access information. Section 3373b therefore requires the reporting mechanism to protect classified systems, programmes, and compartmented activities, and to be administered by appropriately cleared Defence Department, intelligence community, or contractor personnel assigned to the UAP office.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The law also creates a route from the reporting mechanism to Congress. If an authorised disclosure appears to involve a restricted access activity, special access programme, or compartmented access programme that has not been clearly reported to the defence or intelligence committees, the Secretary of Defense must report it to those committees and congressional leadership within 72 hours of making that determination. In theory, this gives witnesses a lawful path around the fear that an alleged hidden programme could simply be buried inside the same bureaucracy they are reporting about. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The law also creates a route from the reporting mechanism to Congress. If an authorised disclosure appears to involve a restricted access activity, special access programme, or compartmented access programme that has not been clearly reported to the defence or intelligence committees, the Secretary of Defense must report it to those committees and congressional leadership within 72 hours of making that determination. In theory, this gives witnesses a lawful path around the fear that an alleged hidden programme could simply be buried inside the same bureaucracy they are reporting about.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-AARO, the All-domain Anomaly Resolution Office, describes its current reporting route in narrower practical terms. Its public reporting page says current and former US government employees, service members, or contractor personnel may submit a UAP programme report if they have first-hand knowledge of a US government programme or activity related to UAP. It also warns that classified national security information should not be submitted through the public-facing form and must instead be provided to AARO in a secure location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">AARO Submit A Report...</span></span></span>
+AARO, the All-domain Anomaly Resolution Office, describes its current reporting route in narrower practical terms. Its public reporting page says current and former US government employees, service members, or contractor personnel may submit a UAP programme report if they have first-hand knowledge of a US government programme or activity related to UAP. It also warns that classified national security information should not be submitted through the public-facing form and must instead be provided to AARO in a secure location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">AARO Submit A Report...</span></span></span>
 
 That distinction is crucial. UAP whistleblower protection is not a licence to post classified claims online. It is designed to channel sensitive testimony into a protected official process so that investigators can examine it without exposing unrelated defence capabilities, intelligence sources, nuclear controls, or contractor secrets. The strongest version of the disclosure argument is not “let everyone say everything publicly”; it is “make sure lawful reporting cannot be blocked by nondisclosure agreements, clearance threats, or organisational stigma”.
 
@@ -468,11 +468,11 @@ That distinction is crucial. UAP whistleblower protection is not a licence to po
 
 Retaliation fears affect UAP evidence before anyone can assess whether a sighting is exotic, ordinary, misidentified, or fabricated. If pilots, operators, analysts, or contractors expect ridicule or career harm, they may not report promptly, may leave out detail, or may share information only informally with trusted colleagues. That weakens later investigation because UAP cases often depend on timing, sensor context, witness identity, location, chain of custody, and whether multiple sources can be correlated.
 
-Ryan Graves, a former US Navy pilot, put the stigma problem directly in written testimony for the July 2023 House Oversight hearing. He said UAP were “grossly under reported”, that military and commercial aircrew were seeing them, and that stigma “silences commercial pilots who fear professional repercussions”. He described a 2014 incident off Virginia Beach in which two F/A-18 aircraft allegedly encountered a dark cube inside a clear sphere, leading the mission commander to terminate the flight; according to his testimony, the squadron filed a safety report but received no official acknowledgement and had no further mechanism for reporting the sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">CHRG 118hhrg53022</span></span></span>
+Ryan Graves, a former US Navy pilot, put the stigma problem directly in written testimony for the July 2023 House Oversight hearing. He said UAP were “grossly under reported”, that military and commercial aircrew were seeing them, and that stigma “silences commercial pilots who fear professional repercussions”. He described a 2014 incident off Virginia Beach in which two F/A-18 aircraft allegedly encountered a dark cube inside a clear sphere, leading the mission commander to terminate the flight; according to his testimony, the squadron filed a safety report but received no official acknowledgement and had no further mechanism for reporting the sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">CHRG 118hhrg53022</span></span></span>
 
-NASA’s 2023 independent UAP study reached a similar conclusion from a data-quality perspective. The panel said there was no standardised civilian UAP reporting system, leaving sparse and incomplete data without proper curation or vetting. It also found that negative perceptions around UAP reporting almost certainly lead to data attrition, meaning potentially useful reports are lost or degraded before scientific or safety analysis can begin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+NASA’s 2023 independent UAP study reached a similar conclusion from a data-quality perspective. The panel said there was no standardised civilian UAP reporting system, leaving sparse and incomplete data without proper curation or vetting. It also found that negative perceptions around UAP reporting almost certainly lead to data attrition, meaning potentially useful reports are lost or degraded before scientific or safety analysis can begin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same NASA report pointed to the Aviation Safety Reporting System, a confidential voluntary system NASA administers for the Federal Aviation Administration, as a promising model for commercial pilot UAP reporting. The point is not that every UAP report belongs in the same database as ordinary aviation hazards. It is that aviation already has a culture and infrastructure for confidential safety reporting, and UAP policy can learn from that model: protect the reporter, standardise the report, preserve the data, and separate safety learning from blame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same NASA report pointed to the Aviation Safety Reporting System, a confidential voluntary system NASA administers for the Federal Aviation Administration, as a promising model for commercial pilot UAP reporting. The point is not that every UAP report belongs in the same database as ordinary aviation hazards. It is that aviation already has a culture and infrastructure for confidential safety reporting, and UAP policy can learn from that model: protect the reporter, standardise the report, preserve the data, and separate safety learning from blame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/reQUctvwcw8" title="BREAKING NEWS: UAP Whistleblower Details Claims US Govt Found Non-Human Intelligent Life In 1930s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=reQUctvwcw8" target="_blank" rel="noopener noreferrer">BREAKING NEWS: UAP Whistleblower Details Claims US Govt Found Non-Human Intelligent Life In 1930s</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 346.9K &middot; Uploaded: July 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=reQUctvwcw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=reQUctvwcw8">Open on YouTube</a></p></div></div></div>
@@ -481,11 +481,11 @@ The same NASA report pointed to the Aviation Safety Reporting System, a confiden
 
 UAP whistleblower protections become most consequential where the allegation is not just “I saw an object” but “there is a hidden programme, contractor compartment, or funding stream that Congress has not properly overseen”. These are the claims that attract the most public attention, but they are also the hardest to verify because the relevant documents, facilities, personnel lists, budget lines, and access controls may be classified or compartmented.
 
-Section 3373b reflects that problem by specifically covering government or contractor programmes related to UAP, including retrieval, analysis, reverse engineering, research and development, testing, and security enforcement. It also requires agencies and contractors that supported UAP-related activities to search for nondisclosure orders and provide relevant agreements to AARO, which must make those records accessible to the defence and intelligence committees and congressional leadership. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Section 3373b reflects that problem by specifically covering government or contractor programmes related to UAP, including retrieval, analysis, reverse engineering, research and development, testing, and security enforcement. It also requires agencies and contractors that supported UAP-related activities to search for nondisclosure orders and provide relevant agreements to AARO, which must make those records accessible to the defence and intelligence committees and congressional leadership.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscode.house.gov">[U.S. Code]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscode.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is why whistleblower protection sits near the centre of the disclosure movement’s institutional strategy. If a claim concerns an ordinary sighting, the key need may be [sensor data]({{ 'sensor-data/' | relative_url }}) and aviation reporting. If a claim concerns a concealed special access programme, the key need is a secure path through classification rules to inspectors general, AARO, and congressional committees. Without such a path, a witness may be trapped between two unacceptable options: remain silent, or risk unlawful disclosure.
 
-The David Grusch case illustrates both the power and limits of this route. Grusch, a former intelligence official, alleged that the US government had concealed UAP retrieval and reverse-engineering programmes; The Debrief reported in 2023 that the Intelligence Community Inspector General had found his complaint “credible and urgent”. His public claims helped drive congressional attention, but much of what he said could not be tested publicly because he said the details were classified or had to be provided in closed settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span><span class="citation-popover-snippet">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span></span></span>
+The David Grusch case illustrates both the power and limits of this route. Grusch, a former intelligence official, alleged that the US government had concealed UAP retrieval and reverse-engineering programmes; The Debrief reported in 2023 that the Intelligence Community Inspector General had found his complaint “credible and urgent”. His public claims helped drive congressional attention, but much of what he said could not be tested publicly because he said the details were classified or had to be provided in closed settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span><span class="citation-popover-snippet">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span></span></span>
 
 That is the recurring tension. Whistleblower protections can bring claims into authorised channels, but they do not by themselves prove that the claims are true. They create access for investigators; they do not substitute for documents, material evidence, sensor records, corroborating witnesses, budget trails, or sworn testimony that can be independently checked.
 
@@ -495,7 +495,7 @@ That is the recurring tension. Whistleblower protections can bring claims into a
 
 The present framework has several practical gaps.
 
-First, AARO’s public reporting page is not a general public UAP reporting portal. It says current military and Defence Department civilian personnel should report operational UAP through command or service channels, civilian pilots should report sightings to air traffic control, and AARO will announce when a reporting mechanism is available to the public. For the special UAP programme report route, the submitter must be a current or former US government employee, service member, or contractor with first-hand knowledge of a US government UAP programme or activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+First, AARO’s public reporting page is not a general public UAP reporting portal. It says current military and Defence Department civilian personnel should report operational UAP through command or service channels, civilian pilots should report sightings to air traffic control, and AARO will announce when a reporting mechanism is available to the public. For the special UAP programme report route, the submitter must be a current or former US government employee, service member, or contractor with first-hand knowledge of a US government UAP programme or activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 Second, there is an unresolved [trust]({{ 'trust/' | relative_url }}) issue. Some witnesses may be reluctant to report to an office within the defence establishment if their allegation is that defence or intelligence components mishandled UAP information. The law tries to address this through congressional notification and inspector-general-style protections, but confidence depends on how visibly and consistently those protections are enforced.
 
@@ -503,7 +503,7 @@ Third, protections against reprisal are only as strong as the reporting procedur
 
 Fourth, UAP reporting spans several communities that do not share the same protection regime. Military personnel, intelligence employees, federal civil servants, commercial pilots, air traffic controllers, and defence contractors face different reporting obligations and career risks. A single phrase such as “UAP whistleblower” therefore hides very different legal situations.
 
-Recent legislative activity suggests some members of Congress see these gaps as unresolved. Rep. Tim Burchett introduced a UAP Whistleblower Protection Act in November 2024, and a 2025 version, H.R. 5060, was introduced by Burchett with Rep. Anna Paulina Luna and referred to the House committees on Oversight and Government Reform, Armed Services, and Intelligence. GovInfo describes H.R. 5060 as a bill “to provide whistleblower protections to Federal personnel for disclosing the use of Federal taxpayer funds to evaluate or research unidentified anomalous phenomenon material”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://burchett.house.gov/[media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: burchett.house.gov">[Representative Tim Burchett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">burchett.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Recent legislative activity suggests some members of Congress see these gaps as unresolved. Rep. Tim Burchett introduced a UAP Whistleblower Protection Act in November 2024, and a 2025 version, H.R. 5060, was introduced by Burchett with Rep. Anna Paulina Luna and referred to the House committees on Oversight and Government Reform, Armed Services, and Intelligence. GovInfo describes H.R. 5060 as a bill “to provide whistleblower protections to Federal personnel for disclosing the use of Federal taxpayer funds to evaluate or research unidentified anomalous phenomenon material”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://burchett.house.gov/[media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: burchett.house.gov">[Representative Tim Burchett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">burchett.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mu9mw6GHPEM" title="House holds hearing on UFO transparency and whistleblower protection | full video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mu9mw6GHPEM" target="_blank" rel="noopener noreferrer">House holds hearing on UFO transparency and whistleblower protection | full video</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 302.0K &middot; Uploaded: September 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mu9mw6GHPEM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mu9mw6GHPEM">Open on YouTube</a></p></div></div></div>
@@ -512,9 +512,9 @@ Recent legislative activity suggests some members of Congress see these gaps as 
 
 A well-designed whistleblower system should protect a person’s right to report without requiring investigators to accept the report as true. That distinction is especially important for UAP because the field contains a mix of unresolved cases, ordinary misidentifications, classified conventional technology, sensor artefacts, sincere but mistaken testimony, and extraordinary claims that require extraordinary evidence.
 
-The Defence Department has repeatedly drawn that line. When AARO launched its historical programme reporting tool in 2023, then-director Sean Kirkpatrick said the office was legally required to bring in whistleblowers or interviewees who believed such programmes existed and might have relevant information, while also saying AARO did not then have evidence that such programmes existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Unidentified Anomalous Phenomena Office Launches New Reporting Tool &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Departm...</span></span></span>(#endnote-8 "Snippet: DOD Unidentified Anomalous Phenomena Office Launches New Reporting Tool > U.S. Department of War > Defense Department News | U.S. Departm...")
+The Defence Department has repeatedly drawn that line. When AARO launched its historical programme reporting tool in 2023, then-director Sean Kirkpatrick said the office was legally required to bring in whistleblowers or interviewees who believed such programmes existed and might have relevant information, while also saying AARO did not then have evidence that such programmes existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Unidentified Anomalous Phenomena Office Launches New Reporting Tool &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Departm...</span></span></span>(#endnote-8 "Snippet: DOD Unidentified Anomalous Phenomena Office Launches New Reporting Tool > U.S. Department of War > Defense Department News | U.S. Departm...")
 
-AARO’s 2024 historical report went further, concluding that it had found no verifiable evidence that any US government investigation, academic-sponsored research, or official review panel had confirmed a UAP sighting as extraterrestrial technology, and no evidence that the US government or private companies had been reverse-engineering extraterrestrial technology. Those findings do not remove the governance need for safe reporting, but they do show why reporting channels must feed into rigorous verification rather than public assumption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Unidentified Anomalous Phenomena Office Launches New Reporting Tool &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Departm...</span></span></span>(#endnote-8 "Snippet: DOD Unidentified Anomalous Phenomena Office Launches New Reporting Tool > U.S. Department of War > Defense Department News | U.S. Departm...")
+AARO’s 2024 historical report went further, concluding that it had found no verifiable evidence that any US government investigation, academic-sponsored research, or official review panel had confirmed a UAP sighting as extraterrestrial technology, and no evidence that the US government or private companies had been reverse-engineering extraterrestrial technology. Those findings do not remove the governance need for safe reporting, but they do show why reporting channels must feed into rigorous verification rather than public assumption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Unidentified Anomalous Phenomena Office Launches New Reporting Tool &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Departm...</span></span></span>(#endnote-8 "Snippet: DOD Unidentified Anomalous Phenomena Office Launches New Reporting Tool > U.S. Department of War > Defense Department News | U.S. Departm...")
 
 For disclosure advocates, this can feel frustrating because protected testimony may remain classified, incomplete, or impossible for the public to evaluate. For sceptics, the same dynamic can look like a loophole in which claims are shielded from scrutiny by secrecy. The best answer is not to weaken witness protection, but to pair it with stronger evidentiary standards: documented provenance, secure evidence handling, independent review where possible, and clear separation between first-hand knowledge, second-hand claims, and speculation.
 
@@ -553,194 +553,194 @@ This verification burden is not hostile to whistleblowers. It is what makes prot
 The strongest case for UAP whistleblower protections is therefore modest but important: they improve the odds that relevant information reaches authorised investigators without forcing witnesses into leaks or silence. Whether a given report points to [drones]({{ 'drones/' | relative_url }}), balloons, sensor errors, classified aircraft, foreign surveillance, atmospheric phenomena, or something still unexplained is a separate question. Safe reporting channels make that question easier to answer honestly.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UAP Witnesses Need Safe Reporting Channels. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UAP Witnesses Need Safe Reporting Channels. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses witness reports and official investigative channels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses witness reports and official investigative channels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Built around testimony from officials and witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around testimony from officials and witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Covers classified environments where reporting barriers arise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers classified environments where reporting barriers arise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Explores testimony, credibility, and evidentiary standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores testimony, credibility, and evidentiary standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="whistleblowers-why-uap-witnesses-need-safe-reporting-channels-ufo-disclosure-movement-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-uap-witnesses-need-safe-reporting-channels-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -756,7 +756,7 @@ The strongest case for UAP whistleblower protections is therefore modest but imp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -776,7 +776,7 @@ The strongest case for UAP whistleblower protections is therefore modest but imp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -808,7 +808,7 @@ The strongest case for UAP whistleblower protections is therefore modest but imp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -860,7 +860,7 @@ The strongest case for UAP whistleblower protections is therefore modest but imp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -905,7 +905,7 @@ The strongest case for UAP whistleblower protections is therefore modest but imp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -946,180 +946,180 @@ The strongest case for UAP whistleblower protections is therefore modest but imp
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uscode.house.gov  
-   Link: <a href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29</a>  
+   Link:<a href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?edition=prelim&amp;f=treesort&amp;jumpTo=true&amp;num=0&amp;req=%28title%3A50+section%3A3373b+edition%3Aprelim%29+OR+%28granuleid%3AUSC-prelim-title50-section3373b%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: whistleblower.house.gov  
-   Link: <a href="https://whistleblower.house.gov/resources/all-resources/committee-jurisdiction-tool/whistleblowing-executive-branch-employee/unidentified-anomalous-phenomena-uap-whistleblowing-under-james-m-inhofe-national-defense-authorization-act-fiscal-year-2023" target="_blank" rel="noopener noreferrer nofollow">https://whistleblower.house.gov/resources/all-resources/committee-jurisdiction-tool/whistleblowing-executive-branch-employee/unidentified-anomalous-phenomena-uap-whistleblowing-under-james-m-inhofe-national-defense-authorization-act-fiscal-year-2023</a>  
+   Link:<a href="https://whistleblower.house.gov/resources/all-resources/committee-jurisdiction-tool/whistleblowing-executive-branch-employee/unidentified-anomalous-phenomena-uap-whistleblowing-under-james-m-inhofe-national-defense-authorization-act-fiscal-year-2023" target="_blank" rel="noopener noreferrer nofollow">https://whistleblower.house.gov/resources/all-resources/committee-jurisdiction-tool/whistleblowing-executive-branch-employee/unidentified-anomalous-phenomena-uap-whistleblowing-under-james-m-inhofe-national-defense-authorization-act-fiscal-year-2023</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
    Title: Submit A Report  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Submit A Report...</p></details>
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Submit A Report...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: govinfo.gov  
    Title: CHRG 118hhrg53022  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: burchett.house.gov  
-   Link: <a href="https://burchett.house.gov/[media" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/[media</a>  
+   Link:<a href="https://burchett.house.gov/[media" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/[media</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: govinfo.gov  
    Title: BILLS 119hr5060ih  
-   Link: <a href="https://www.govinfo.gov/app/details/BILLS-119hr5060ih" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/BILLS-119hr5060ih</a>  
+   Link:<a href="https://www.govinfo.gov/app/details/BILLS-119hr5060ih" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/BILLS-119hr5060ih</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Unidentified Anomalous Phenomena Office Launches New Reporting Tool &gt; U.S. Department of War &gt; Defense Department News | U.S. Departm...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Unidentified Anomalous Phenomena Office Launches New Reporting Tool &gt; U.S. Department of War &gt; Defense Department News | U.S. Departm...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oversight.house.gov  
    Title: hearing wrap up government must be more transparent about uaps  
-   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
+   Link:<a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: burchett.house.gov  
    Title: letter to ic ig re uap hearing  
-   Link: <a href="https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/letter-to-ic-ig-re-uap-hearing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/letter-to-ic-ig-re-uap-hearing.pdf</a>  
+   Link:<a href="https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/letter-to-ic-ig-re-uap-hearing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/letter-to-ic-ig-re-uap-hearing.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oversight.house.gov  
    Title: Ryan HOC Testimony  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: burchett.house.gov  
    Title: rep burchett introduces uap transparency act  
-   Link: <a href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-uap-transparency-act" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/rep-burchett-introduces-uap-transparency-act</a>  
+   Link:<a href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-uap-transparency-act" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/rep-burchett-introduces-uap-transparency-act</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/USCODE-2023-title50/pdf/USCODE-2023-title50-chap45-subchapIV-sec3373.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/USCODE-2023-title50/pdf/USCODE-2023-title50-chap45-subchapIV-sec3373.pdf</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/USCODE-2023-title50/pdf/USCODE-2023-title50-chap45-subchapIV-sec3373.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/USCODE-2023-title50/pdf/USCODE-2023-title50-chap45-subchapIV-sec3373.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: govinfo.gov  
    Title: BILLS 118hr10111ih  
-   Link: <a href="https://www.govinfo.gov/app/details/BILLS-118hr10111ih" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/BILLS-118hr10111ih</a>  
+   Link:<a href="https://www.govinfo.gov/app/details/BILLS-118hr10111ih" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/BILLS-118hr10111ih</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
    Title: the department of defense launches the all domain anomaly resolution office web  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
    Title: department of defense launches secure reporting mechanism on the all domain ano  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non  
-   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
+   Link:<a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/the-pentagons-aaro-rolls-out-its-new-secure-reporting-mechanism-for-uap-sort-of/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-pentagons-aaro-rolls-out-its-new-secure-reporting-mechanism-for-uap-sort-of/</a>  
+   Link:<a href="https://thedebrief.org/the-pentagons-aaro-rolls-out-its-new-secure-reporting-mechanism-for-uap-sort-of/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-pentagons-aaro-rolls-out-its-new-secure-reporting-mechanism-for-uap-sort-of/</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Nancy Mace Straight-Up Asks UAP Whistleblower: 'Are You Scared For Your Safety?'  
-   Link: <a href="http://www.youtube.com/watch?v=K-3JTvYPOmY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=K-3JTvYPOmY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP whistleblower protections NDAA hearing House holds hearing on UFOs, government transparency | full video CBS News...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=K-3JTvYPOmY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=K-3JTvYPOmY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP whistleblower protections NDAA hearing House holds hearing on UFOs, government transparency | full video CBS News...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=reQUctvwcw8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=reQUctvwcw8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW EXCLUSIVE: &quot;Why do we not have whistleblower protection?&quot; UAP Caucus Co-chair hearing takeaway...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=reQUctvwcw8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=reQUctvwcw8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEW EXCLUSIVE: &quot;Why do we not have whistleblower protection?&quot; UAP Caucus Co-chair hearing takeaway...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=rmEimymFmqs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rmEimymFmqs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>House holds hearing on UFO transparency and whistleblower protection | full video...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=rmEimymFmqs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rmEimymFmqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House holds hearing on UFO transparency and whistleblower protection | full video...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=mu9mw6GHPEM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mu9mw6GHPEM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nancy Mace Straight-Up Asks UAP Whistleblower: &#x27;Are You Scared For Your Safety?&#x27;...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mu9mw6GHPEM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mu9mw6GHPEM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nancy Mace Straight-Up Asks UAP Whistleblower: &#x27;Are You Scared For Your Safety?&#x27;...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: House holds hearing on UFOs, government transparency | full video  
-   Link: <a href="http://www.youtube.com/watch?v=SNgoul4vyDM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SNgoul4vyDM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING NEWS: UAP Whistleblower Details Claims US Govt Found Non-Human Intelligent Life In 1930s...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=SNgoul4vyDM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SNgoul4vyDM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING NEWS: UAP Whistleblower Details Claims US Govt Found Non-Human Intelligent Life In 1930s...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/146x0t5/credible_urgent_was_in_reference_to_gruschs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/146x0t5/credible_urgent_was_in_reference_to_gruschs/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/146x0t5/credible_urgent_was_in_reference_to_gruschs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/146x0t5/credible_urgent_was_in_reference_to_gruschs/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dni.gov  
    Title: 3733 2023 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/congressional-members-of-the-uap-caucus-and-whistleblower-david-grusch-will-talk/1018534480553569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/congressional-members-of-the-uap-caucus-and-whistleblower-david-grusch-will-talk/1018534480553569/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/congressional-members-of-the-uap-caucus-and-whistleblower-david-grusch-will-talk/1018534480553569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/congressional-members-of-the-uap-caucus-and-whistleblower-david-grusch-will-talk/1018534480553569/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYmp0HEtr9D/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYmp0HEtr9D/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYmp0HEtr9D/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYmp0HEtr9D/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/former-us-navy-fighter-pilot-ryan-graves-and-retired-rear-admiral-tim-gallaudet-/1021122120294805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/former-us-navy-fighter-pilot-ryan-graves-and-retired-rear-admiral-tim-gallaudet-/1021122120294805/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/former-us-navy-fighter-pilot-ryan-graves-and-retired-rear-admiral-tim-gallaudet-/1021122120294805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/former-us-navy-fighter-pilot-ryan-graves-and-retired-rear-admiral-tim-gallaudet-/1021122120294805/</a>  

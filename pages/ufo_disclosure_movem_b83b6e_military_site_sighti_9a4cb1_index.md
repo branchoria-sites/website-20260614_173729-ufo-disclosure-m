@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-military/
 description: Focused pages that expand on Military Sites.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_military_site_sighti_9a4cb1
 parent_title: Military Sites
@@ -16,7 +16,7 @@ parent_permalink: /military-sites/
 
 # Explore Topics in Military Sites
 
-The following pages expand on the main **[Military Sites]({{ '/military-sites/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Military Sites]({{ '/military-sites/' | relative_url }})** page and cover its key branches in.
 
 - [Langley Drone Incurs 4 D9 B06]({{ '/langley-drone-incurs-4-d9-b06/' | relative_url }})
 - [Official UAP Numbers E5 Aaee]({{ '/official-uap-numbers-e5-aaee/' | relative_url }})

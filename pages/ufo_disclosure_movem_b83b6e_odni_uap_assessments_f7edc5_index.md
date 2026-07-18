@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-odni-uap/
 description: Focused pages that expand on ODNI.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_odni_uap_assessments_f7edc5
 parent_title: ODNI
@@ -16,7 +16,7 @@ parent_permalink: /odni/
 
 # Explore Topics in ODNI
 
-The following pages expand on the main **[ODNI]({{ '/odni/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[ODNI]({{ '/odni/' | relative_url }})** page and cover its key branches in.
 
 - [Active Archive UAP E0 B333]({{ '/active-archive-uap-e0-b333/' | relative_url }})
 - [Multi Sensor Limits Fcdfd 0]({{ '/multi-sensor-limits-fcdfd-0/' | relative_url }})

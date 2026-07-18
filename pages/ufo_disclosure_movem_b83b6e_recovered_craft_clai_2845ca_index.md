@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-recovered/
 description: Focused pages that expand on Recovered Craft.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_recovered_craft_clai_2845ca
 parent_title: Recovered Craft
@@ -16,7 +16,7 @@ parent_permalink: /recovered-craft/
 
 # Explore Topics in Recovered Craft
 
-The following pages expand on the main **[Recovered Craft]({{ '/recovered-craft/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Recovered Craft]({{ '/recovered-craft/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Metal Sample 3 D8 F81]({{ '/aaro-metal-sample-3-d8-f81/' | relative_url }})
 - [Classified Programme 24326 F]({{ '/classified-programme-24326-f/' | relative_url }})

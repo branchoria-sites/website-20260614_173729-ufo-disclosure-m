@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-disclosure-movem-b83b6e-aaro/
 description: Focused pages that expand on AARO Reports.
-date: '2026-06-13'
+date: '2026'
 layout: default
 parent_basename: ufo_disclosure_movem_b83b6e_aaro_reports_d20d47
 parent_title: AARO Reports
@@ -16,7 +16,7 @@ parent_permalink: /aaro-reports/
 
 # Explore Topics in AARO Reports
 
-The following pages expand on the main **[AARO Reports]({{ '/aaro-reports/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[AARO Reports]({{ '/aaro-reports/' | relative_url }})** page and cover its key branches in.
 
 - [AARO 21 Cases]({{ '/aaro-21-cases/' | relative_url }})
 - [AARO Active Archive 7 C5 De 4]({{ '/aaro-active-archive-7-c5-de-4/' | relative_url }})
