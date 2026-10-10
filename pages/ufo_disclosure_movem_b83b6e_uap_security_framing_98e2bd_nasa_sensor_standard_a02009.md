@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:23:03'
 level: 3
 basename: ufo_disclosure_movem_b83b6e_uap_security_framing_98e2bd_nasa_sensor_standard_a02009
 parent_basename: ufo_disclosure_movem_b83b6e_uap_security_framing_98e2bd
