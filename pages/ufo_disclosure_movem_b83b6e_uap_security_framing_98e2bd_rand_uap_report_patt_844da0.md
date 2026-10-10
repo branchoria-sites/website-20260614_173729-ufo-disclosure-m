@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:23:03'
 level: 3
 basename: ufo_disclosure_movem_b83b6e_uap_security_framing_98e2bd_rand_uap_report_patt_844da0
 parent_basename: ufo_disclosure_movem_b83b6e_uap_security_framing_98e2bd
