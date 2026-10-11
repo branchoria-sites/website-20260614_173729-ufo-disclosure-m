@@ -798,7 +798,6 @@ That is why the UAP records law matters beyond the UFO issue itself. It offers a
 
 5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 26.20249 May 2024 — This AC memo announces the guidance to agencies on what information is needed to create and manag...</p></details>
    Published: May 2024  
 
@@ -814,7 +813,6 @@ That is why the UAP records law matters beyond the UFO issue itself. It offers a
 
 8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AC 04.2025Oct 10, 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all UAP records ident...</p></details>
    Published: September 30, 2025  
 

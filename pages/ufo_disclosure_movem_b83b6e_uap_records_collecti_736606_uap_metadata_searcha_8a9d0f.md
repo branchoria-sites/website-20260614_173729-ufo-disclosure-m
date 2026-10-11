@@ -806,7 +806,6 @@ That makes metadata more than an administrative afterthought. In a records colle
 
 3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 26.20249 May 2024 — This AC memo announces the guidance to agencies on what information is needed to create and manag...</p></details>
    Published: May 2024  
 
@@ -818,7 +817,6 @@ That makes metadata more than an administrative afterthought. In a records colle
 
 5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 13.20246 Feb 2024 — To expedite the collection process, agencies should begin identifying all unidentified anomalous...</p></details>
 
 6.<a id="endnote-6"></a>
@@ -845,7 +843,6 @@ That makes metadata more than an administrative afterthought. In a records colle
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</p></details>
    Published: September 30, 2025  
 

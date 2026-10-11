@@ -963,7 +963,6 @@ The most realistic standard is not whether RG 615 produces a single conclusive U
 
 7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 8.<a id="endnote-8"></a>
    Source: archives.gov  

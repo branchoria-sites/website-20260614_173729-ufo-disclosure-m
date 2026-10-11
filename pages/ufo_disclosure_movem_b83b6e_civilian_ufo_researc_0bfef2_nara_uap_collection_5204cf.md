@@ -792,7 +792,6 @@ For the broader UFO disclosure movement, that shift is important. Archive campai
 
 6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.2025Oct 10, 2024 — UAP records transferred to NARA in accordance with the Act will be part of Record Group 615, Un...</p></details>
 
 7.<a id="endnote-7"></a>

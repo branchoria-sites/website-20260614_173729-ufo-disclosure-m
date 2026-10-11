@@ -1061,7 +1061,6 @@ That leaves the movement in a tense but important position. Its most credible fu
 
 33.<a id="endnote-33"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 34.<a id="endnote-34"></a>
    Source: archives.gov  

@@ -779,7 +779,6 @@ For that reason, debates over "missing UAP records" are often less about any spe
 
 5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 13.20246 Feb 2024 — The law directs NARA to create a standard form or finding aid for agency use in identifying and r...</p></details>
 
 6.<a id="endnote-6"></a>
@@ -795,7 +794,6 @@ For that reason, debates over "missing UAP records" are often less about any spe
 
 8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</p></details>
    Published: September 30, 2025  
 

@@ -759,7 +759,6 @@ Even critics who view the final law as a watered-down version of the original Sc
 
 5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 13.20246 Feb 2024 — The law directs NARA to create a standard form or finding aid for agency use in identifying and r...</p></details>
 
 6.<a id="endnote-6"></a>
@@ -787,7 +786,6 @@ Even critics who view the final law as a watered-down version of the original Sc
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — UAP records transferred to NARA in accordance with the Act will be part of Record Group 615, Uni...</p></details>
 
 11.<a id="endnote-11"></a>
