@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ufo-disclosure-movement/
 - /trust/
 nav_short_title: Rand UAP Report Patt 844 Da 0
-title: Rand UAP Report Patt 844 Da 0
+title: "Rand UAP Report Patt 844 Da 0 (Why Public Trust Is the Real UFO Battlefield)"
 title_full: Rand UAP Report Patt 844 Da 0
 display_title_short: Rand UAP Report Patt 844 Da 0
 display_title: Rand UAP Report Patt 844 Da 0

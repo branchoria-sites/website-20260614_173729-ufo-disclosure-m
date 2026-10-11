@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ufo-disclosure-movement/
 - /whistleblowers/
 nav_short_title: NASA UAP Data Gap 1 A7797
-title: NASA UAP Data Gap 1 A7797
+title: "NASA UAP Data Gap 1 A7797 (Why UAP Witnesses Need Safe Reporting Channels)"
 title_full: NASA UAP Data Gap 1 A7797
 display_title_short: NASA UAP Data Gap 1 A7797
 display_title: NASA UAP Data Gap 1 A7797

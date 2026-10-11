@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ufo-disclosure-movement/
 - /odni/
 nav_short_title: NASA UAP Data Gap 1 A7797
-title: NASA UAP Data Gap 1 A7797
+title: "NASA UAP Data Gap 1 A7797 (Why Official UAP Reports Keep Saying Data Is Weak)"
 title_full: NASA UAP Data Gap 1 A7797
 display_title_short: NASA UAP Data Gap 1 A7797
 display_title: NASA UAP Data Gap 1 A7797
