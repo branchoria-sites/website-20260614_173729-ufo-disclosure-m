@@ -782,7 +782,7 @@ That distinction matters for public trust. Trust is not built only by releasing 
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — This memo is for federal agencies with UAP records responsive to sections 1841–1843 of the 2024...</p></details>
 
 11.<a id="endnote-11"></a>

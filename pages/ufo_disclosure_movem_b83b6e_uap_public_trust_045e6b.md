@@ -1021,7 +1021,7 @@ The strongest version of UAP transparency is therefore not a promise that the mo
 
 22.<a id="endnote-22"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 23.<a id="endnote-23"></a>
    Source: archives.gov  
