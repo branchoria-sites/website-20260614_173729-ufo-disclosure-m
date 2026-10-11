@@ -1028,11 +1028,11 @@ The best version of UAP media coverage would keep three truths in view at the sa
 
 23.<a id="endnote-23"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 24.<a id="endnote-24"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 25.<a id="endnote-25"></a>
    Source: archives.gov  

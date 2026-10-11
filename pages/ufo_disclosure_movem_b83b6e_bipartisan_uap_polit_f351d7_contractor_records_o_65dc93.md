@@ -814,7 +814,7 @@ What endures politically is not agreement about the claims themselves, but agree
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 26.20249 May 2024 — This AC memo announces the guidance to agencies on what information is needed to create and manag...</p></details>
    Published: May 2024  
 
@@ -836,7 +836,7 @@ What endures politically is not agreement about the claims themselves, but agree
 
 14.<a id="endnote-14"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AC 13.20246 Feb 2024 — The law directs NARA to create a standard form or finding aid for agency use in identifying and reviewing records...</p></details>
 
 15.<a id="endnote-15"></a>
