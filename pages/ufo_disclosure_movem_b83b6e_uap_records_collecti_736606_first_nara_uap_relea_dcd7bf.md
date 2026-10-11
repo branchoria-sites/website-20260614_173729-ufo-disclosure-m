@@ -755,7 +755,6 @@ For historians of the UFO disclosure movement, the first release is therefore be
 
 4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — UAP records transferred to NARA in accordance with the Act will be part of Record Group 615, Uni...</p></details>
 
 5.<a id="endnote-5"></a>

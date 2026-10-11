@@ -971,7 +971,6 @@ The surviving law is therefore best understood as a partial win for archival tra
 
 12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 13.<a id="endnote-13"></a>
    Source: archives.gov  
