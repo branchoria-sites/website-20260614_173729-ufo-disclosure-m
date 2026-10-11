@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ufo-disclosure-movement/
 - /researchers/
 nav_short_title: Nara UAP Collection 5204 Cf
-title: Nara UAP Collection 5204 Cf
+title: "Nara UAP Collection 5204 Cf (How Civilian Researchers Keep UFO Files Moving)"
 title_full: Nara UAP Collection 5204 Cf
 display_title_short: Nara UAP Collection 5204 Cf
 display_title: Nara UAP Collection 5204 Cf
