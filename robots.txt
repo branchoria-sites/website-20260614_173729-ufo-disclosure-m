@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uap-disclosure.isaackoi.com/sitemap.xml
