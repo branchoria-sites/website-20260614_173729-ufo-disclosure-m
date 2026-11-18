@@ -1,7 +1,7 @@
 title: 'UAP Disclosure'
 short_title: 'UAP Disclosure'
 brand_name: 'Branchoria'
-brand_domain: 'branchoria.com'
+brand_domain: 'isaackoi.com'
 description: 'Practical guides on UAP Disclosure, organized for fast browsing and comparison.'
 tagline: 'Evidence-led paths through UFO secrecy, hearings, records, witnesses, and unresolved cases.'
 encoding: utf-8
@@ -32,7 +32,7 @@ endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
 baseurl: ""
-url: "https://uap-disclosure.branchoria.com"
+url: "https://uap-disclosure.isaackoi.com"
 ui_priority: 'home-first'
 homepage_audience_mode: 'production'
 homepage_copy_policy: 'polished'
